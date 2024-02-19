@@ -1,0 +1,118 @@
+illust_special7_2.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.78
+arm(L)_1
+bounds:235,40,37,43
+arm(L)_2
+bounds:270,82,90,36
+arm(L)_3
+bounds:2,131,49,108
+rotate:90
+arm(R)_1
+bounds:71,489,54,142
+arm(R)_2
+bounds:140,40,41,44
+arm(R)_3
+bounds:274,36,41,37
+rotate:180
+back hair1_1
+bounds:59,89,48,163
+rotate:90
+back hair1_2
+bounds:351,596,94,165
+rotate:180
+back hair1_3
+bounds:305,55,47,131
+rotate:270
+back hair1_4
+bounds:231,279,167,350
+back hair2_1
+bounds:224,89,114,185
+rotate:270
+back hair2_2
+bounds:242,283,102,188
+rotate:180
+back hair2_3
+bounds:2,534,51,149
+back hair2_4
+bounds:2,201,151,325
+rotate:180
+back hair3_1
+bounds:353,462,55,118
+back hair3_2
+bounds:184,209,40,212
+rotate:90
+back hair3_3
+bounds:48,142,90,319
+rotate:270
+bang_1
+bounds:408,379,40,69
+bang_2
+bounds:376,78,48,125
+rotate:180
+bang_3
+bounds:143,315,26,75
+bang_4
+bounds:2,2,35,76
+rotate:90
+body
+bounds:2,259,327,502
+breast string_1
+bounds:2,52,60,98
+rotate:270
+breast string_2
+bounds:2,11,58,101
+rotate:90
+breast string_3
+bounds:372,39,87,80
+rotate:90
+breast string_4
+bounds:47,542,39,67
+breast string_5
+bounds:112,18,49,82
+rotate:90
+breast string_6
+bounds:390,2,60,75
+rotate:180
+breast_1
+bounds:2,740,17,21
+breast_2
+bounds:81,630,12,20
+breast_3
+bounds:293,631,59,41
+rotate:90
+breast_4
+bounds:254,594,44,44
+rotate:180
+breast_5
+bounds:100,64,49,41
+breast_6
+bounds:44,610,35,59
+offsets:1,0,36,59
+face
+bounds:125,421,62,73
+frill_1
+bounds:408,493,37,98
+frill_2
+bounds:379,390,45,101
+frill_3
+bounds:144,66,44,95
+rotate:90
+frill_4
+bounds:189,13,37,50
+frill_5
+bounds:384,278,61,110
+frill_6
+bounds:399,190,44,86
+hair
+bounds:2,62,68,100
+rotate:270
+head_1
+bounds:389,715,46,60
+rotate:90
+head_2
+bounds:110,458,32,60
+leg
+bounds:330,575,83,164
+rotate:180

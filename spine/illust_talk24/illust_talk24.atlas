@@ -1,0 +1,355 @@
+illust_talk24.png
+size:2048,2048
+filter:Linear,Linear
+b_ Irregularty_1
+bounds:1973,1888,65,158
+offsets:0,0,65,159
+b_ Irregularty_2
+bounds:1328,1111,144,90
+offsets:0,1,144,92
+b_ Irregularty_3
+bounds:533,1907,138,139
+b_ hair_1
+bounds:293,1469,52,97
+b_ hair_10
+bounds:1335,1356,64,142
+b_ hair_11
+bounds:635,1038,61,143
+rotate:90
+b_ hair_12
+bounds:1579,1311,233,309
+b_ hair_13
+bounds:2,1049,106,64
+offsets:0,1,106,65
+b_ hair_2
+bounds:1851,1036,46,159
+b_ hair_3
+bounds:257,1277,45,158
+offsets:45,1,90,159
+b_ hair_4
+bounds:241,1863,41,82
+offsets:0,4,41,86
+b_ hair_5
+bounds:252,1047,56,137
+rotate:90
+b_ hair_6
+bounds:1778,1062,88,151
+b_ hair_7
+bounds:2,1280,69,143
+b_ hair_8
+bounds:1221,1043,61,133
+offsets:0,1,61,134
+rotate:90
+b_ hair_9
+bounds:15,1228,53,87
+offsets:0,1,53,88
+b_arm(R)_1
+bounds:266,1126,112,428
+b_belt_1
+bounds:1001,1065,219,66
+b_body_1
+bounds:2,1122,321,924
+offsets:0,173,321,1097
+b_braid hair_1
+bounds:1120,1018,309,246
+rotate:180
+b_braid hair_2
+bounds:1419,1021,104,89
+b_cape_1
+bounds:853,1021,185,267
+rotate:90
+b_cape_2
+bounds:781,1109,230,163
+rotate:180
+b_cape_3
+bounds:932,1494,63,49
+offsets:0,1,63,51
+b_cape_4
+bounds:917,1498,548,352
+rotate:270
+b_cape_5
+bounds:1932,1622,114,131
+b_cape_6
+bounds:1495,1369,83,88
+b_leg(L) ribbon_1
+bounds:2,1959,31,87
+offsets:0,0,32,87
+b_leg(L) ribbon_2
+bounds:1146,1935,19,111
+offsets:0,1,19,113
+b_leg(L)_1
+bounds:1128,1160,215,489
+b_leg(R)_ribbon_1
+bounds:308,1966,50,80
+offsets:1,0,52,80
+b_leg(R)_ribbon_2
+bounds:586,1559,24,96
+offsets:1,0,25,96
+f_ Irregularty_1
+bounds:2,1678,50,162
+offsets:0,1,51,164
+f_ Irregularty_2
+bounds:669,1955,152,91
+offsets:0,0,152,92
+f_ Irregularty_3
+bounds:1165,1909,132,137
+offsets:1,0,133,137
+f_arm(L)1_1
+bounds:1882,1804,156,242
+f_arm(L)1_2
+bounds:1344,1110,229,176
+f_arm(L)1_hand_1
+bounds:1921,1831,50,61
+offsets:1,1,51,62
+f_arm(L)1_hand_2
+bounds:660,2004,40,42
+offsets:2,1,43,43
+f_arm(L)1_hand_3
+bounds:1222,1880,47,30
+offsets:1,0,49,31
+f_arm(L)1_hand_4
+bounds:421,2028,35,18
+offsets:1,1,37,19
+f_arm(L)1_hand_5
+bounds:1597,1133,68,59
+offsets:0,0,69,60
+f_arm(L)1_hand_6
+bounds:1072,1957,75,89
+offsets:0,1,75,90
+f_arm(R)_1
+bounds:643,1302,214,510
+rotate:90
+f_arm(R)_hand_1
+bounds:1491,1751,21,66
+offsets:0,1,21,68
+f_arm(R)_hand_2
+bounds:1264,1655,22,84
+f_arm(R)_hand_3
+bounds:2020,1573,26,89
+offsets:0,0,26,90
+f_arm(R)_hand_4
+bounds:950,1941,22,72
+offsets:2,0,25,72
+f_arm(R)_hand_5
+bounds:242,1944,69,102
+f_arm(R)_hand_6
+bounds:2,1861,36,87
+f_back hair_1
+bounds:897,1887,77,142
+f_back hair_2
+bounds:861,1468,88,138
+offsets:33,0,121,138
+f_belt_1
+bounds:1554,1051,206,77
+f_body_1
+bounds:286,1322,298,724
+rotate:180
+f_braid hair ribbon_1
+bounds:1999,1758,47,48
+offsets:0,1,49,49
+f_braid hair ribbon_2
+bounds:254,1799,53,66
+offsets:1,1,54,67
+f_braid hair ribbon_3
+bounds:928,1199,37,97
+offsets:1,0,38,97
+f_braid hair_1
+bounds:189,1041,270,306
+offsets:0,0,303,306
+rotate:270
+f_braid hair_2
+bounds:503,1080,251,446
+rotate:90
+f_breast_1
+bounds:471,1160,65,89
+offsets:0,1,66,90
+f_breast_2
+bounds:497,1134,184,212
+f_breast_3
+bounds:1622,1105,157,204
+f_cape_1
+bounds:1904,1067,142,348
+f_cape_1_1
+bounds:1345,1291,63,49
+offsets:1,0,64,50
+f_cape_2
+bounds:586,1548,498,347
+rotate:90
+f_cape_2_1
+bounds:607,1593,56,39
+offsets:1,4,58,44
+f_cape_3
+bounds:1940,1042,106,190
+f_face_normal_1
+bounds:948,1190,183,231
+offsets:0,1,183,232
+f_face_normal_eye(L)1
+bounds:1329,2012,23,34
+offsets:0,1,24,35
+f_face_normal_eye(L)2
+bounds:580,1375,48,57
+f_face_normal_eye(R)1
+bounds:538,2012,25,34
+offsets:1,1,26,35
+f_face_normal_eye(R)2
+bounds:682,1252,70,48
+f_face_normal_eyebrow(L)
+bounds:1032,2000,39,18
+f_face_normal_eyebrow(R)
+bounds:1034,1510,56,10
+offsets:2,0,59,10
+f_face_normal_eyelinel(L)_1
+bounds:228,1357,46,36
+f_face_normal_eyelinel(R)_1
+bounds:1934,1360,65,33
+offsets:0,0,66,33
+f_face_normal_mouth
+bounds:1697,2030,27,16
+offsets:0,0,27,17
+f_face_serious_1
+bounds:1776,1196,183,231
+offsets:0,1,183,232
+f_face_serious_eye(L)_1
+bounds:1252,2014,22,32
+offsets:1,0,24,33
+f_face_serious_eye(L)_2
+bounds:1814,1480,44,55
+f_face_serious_eye(R)_1
+bounds:2,1831,28,35
+offsets:1,1,30,36
+f_face_serious_eye(R)_2
+bounds:463,1997,73,49
+f_face_serious_eyebrow(L)
+bounds:669,1944,52,10
+f_face_serious_eyebrow(R)
+bounds:884,1348,77,21
+f_face_serious_eyelinel(R)_1
+bounds:1505,1345,62,29
+offsets:0,0,63,29
+f_face_serious_mouth
+bounds:503,1977,29,18
+offsets:1,0,30,19
+f_face_seriousl_eyelinel(L)_1
+bounds:682,1216,46,34
+offsets:1,0,48,34
+f_face_sigh_1
+bounds:1863,1395,183,231
+offsets:0,1,183,232
+f_face_sigh_eye(L)
+bounds:310,1710,41,27
+offsets:0,1,41,29
+f_face_sigh_eye(R)
+bounds:573,1877,57,28
+offsets:0,1,57,29
+f_face_sigh_eyebrow(L)
+bounds:1141,1588,37,22
+f_face_sigh_eyebrow(R)
+bounds:857,1335,69,11
+f_face_sigh_mouth
+bounds:701,2027,23,19
+offsets:0,0,23,20
+f_face_worry _eyelinel(L)_1
+bounds:1542,1470,46,36
+f_face_worry_1
+bounds:585,1415,183,231
+offsets:0,1,183,232
+rotate:90
+f_face_worry_eye(L)_1
+bounds:1954,2015,25,31
+offsets:0,0,26,31
+f_face_worry_eye(L)_2
+bounds:1275,1993,52,53
+f_face_worry_eye(R)_1
+bounds:1454,2009,24,28
+offsets:0,0,24,29
+f_face_worry_eye(R)_2
+bounds:1094,1534,70,50
+f_face_worry_eyebrow(L)
+bounds:1025,2020,42,26
+f_face_worry_eyebrow(R)
+bounds:1047,1521,70,11
+f_face_worry_eyelinel(R)_1
+bounds:848,1448,65,33
+offsets:0,0,66,33
+f_face_worry_mouth
+bounds:820,2026,27,20
+offsets:0,1,27,21
+f_front hair_1
+bounds:764,1261,92,77
+offsets:0,1,93,79
+f_front hair_10
+bounds:1056,1369,71,74
+offsets:1,1,72,75
+f_front hair_11
+bounds:788,1416,72,132
+f_front hair_12
+bounds:295,1567,71,140
+f_front hair_13
+bounds:367,1231,49,134
+f_front hair_14
+bounds:77,1028,76,115
+offsets:2,0,78,116
+rotate:90
+f_front hair_15
+bounds:1384,1231,269,243
+rotate:90
+f_front hair_16
+bounds:423,1159,60,51
+offsets:0,1,60,52
+f_front hair_17
+bounds:1435,1963,41,83
+offsets:0,1,42,84
+f_front hair_2
+bounds:15,1626,41,95
+offsets:0,2,43,98
+f_front hair_3
+bounds:1806,1396,58,71
+f_front hair_4
+bounds:727,1029,99,113
+f_front hair_5
+bounds:894,1814,65,125
+f_front hair_6
+bounds:1566,1128,55,111
+offsets:0,0,56,111
+f_front hair_7
+bounds:1643,1922,69,124
+f_front hair_8
+bounds:655,1392,41,102
+rotate:90
+f_front hair_9
+bounds:1485,1029,58,89
+offsets:1,0,59,89
+f_glasses_1
+bounds:381,1063,126,77
+offsets:0,0,127,77
+f_glasses_2
+bounds:930,2033,22,13
+offsets:0,0,31,15
+f_glasses_3
+bounds:1283,1973,33,18
+offsets:0,0,34,19
+f_glasses_4
+bounds:953,2031,15,15
+offsets:1,1,16,16
+f_leg(L)_1
+bounds:1472,1508,239,538
+rotate:180
+f_leg(L)_ribbon_1
+bounds:1669,1606,58,67
+offsets:0,1,58,68
+f_leg(L)_ribbon_2
+bounds:281,1534,33,121
+offsets:1,0,34,122
+f_leg(R)_1
+bounds:1270,1497,227,549
+rotate:180
+f_leg(R)_ribbon_1
+bounds:1944,1750,52,74
+offsets:0,1,52,76
+f_leg(R)_ribbon_2
+bounds:2,1542,25,91
+offsets:1,1,26,92
+f_tie_1
+bounds:2,1064,134,145
+레이어 645
+bounds:1710,1537,233,509

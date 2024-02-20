@@ -1,0 +1,289 @@
+char061001.png
+size:1024,1024
+filter:Linear,Linear
+Back_ribbon1
+bounds:685,229,100,95
+Back_ribbon2
+bounds:658,863,70,70
+Back_ribbon3
+bounds:474,287,156,285
+rotate:90
+Back_ribbon4
+bounds:712,520,103,278
+rotate:90
+Bottom deck
+bounds:526,171,98,63
+Bottom1-1
+bounds:199,163,98,81
+Bottom1-2
+bounds:870,206,152,101
+Bottom1-2back
+bounds:581,225,103,73
+Bottom1-3
+bounds:319,612,67,45
+Bottom1-4
+bounds:767,191,150,97
+Bottom1-5
+bounds:156,588,61,58
+Bottom1-6
+bounds:631,961,107,61
+Bottom2
+bounds:409,209,100,76
+Bottom_skirt 1
+bounds:362,383,239,164
+offsets:0,0,239,172
+rotate:180
+Bottom_skirt 2
+bounds:781,618,241,158
+Bottom_skirt back1
+bounds:193,612,410,153
+rotate:270
+Eyebrow_normal1
+bounds:887,615,23,11
+Eyebrow_normal2
+bounds:385,618,34,11
+Eyebrow_skill1_1
+bounds:388,631,35,12
+Eyebrow_skill1_2
+bounds:714,1014,20,8
+Eyebrow_skill2_1
+bounds:865,827,34,11
+Eyebrow_skill2_2
+bounds:169,695,23,11
+Hand(L)_1
+bounds:848,777,57,47
+offsets:7,12,64,59
+Hand(L)_2
+bounds:716,626,45,19
+Hand(L)_3_re
+bounds:346,1005,17,17
+Hand(R)_1
+bounds:159,648,36,44
+Hand(R)_2
+bounds:475,976,27,46
+Hand(R)_3
+bounds:330,436,31,39
+offsets:0,0,31,57
+Hand(R)_3-1
+bounds:887,994,27,28
+Hand(R)_3-2
+bounds:716,729,22,22
+Hand(R)_4
+bounds:837,574,69,43
+Hand(R)_5_1
+bounds:556,788,23,30
+Hand(R)_5_2
+bounds:661,934,36,30
+offsets:2,0,38,30
+Magic_wand
+bounds:272,273,224,176
+Magic_wand_ribbon1-1
+bounds:587,140,71,51
+Magic_wand_ribbonrope1-1
+bounds:459,494,57,86
+rotate:90
+Magic_wand_ribbonrope2-1
+bounds:2,761,25,89
+Side hair_Back1-2
+bounds:346,794,49,81
+Side hair_Back_skill2
+bounds:103,207,63,77
+Side hair_Front1-2
+bounds:638,174,53,141
+rotate:90
+Side hair_Front_skill2
+bounds:735,645,61,115
+Side hair_Front_skill3
+bounds:903,132,39,64
+Upper body
+bounds:698,751,216,271
+Upper body_rope1-2
+bounds:466,327,60,45
+Upper body_rope2-2
+bounds:365,781,22,43
+offsets:0,0,22,44
+arm(L)_1
+bounds:856,344,112,80
+arm(L)_2
+bounds:682,518,127,67
+offsets:22,84,149,151
+arm(L)_2_1
+bounds:239,404,31,55
+arm(L)_2_2
+bounds:295,140,46,71
+arm(R)_1
+bounds:2,538,80,161
+arm(R)_1_1
+bounds:442,138,83,70
+arm(R)_1_2
+bounds:780,164,78,59
+arm(R)_2
+bounds:908,551,114,109
+back hair1
+bounds:969,467,53,60
+back hair14-1
+bounds:81,148,78,129
+rotate:90
+back hair15-1
+bounds:897,154,84,110
+rotate:180
+back hair19
+bounds:344,645,238,377
+rotate:180
+back hair19-1
+bounds:2,170,96,75
+back hair2-1
+bounds:669,289,104,353
+rotate:90
+back hair4
+bounds:46,163,117,186
+rotate:90
+back hair4-1
+bounds:456,624,106,121
+rotate:180
+back hair5
+bounds:2,566,202,456
+back hair6-2
+bounds:564,563,150,459
+rotate:180
+back hair8-1
+bounds:319,177,142,350
+rotate:270
+breast_1
+bounds:275,461,93,70
+breast_2
+bounds:478,663,58,66
+breast_pin 1
+bounds:910,623,47,14
+breast_pin2
+bounds:974,553,40,15
+closed eyes_1
+bounds:730,895,24,27
+closed eyes_2
+bounds:733,993,41,29
+closed eyes_skill1_1
+bounds:675,841,36,20
+offsets:0,0,37,20
+closed eyes_skill1_2
+bounds:2,700,24,15
+ear
+bounds:993,565,29,41
+eye_1
+bounds:479,956,13,18
+eye_2
+bounds:345,771,18,21
+eye_3
+bounds:146,987,24,35
+eye_4
+bounds:859,144,42,45
+eye_skill1
+bounds:218,1004,13,18
+eye_skill2
+bounds:607,852,18,21
+eyes line_normal_1
+bounds:550,744,38,17
+offsets:0,0,40,17
+eyes line_normal_2
+bounds:171,709,21,18
+eyes line_skill_1
+bounds:215,602,38,17
+face_normal
+bounds:2,247,132,158
+face_skill1
+bounds:345,864,132,158
+rotate:180
+face_skill2
+bounds:137,275,132,158
+rotate:90
+hair deck ribbon1-2
+bounds:719,130,50,122
+offsets:1,0,51,122
+rotate:270
+hair deck ribbon2-2
+bounds:324,137,39,101
+rotate:90
+hair deck ribbon_skill1-2
+bounds:762,365,62,113
+offsets:2,0,64,113
+rotate:90
+hair deck ribbon_skill2-2
+bounds:562,121,55,96
+rotate:270
+hair deck1
+bounds:83,511,49,56
+hair deck2
+bounds:989,978,32,44
+offsets:0,0,36,44
+hair deck3
+bounds:187,148,51,56
+offsets:0,78,89,134
+hair deck4
+bounds:993,939,23,39
+hair deck5
+bounds:315,979,29,43
+offsets:0,0,42,43
+hair deck6
+bounds:2,718,21,27
+hair pin
+bounds:565,758,92,61
+rotate:90
+hair_Front1
+bounds:952,383,70,80
+hair_Front4
+bounds:584,859,25,76
+hair_Front5
+bounds:172,955,45,67
+offsets:0,1,45,68
+hair_Front_skill1
+bounds:962,132,60,79
+hair_Front_skill2
+bounds:233,218,84,77
+offsets:0,1,84,78
+hair_Front_skill6
+bounds:873,840,32,81
+hair_Front_skill7
+bounds:976,246,46,66
+leg(L)1
+bounds:2,407,102,250
+rotate:90
+leg(L)1-3
+bounds:563,426,135,399
+rotate:90
+leg(L)_ribbon1
+bounds:234,473,42,38
+leg(L)_ribbon4
+bounds:540,749,22,37
+leg(L)_ribbon5
+bounds:644,921,14,38
+leg(R)1
+bounds:903,774,102,248
+leg(R)1-3
+bounds:134,499,120,437
+rotate:90
+leg(R)_ribbon1
+bounds:364,231,42,40
+leg(R)_ribbon4
+bounds:347,880,23,45
+leg(R)_ribbon5
+bounds:1009,891,13,46
+mouth_normal
+bounds:426,622,35,28
+offsets:0,2,35,30
+mouth_skill1
+bounds:347,867,22,12
+mouth_skill2
+bounds:538,621,32,18
+sweat1
+bounds:459,1013,14,9
+sweat2
+bounds:2,1016,5,6
+sweat3
+bounds:584,968,12,15
+sweat4
+bounds:776,1013,13,9
+sweat5
+bounds:584,943,17,20
+sweat_effect1
+bounds:188,933,21,21
+sweat_effect2
+bounds:674,154,43,44

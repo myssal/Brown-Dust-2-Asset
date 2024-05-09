@@ -351,6 +351,19 @@
 		]
 	},
 	{
+		"idChar": "0032",
+		"charName": "Loen",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "003201",
+				"costumeName": "Last Hope",
+				"spine": "",
+				"cutscene": "cutscene_char003201"
+			}
+		]
+	},
+	{
 		"idChar": "0603",
 		"charName": "Alec",
 		"rarity": "5",
@@ -485,7 +498,7 @@
 				"idCostume": "061001",
 				"costumeName": "Top Idol",
 				"spine": "char061001",
-				"cutscene": ""
+				"cutscene": "cutscene_char061001"
 			},
 			{
 				"idCostume": "061002",

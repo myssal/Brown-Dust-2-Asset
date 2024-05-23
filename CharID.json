@@ -364,6 +364,25 @@
 		]
 	},
 	{
+		"idChar": "0201",
+		"charName": "Roxy",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020101",
+				"costumeName": "Respected Master",
+				"spine": "char020101",
+				"cutscene": "cutscene_char020101"
+			},
+			{
+				"idCostume": "020102",
+				"costumeName": "Emerging Desire",
+				"spine": "char020102",
+				"cutscene": "cutscene_char020102"
+			}
+		]
+	},
+	{
 		"idChar": "0603",
 		"charName": "Alec",
 		"rarity": "5",

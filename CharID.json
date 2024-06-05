@@ -364,6 +364,25 @@
 		]
 	},
 	{
+		"idChar": "0200",
+		"charName": "Eris",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020001",
+				"costumeName": "Esteemed Adventurer",
+				"spine": "char020001",
+				"cutscene": "cutscene_char020101"
+			},
+			{
+				"idCostume": "020002",
+				"costumeName": "Your Very Own Cat",
+				"spine": "char020002",
+				"cutscene": "cutscene_char020102"
+			}
+		]
+	},
+	{
 		"idChar": "0201",
 		"charName": "Roxy",
 		"rarity": "5",

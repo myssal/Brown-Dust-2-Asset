@@ -364,6 +364,19 @@
 		]
 	},
 	{
+		"idChar": "0033",
+		"charName": "Nebris",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "003302",
+				"costumeName": "Laid-back Lifeguard",
+				"spine": "char003302",
+				"cutscene": "cutscene_char003302"
+			}
+		]
+	},
+	{
 		"idChar": "0200",
 		"charName": "Eris",
 		"rarity": "5",
@@ -575,6 +588,12 @@
 				"costumeName": "Bright Moon",
 				"spine": "char061302",
 				"cutscene": "cutscene_char061302"
+			},
+			{
+				"idCostume": "061305",
+				"costumeName": "Summer Vacation",
+				"spine": "char061305",
+				"cutscene": "cutscene_char061305"
 			}
 		]
 	},
@@ -780,6 +799,19 @@
 				"costumeName": "Comeback Idol",
 				"spine": "char067102",
 				"cutscene": "cutscene_char067102"
+			}
+		]
+	},
+	{
+		"idChar": "0672",
+		"charName": "Venaka",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "067201",
+				"costumeName": "DJ",
+				"spine": "char067201",
+				"cutscene": "cutscene_char067201"
 			}
 		]
 	},

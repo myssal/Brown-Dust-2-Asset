@@ -377,6 +377,19 @@
 		]
 	},
 	{
+		"idChar": "0035",
+		"charName": "Sacred Justia",
+		"rarity": "6",
+		"costume":	[
+			{
+				"idCostume": "003501",
+				"costumeName": "Reclaimed Destiny",
+				"spine": "char003501",
+				"cutscene": "cutscene_char003501"
+			}
+		]
+	},
+	{
 		"idChar": "0200",
 		"charName": "Eris",
 		"rarity": "5",

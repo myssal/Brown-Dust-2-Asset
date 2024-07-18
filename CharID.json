@@ -823,14 +823,14 @@
 	},
 	{
 		"idChar": "0673",
-		"charName": "Granhildr",
+		"charName": "Levia",
 		"rarity": "5",
 		"costume":	[
 			
 			{
 				"idCostume": "067301",
 				"costumeName": "Track and Field Captain",
-				"spine": "char06301",
+				"spine": "char067301",
 				"cutscene": "cutscene_char06301"
 			}
 		]

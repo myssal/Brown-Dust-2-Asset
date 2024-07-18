@@ -360,6 +360,12 @@
 				"costumeName": "Last Hope",
 				"spine": "",
 				"cutscene": "cutscene_char003201"
+			},
+			{
+				"idCostume": "003202",
+				"costumeName": "Track and Field Team",
+				"spine": "char003202",
+				"cutscene": "cutscene_char003202"
 			}
 		]
 	},
@@ -812,6 +818,20 @@
 				"costumeName": "Comeback Idol",
 				"spine": "char067102",
 				"cutscene": "cutscene_char067102"
+			}
+		]
+	},
+	{
+		"idChar": "0673",
+		"charName": "Granhildr",
+		"rarity": "5",
+		"costume":	[
+			
+			{
+				"idCostume": "067301",
+				"costumeName": "Track and Field Captain",
+				"spine": "char06301",
+				"cutscene": "cutscene_char06301"
 			}
 		]
 	},

@@ -1,0 +1,388 @@
+char001004.png
+size:2048,2048
+filter:Linear,Linear
++
+bounds:947,796,100,100
+offsets:1,1,102,102
+B_finger(R)_1
+bounds:591,1348,46,47
+B_finger(R)_2
+bounds:341,1090,37,29
+offsets:0,0,37,30
+B_finger(R)_3
+bounds:762,1206,25,31
+offsets:4,1,29,33
+B_finger(R)_4
+bounds:693,865,32,34
+offsets:1,0,33,36
+B_finger(R)_5
+bounds:905,1370,41,25
+offsets:0,0,42,25
+B_hand(R)_1
+bounds:448,1126,68,66
+offsets:1,0,69,157
+C_finger(R)_1
+bounds:700,763,39,35
+C_finger(R)_2
+bounds:382,1372,54,23
+C_finger(R)_3
+bounds:282,602,51,15
+C_finger(R)_4
+bounds:685,1373,36,22
+C_finger(R)_5
+bounds:2,15,64,43
+C_hand(R)
+bounds:239,1369,39,26
+Eyebrow_nomal
+bounds:196,599,84,30
+Eyebrow_skill
+bounds:988,1253,77,24
+offsets:2,1,81,26
+amblem light_1
+bounds:992,1205,40,46
+amblem light_2
+bounds:441,1340,47,55
+amblem light_3
+bounds:906,1193,38,49
+amblem light_4
+bounds:490,1359,27,36
+arm(L)_1
+bounds:994,1328,122,66
+arm(L)_2
+bounds:966,1092,36,34
+arm(L)_3
+bounds:981,1305,46,29
+arm(L)_5
+bounds:970,898,135,168
+offsets:29,0,164,168
+back hair_1
+bounds:669,586,87,141
+back hair_10
+bounds:144,239,107,83
+back hair_11
+bounds:1082,743,58,114
+offsets:0,0,59,115
+back hair_12
+bounds:737,54,240,232
+rotate:270
+back hair_13
+bounds:376,82,262,141
+back hair_14
+bounds:1070,1260,86,88
+rotate:180
+back hair_2
+bounds:1083,251,56,106
+offsets:0,0,56,108
+back hair_3
+bounds:686,794,52,72
+back hair_4
+bounds:641,415,169,333
+rotate:90
+back hair_5
+bounds:1002,1048,83,60
+back hair_6
+bounds:732,8,121,31
+back hair_7
+bounds:1054,400,205,77
+offsets:0,0,206,77
+rotate:270
+back hair_8
+bounds:816,909,282,235
+rotate:90
+back hair_9
+bounds:1057,2,136,100
+rotate:270
+badge light_1
+bounds:491,646,49,48
+badge light_2
+bounds:225,903,47,49
+badge light_3
+bounds:168,1309,45,53
+badge_1
+bounds:493,613,33,31
+badge_2
+bounds:208,720,26,28
+badge_23
+bounds:232,1242,27,32
+offsets:0,1,27,33
+bangs_1
+bounds:506,805,37,80
+offsets:1,0,38,81
+bangs_10
+bounds:385,396,112,56
+bangs_11
+bounds:2,387,33,53
+bangs_12
+bounds:113,245,94,89
+offsets:0,0,95,89
+bangs_13
+bounds:386,463,65,103
+offsets:1,0,66,104
+rotate:90
+bangs_14
+bounds:614,573,290,116
+rotate:90
+bangs_15
+bounds:161,263,63,83
+bangs_16
+bounds:1057,17,162,79
+rotate:270
+bangs_17
+bounds:1037,553,203,103
+rotate:90
+bangs_18
+bounds:2,8,193,129
+bangs_19
+bounds:1088,1122,130,58
+rotate:270
+bangs_2
+bounds:666,1029,38,82
+offsets:0,0,39,82
+bangs_3
+bounds:97,717,31,75
+offsets:0,1,31,76
+bangs_4
+bounds:208,631,36,88
+bangs_5
+bounds:2,602,26,66
+offsets:0,1,26,67
+bangs_6
+bounds:459,1196,40,84
+bangs_7
+bounds:849,1330,68,65
+bangs_8
+bounds:340,422,51,18
+bangs_9
+bounds:1088,992,49,128
+body
+bounds:229,1121,230,274
+breast_1
+bounds:988,1170,169,114
+rotate:90
+breast_2
+bounds:636,63,94,112
+breast_3
+bounds:1013,280,90,119
+button_1
+bounds:672,1143,28,34
+offsets:1,0,29,34
+button_2
+bounds:2,818,19,43
+offsets:1,0,20,43
+button_3
+bounds:461,1184,18,39
+cap light_1
+bounds:2,139,90,372
+offsets:3,2,95,375
+rotate:90
+cap light_2
+bounds:2,442,155,382
+offsets:3,5,170,394
+rotate:90
+cap light_3
+bounds:2,1348,55,47
+offsets:2,2,58,50
+cap light_4
+bounds:68,9,41,42
+offsets:1,1,43,74
+cap light_5
+bounds:2,1305,47,41
+offsets:2,1,50,56
+cap_1
+bounds:589,5,147,79
+cap_2
+bounds:994,7,147,79
+rotate:270
+cap_3
+bounds:218,1099,147,79
+rotate:270
+cap_4
+bounds:849,11,147,79
+cap_5
+bounds:447,16,147,79
+cap_6
+bounds:308,15,147,79
+cap_back
+bounds:218,953,175,125
+offsets:1,0,176,125
+rotate:90
+closed eye_1
+bounds:755,1239,35,29
+closed eye_2
+bounds:386,564,37,23
+coat_1
+bounds:648,859,107,70
+offsets:0,0,107,71
+rotate:90
+coat_2
+bounds:481,1103,118,292
+coat_3
+bounds:1072,589,66,132
+coat_4
+bounds:211,639,507,366
+rotate:90
+coat_5
+bounds:899,889,171,242
+rotate:180
+decoration
+bounds:100,860,32,39
+offsets:0,0,33,39
+ear_1
+bounds:276,922,34,34
+ear_2
+bounds:221,954,19,39
+offsets:1,0,20,39
+eye line_1
+bounds:809,939,35,16
+offsets:1,0,36,16
+eye line_2
+bounds:684,646,31,26
+eye line_skill_1
+bounds:573,1381,33,14
+offsets:1,1,35,16
+eye line_skill_2
+bounds:512,780,30,23
+offsets:1,1,32,25
+eye line_smile_1
+bounds:509,957,34,15
+offsets:1,0,35,15
+eye line_smile_2
+bounds:682,628,38,27
+eye skill_1
+bounds:2,781,16,17
+offsets:1,1,18,19
+eye skill_2
+bounds:2,764,15,15
+offsets:1,1,17,17
+eye skill_3
+bounds:725,1366,29,29
+offsets:1,1,31,31
+eye skill_4
+bounds:670,1113,29,29
+offsets:1,1,31,31
+eye smile_3
+bounds:528,973,29,29
+offsets:1,1,31,31
+eye smile_4
+bounds:569,1190,29,29
+offsets:1,1,31,31
+eye smilel_1
+bounds:2,800,16,17
+offsets:1,1,18,19
+eye smilel_2
+bounds:223,886,15,15
+offsets:1,1,17,17
+eye_1
+bounds:216,1081,18,19
+eye_2
+bounds:287,1126,17,17
+eye_3
+bounds:100,827,31,31
+eye_4
+bounds:99,794,31,31
+eyebrow_smile
+bounds:152,1364,85,31
+face_closed
+bounds:1008,442,96,110
+face_smile
+bounds:1008,442,96,110
+face_nomal
+bounds:1000,155,96,112
+face_skill
+bounds:902,78,96,112
+offsets:1,1,98,114
+face_skill2
+bounds:939,684,96,110
+offsets:1,3,98,114
+funnel_1
+bounds:543,518,140,877
+funnel_2
+bounds:786,949,120,423
+funnel_3
+bounds:2,598,228,797
+funnel_4
+bounds:821,526,117,391
+funnel_5
+bounds:685,538,146,835
+hair_1
+bounds:717,661,38,43
+hair_2
+bounds:1032,852,140,104
+rotate:270
+hair_3
+bounds:2,235,111,88
+hand(L)_1
+bounds:509,600,31,27
+hand(L)_2
+bounds:386,511,54,51
+hand(L)_3
+bounds:582,1221,21,19
+jacket_1
+bounds:927,208,261,100
+rotate:90
+jacket_2
+bounds:498,695,41,83
+jacket_3
+bounds:299,500,239,163
+offsets:90,0,329,163
+jacket_4
+bounds:501,894,55,77
+offsets:1,0,56,77
+jacket_5
+bounds:96,660,36,57
+jacket_6
+bounds:196,17,121,120
+offsets:0,1,122,121
+leg(L)_3
+bounds:2,325,115,669
+rotate:90
+leg(R)_2
+bounds:171,202,158,633
+rotate:90
+leg(R)_3
+bounds:746,1269,86,126
+offsets:0,1,86,128
+mouth_closed
+bounds:171,1296,20,11
+mouth_nomal
+bounds:215,1337,22,25
+offsets:0,1,22,27
+mouth_skill
+bounds:573,1161,21,27
+offsets:1,1,23,30
+mouth_skill2
+bounds:597,1331,21,15
+offsets:1,1,23,17
+mouth_smile
+bounds:512,1147,29,24
+ornament_1
+bounds:593,1296,24,30
+ornament_2
+bounds:907,1243,26,31
+offsets:0,1,26,32
+ornament_3
+bounds:59,1369,32,26
+ornament_4
+bounds:304,956,31,25
+ornament_5
+bounds:661,965,50,69
+roll hair_2
+bounds:916,1176,101,219
+roll hair_3
+bounds:539,510,29,42
+scarf
+bounds:94,597,36,64
+shoulder_2
+bounds:709,700,38,35
+shoulder_3
+bounds:414,290,495,242
+offsets:68,0,563,242
+rotate:180
+shoulder_4
+bounds:932,982,34,22
+shoulder_5
+bounds:436,1269,39,63
+shoulder_6
+bounds:948,512,170,94
+offsets:0,0,171,94
+rotate:90

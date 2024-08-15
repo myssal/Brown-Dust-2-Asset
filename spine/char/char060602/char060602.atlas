@@ -1,0 +1,424 @@
+char060602.png
+size:2048,2048
+filter:Linear,Linear
+B_ear machine
+bounds:935,1452,76,75
+offsets:0,0,77,75
+B_elctro effect_1
+bounds:1482,1811,207,235
+B_elctro effect_2
+bounds:2,1947,129,99
+B_elctro effect_3
+bounds:676,1500,129,205
+rotate:90
+B_elctro effect_4
+bounds:38,1391,186,134
+B_eye(L)
+bounds:534,2026,19,20
+offsets:1,0,20,20
+B_eye(R)
+bounds:653,2028,16,18
+B_eyeball(L)
+bounds:2,1737,33,32
+offsets:1,1,35,34
+B_eyeball(R)
+bounds:1281,1812,30,30
+offsets:1,1,32,32
+B_eyebrow
+bounds:842,1425,80,41
+B_face_skill
+bounds:1309,1233,146,156
+B_machine(L)_2.1
+bounds:1239,1264,70,111
+offsets:0,1,70,112
+B_machine(L)_2.1(light)
+bounds:71,1259,70,111
+offsets:0,1,70,112
+B_machine(L)_2.2
+bounds:883,1468,59,114
+offsets:1,0,61,114
+B_machine(L)_2.2(light)
+bounds:226,1406,59,114
+offsets:1,0,61,114
+B_machine(L)_2.3
+bounds:1691,1858,75,75
+B_machine(L)_2.3(light)
+bounds:2,1769,75,75
+B_machine(L)_2.4
+bounds:915,1993,99,53
+offsets:0,0,99,57
+B_machine(L)_2.4(light)
+bounds:668,1445,99,53
+offsets:0,0,99,57
+B_machine(L)_2.5
+bounds:1374,1685,94,64
+offsets:1,1,95,66
+B_machine(L)_2.5(light)
+bounds:644,1631,94,64
+offsets:1,1,95,66
+B_machine(R)_1.1
+bounds:1804,1286,78,53
+offsets:0,1,78,54
+B_machine(R)_1.1(light)
+bounds:812,1285,78,53
+offsets:0,1,78,54
+B_machine(R)_1.2
+bounds:1997,1963,47,83
+offsets:0,0,48,83
+B_machine(R)_1.2(light)
+bounds:1999,1457,47,83
+offsets:0,0,48,83
+B_machine(R)_1.3
+bounds:1653,1722,56,88
+offsets:0,1,57,89
+B_machine(R)_1.3(light)
+bounds:1164,1543,56,88
+offsets:0,1,57,89
+B_machine(R)_1.5
+bounds:439,1720,76,54
+offsets:0,0,77,54
+B_machine(R)_1.5(light)
+bounds:399,1230,76,54
+offsets:0,0,77,54
+B_machine(R)_1.6
+bounds:947,1198,72,56
+B_machine(R)_1.7
+bounds:2,1617,103,121
+B_machine(R)_1.7(light)
+bounds:1943,1531,103,121
+B_machine(R)_2.1
+bounds:873,1279,51,69
+B_machine(R)_2.2
+bounds:1837,1661,66,65
+B_machine(R)_2.3
+bounds:2,1352,50,70
+B_machine(R)_2.4
+bounds:27,934,138,99
+offsets:0,0,139,99
+B_mouth
+bounds:1449,1988,22,23
+offsets:1,0,23,23
+B_thick wire_2
+bounds:1406,961,190,97
+B_wire_1
+bounds:142,1158,139,97
+offsets:1,1,141,99
+R_(light)
+bounds:1470,1626,173,183
+offsets:8,8,195,203
+arm(R)_1
+bounds:794,1090,112,212
+offsets:0,9,112,221
+rotate:90
+arm(R)_2
+bounds:1153,969,83,145
+arm(R)_3
+bounds:1887,1575,55,71
+arm(R)_4
+bounds:1953,1296,75,59
+arm(R)_5
+bounds:1213,2023,32,23
+arm(R)_6
+bounds:1979,2013,23,33
+arm_1
+bounds:670,1865,107,181
+offsets:0,1,107,182
+arm_2
+bounds:994,1801,125,113
+back hair(L)_1
+bounds:776,1339,265,322
+offsets:0,0,265,323
+rotate:270
+back hair(L)_2
+bounds:381,884,155,142
+offsets:0,0,155,204
+back hair(L)_3
+bounds:2,1286,672,760
+back hair(L)_4
+bounds:1029,888,285,251
+rotate:270
+back hair(L)_6
+bounds:1288,898,219,208
+offsets:0,0,220,208
+back hair(L)r_5
+bounds:348,1774,160,264
+back hair(R)_1
+bounds:832,1148,120,294
+offsets:3,0,123,296
+rotate:90
+back hair(R)_2
+bounds:749,918,119,195
+rotate:90
+back hair(R)_3
+bounds:1691,1687,186,359
+back hair(R)_4
+bounds:1536,1340,132,93
+offsets:1,0,133,93
+back hair(R)_5
+bounds:635,1260,133,78
+offsets:13,3,146,81
+back hair(R)_6
+bounds:1854,935,192,186
+offsets:1,0,193,186
+back skirt_1
+bounds:1636,1561,275,184
+back skirt_2
+bounds:1799,1340,247,171
+back skirt_3
+bounds:114,1257,136,235
+rotate:90
+back skirt_4
+bounds:899,1506,186,333
+offsets:0,0,187,334
+back skirt_5
+bounds:406,1650,349,396
+back skirt_6
+bounds:839,1624,82,119
+offsets:0,0,83,119
+back skirt_7
+bounds:1250,1692,230,354
+back skirt_8
+bounds:1680,1391,272,194
+closed eyes_1
+bounds:887,1940,36,33
+closed eyes_2
+bounds:483,1943,40,34
+offsets:0,3,40,37
+ear machine
+bounds:1036,1184,76,75
+offsets:0,0,77,75
+eyebrow normal_1
+bounds:196,2020,31,26
+eyebrow normal_2
+bounds:726,2037,28,9
+eyelash_normal(L)
+bounds:49,1741,38,32
+eyelash_normal(R)
+bounds:1999,1941,35,24
+eyes_normal_1
+bounds:229,2025,19,21
+offsets:0,1,19,22
+eyes_normal_2
+bounds:1077,2028,16,18
+offsets:1,0,18,18
+eyes_normal_3
+bounds:616,2012,35,34
+eyes_normal_4
+bounds:1438,2013,33,33
+face_normal
+bounds:1900,1648,146,156
+face_shadow
+bounds:1422,2020,12,26
+front hair_1
+bounds:1064,1657,39,68
+front hair_2
+bounds:1114,1187,70,81
+offsets:0,1,71,83
+front hair_3
+bounds:1989,1850,57,87
+front hair_4
+bounds:1247,1720,81,75
+front hair_5
+bounds:1101,1843,31,52
+offsets:0,0,31,53
+front hair_6
+bounds:1059,1454,50,58
+offsets:0,0,53,58
+front hair_7
+bounds:2,1590,33,54
+front hair_8
+bounds:133,1962,62,84
+front hair_9
+bounds:85,1618,47,45
+offsets:2,0,49,45
+hand(R)_1
+bounds:1876,1974,14,39
+hand(R)_2
+bounds:791,959,136,106
+hand(R)_3
+bounds:873,1746,30,50
+leg(L)_1
+bounds:1878,1742,118,304
+offsets:0,10,118,314
+rotate:180
+leg(L)_2
+bounds:1284,1329,248,360
+rotate:90
+leg(R)_1
+bounds:923,1240,196,365
+rotate:90
+leg(R)_2
+bounds:1236,1455,169,331
+offsets:4,0,173,331
+rotate:90
+machine(L)_1.2
+bounds:828,1669,50,46
+offsets:0,1,50,48
+machine(L)_1.4
+bounds:1120,1694,63,23
+offsets:0,1,63,24
+machine(L)_1.5
+bounds:1566,1185,73,52
+machine(L)_1.6
+bounds:806,1940,144,106
+offsets:0,2,144,108
+machine(L)_1.7
+bounds:1721,1081,281,325
+rotate:90
+machine(L)_1.7(light)
+bounds:52,1073,281,325
+rotate:270
+machine(L)_2.1
+bounds:935,1328,100,85
+offsets:0,1,100,86
+machine(L)_2.2
+bounds:1300,1594,123,53
+machine(L)_2.3
+bounds:1282,1094,241,101
+machine(L)_21effect
+bounds:1550,1451,100,85
+offsets:0,1,100,86
+machine(L)_22effect
+bounds:384,1944,123,53
+machine(L)_23effect
+bounds:1105,1626,241,101
+machine(R)_1
+bounds:1691,1812,37,46
+machine(R)_11effect
+bounds:777,1875,37,46
+machine(R)_12effect
+bounds:626,1248,71,40
+machine(R)_15effect
+bounds:1825,2003,60,43
+offsets:0,0,60,44
+machine(R)_16effect
+bounds:2,1216,61,55
+offsets:0,0,62,55
+machine(R)_19effect
+bounds:698,1067,172,113
+offsets:0,0,174,113
+machine(R)_2
+bounds:140,1261,71,40
+machine(R)_2.1
+bounds:753,1828,53,43
+machine(R)_2.2
+bounds:322,1905,25,61
+machine(R)_2.3
+bounds:1760,1246,51,68
+offsets:0,0,51,70
+machine(R)_2.4
+bounds:585,1002,171,220
+offsets:0,6,171,226
+rotate:90
+machine(R)_3
+bounds:555,2003,60,43
+offsets:0,0,60,44
+machine(R)_4
+bounds:803,1935,61,55
+offsets:0,0,62,55
+machine(R)_5
+bounds:437,1181,70,54
+offsets:0,1,70,55
+machine(R)_6
+bounds:1769,1087,172,113
+offsets:0,0,174,113
+machine(R)_7
+bounds:1134,1596,38,41
+offsets:1,1,39,42
+mouth_normal
+bounds:892,2025,21,21
+neck_normal
+bounds:1046,1781,64,52
+offsets:0,0,64,54
+neck_skill
+bounds:1958,1804,64,52
+offsets:0,0,64,54
+short tai(R)l_1
+bounds:515,1202,283,266
+rotate:180
+short tail(R)_2
+bounds:1280,1092,284,161
+side hair(R)2
+bounds:1400,1592,39,39
+side hair(R)3
+bounds:1703,1935,72,78
+side hair(R)_1
+bounds:2,1017,172,150
+rotate:180
+skirt_1.1
+bounds:1695,1339,102,82
+skirt_1.2
+bounds:2,1862,96,83
+skirt_1.3
+bounds:1049,1069,182,171
+offsets:0,1,182,172
+thick wire(back)_1
+bounds:1367,1056,362,196
+rotate:180
+thick wire(back)_2
+bounds:419,857,251,224
+thick wire(back)_3
+bounds:207,933,357,114
+thick wire_1
+bounds:267,999,400,105
+offsets:0,0,400,118
+thick wire_2
+bounds:1810,961,190,97
+twintail(L)_1
+bounds:1457,1239,273,209
+rotate:180
+twintail(L)_2
+bounds:1434,839,283,293
+rotate:270
+twintail(L)_3
+bounds:1035,1374,308,433
+rotate:90
+twintail(L)_4
+bounds:494,1178,329,189
+rotate:180
+twintail(L)_5
+bounds:33,1100,78,107
+twintail(L)_6
+bounds:1635,995,183,143
+rotate:180
+twintail(R)_1.1
+bounds:1761,1151,236,131
+twintail(R)_1.2
+bounds:773,990,230,113
+offsets:0,0,231,113
+twintail(R)_1.3
+bounds:740,1630,340,416
+offsets:0,6,340,422
+rotate:180
+twintail(R)_1.4
+bounds:370,1104,227,165
+offsets:0,1,227,166
+rotate:180
+twintail(R)_1.5
+bounds:1019,1109,259,204
+upper body_1
+bounds:729,1990,61,56
+upper body_2
+bounds:1597,1435,115,124
+upper body_3
+bounds:1082,1707,197,339
+wire(hand)_1
+bounds:978,862,70,284
+wire(hand)_2
+bounds:1294,1427,177,91
+offsets:0,2,177,93
+wire(hand)_3
+bounds:1602,1150,93,104
+wire(hand)_4
+bounds:1777,1203,125,20
+wire(hand)_5
+bounds:1281,1861,14,90
+offsets:0,1,15,91
+wire_1
+bounds:1784,873,244,130
+wire_2
+bounds:593,871,133,177
+wire_3
+bounds:1618,931,212,59
+wire_4
+bounds:1316,948,165,85

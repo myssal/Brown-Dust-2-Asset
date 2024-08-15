@@ -1,0 +1,185 @@
+char100501.png
+size:2048,2048
+filter:Linear,Linear
+(L)wing
+bounds:1784,1551,69,70
+(R)wing
+bounds:75,1798,62,80
+rotate:90
++
+bounds:1385,1598,102,102
+arm_(L)_arm1
+bounds:1538,1208,88,94
+arm_(L)_arm2
+bounds:1588,1379,152,54
+rotate:90
+arm_(L)_finger1
+bounds:424,1828,45,32
+offsets:0,1,45,33
+arm_(L)_finger2
+bounds:75,1807,14,28
+arm_(L)_hand
+bounds:1500,1484,137,151
+rotate:180
+arm_(L)_hand_rope1
+bounds:1319,1405,188,239
+offsets:0,1,188,240
+rotate:270
+arm_(R)_arm1
+bounds:1644,1503,89,106
+arm_(R)_arm2
+bounds:2,1195,145,78
+arm_(R)_finger1
+bounds:2,1720,44,48
+arm_(R)_finger2
+bounds:2,1681,18,37
+arm_(R)_hand
+bounds:1335,1217,211,156
+rotate:270
+arm_(R)_rope1
+bounds:1190,1313,208,283
+offsets:0,0,209,283
+back cloth
+bounds:615,1212,288,163
+rotate:270
+back rope1
+bounds:1807,1667,45,40
+back rope2
+bounds:1787,1193,39,53
+back rope3
+bounds:1807,1623,48,42
+back rope4
+bounds:882,1193,41,50
+bag belt back
+bounds:1544,1681,211,179
+rotate:180
+bag front
+bounds:1082,1214,183,145
+offsets:0,0,184,146
+rotate:180
+belt bag1
+bounds:1780,1485,71,69
+offsets:0,1,71,70
+belt bag2
+bounds:536,1730,74,61
+offsets:0,1,74,62
+big bomb
+bounds:2,1226,632,634
+offsets:1,0,633,634
+big bomb_1
+bounds:623,1627,233,155
+rotate:90
+big bomb_2
+bounds:1198,1451,236,156
+rotate:90
+body_belt  front
+bounds:939,1627,227,202
+offsets:0,5,227,207
+rotate:90
+bombs1
+bounds:1745,1717,70,65
+rotate:90
+bombs2
+bounds:1693,1212,67,80
+bombs3
+bounds:1644,1434,86,67
+bombs4
+bounds:1727,1611,78,62
+bombs5
+bounds:1639,1611,63,86
+rotate:90
+bombs6
+bounds:2,1770,71,90
+bombs7
+bounds:1479,1205,57,59
+bombs8
+bounds:2,1279,71,61
+rotate:90
+clavicle1
+bounds:1231,1192,77,55
+clavicle2
+bounds:149,1193,83,39
+leg_L_1
+bounds:1447,1321,171,159
+rotate:270
+leg_L_2
+bounds:1716,1438,61,129
+rotate:180
+leg_L_foot
+bounds:1657,1294,138,91
+rotate:90
+leg_R_1
+bounds:1390,1204,164,162
+rotate:90
+leg_R_2
+bounds:1565,1636,70,175
+leg_R_foot
+bounds:1624,1770,123,90
+lower body_belt
+bounds:1628,1200,176,64
+rotate:90
+lower body_cloth under
+bounds:1279,1244,166,92
+rotate:90
+lower body_cloth1
+bounds:780,1627,230,221
+rotate:90
+lower body_cloth2
+bounds:462,1194,160,109
+rotate:180
+normal_chin
+bounds:1762,1202,98,104
+offsets:0,0,99,104
+normal_eye1
+bounds:75,1775,21,21
+normal_eye2
+bounds:48,1748,19,20
+normal_eyehall1
+bounds:835,1197,45,46
+normal_eyehall2
+bounds:415,1193,45,46
+normal_face
+bounds:950,1428,150,178
+offsets:0,2,150,180
+normal_helmet
+bounds:1082,1334,172,129
+offsets:0,1,172,130
+rotate:90
+normal_helmet_arrow1
+bounds:519,1793,95,67
+normal_helmet_arrow2
+bounds:1737,1789,68,110
+rotate:90
+normal_helmet_cloth1
+bounds:704,1196,49,129
+rotate:90
+normal_helmet_cloth2
+bounds:1805,1308,50,114
+ribs
+bounds:1073,1516,140,184
+skill1_eye1
+bounds:1473,1702,84,113
+skill1_eye2
+bounds:1278,1689,92,124
+skill2_eye1
+bounds:945,1227,135,199
+skill2_eye2
+bounds:945,1227,135,199
+skill2_eye1_light
+bounds:780,1245,181,163
+rotate:90
+skill2_eye2_light
+bounds:770,1428,197,178
+rotate:90
+skilll1_chin
+bounds:1372,1702,99,104
+skilll1_head_cloth1
+bounds:1704,1308,118,102
+offsets:0,1,118,103
+rotate:270
+skilll1_head_cloth2
+bounds:1764,1393,90,94
+rotate:90
+spine
+bounds:1137,1691,139,164
+rotate:180

@@ -208,7 +208,13 @@
 				"costumeName": "Nightmare Bunny",
 				"spine": "char000706",
 				"cutscene": "cutscene_char000706"
-			}
+			},
+			{
+				"idCostume": "000707",
+				"costumeName": "Beach Vacane",
+				"spine": "char000707",
+				"cutscene": "cutscene_char000707"
+			},
 		]
 	},
 	{
@@ -277,6 +283,12 @@
 				"costumeName": "Medical Club",
 				"spine": "char001106",
 				"cutscene": "cutscene_char001106"
+			},
+			{
+				"idCostume": "001107",
+				"costumeName": "Beachside Angel",
+				"spine": "char001107",
+				"cutscene": "cutscene_char001107"
 			}
 		]
 	},
@@ -379,6 +391,19 @@
 				"costumeName": "Laid-back Lifeguard",
 				"spine": "char003302",
 				"cutscene": "cutscene_char003302"
+			}
+		]
+	},
+	{
+		"idChar": "0034",
+		"charName": "Morpeah",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "003401",
+				"costumeName": "Beach Vacane",
+				"spine": "char003401",
+				"cutscene": "cutscene_char003401"
 			}
 		]
 	},

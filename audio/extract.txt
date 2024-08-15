@@ -1,0 +1,2 @@
+Use foobar2000 to convert .bank to .wav or whatever sound format you want.
+https://www.foobar2000.org

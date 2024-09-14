@@ -847,20 +847,6 @@
 		]
 	},
 	{
-		"idChar": "0673",
-		"charName": "Levia",
-		"rarity": "5",
-		"costume":	[
-			
-			{
-				"idCostume": "067301",
-				"costumeName": "Track and Field Captain",
-				"spine": "char067301",
-				"cutscene": "cutscene_char06301"
-			}
-		]
-	},
-	{
 		"idChar": "0672",
 		"charName": "Venaka",
 		"rarity": "5",
@@ -873,6 +859,40 @@
 			}
 		]
 	},
+	{
+		"idChar": "0673",
+		"charName": "Levia",
+		"rarity": "5",
+		"costume":	[
+			
+			{
+				"idCostume": "067301",
+				"costumeName": "Track and Field Captain",
+				"spine": "char067301",
+				"cutscene": "cutscene_char067301"
+			},
+			{
+				"idCostume": "067302",
+				"costumeName": "Night of Jealousy",
+				"spine": "char067302",
+				"cutscene": "cutscene_char067302"
+			}
+		]
+	},	
+	{
+		"idChar": "0674",
+		"charName": "Michaela",
+		"rarity": "5",
+		"costume":	[
+			
+			{
+				"idCostume": "067401",
+				"costumeName": "Beachside Justice",
+				"spine": "char067401",
+				"cutscene": "cutscene_char067401"
+			}
+		]
+	},	
 	{
 		"idChar": "1001",
 		"charName": "Gynt",

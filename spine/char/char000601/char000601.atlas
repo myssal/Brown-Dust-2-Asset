@@ -29,11 +29,12 @@ bounds:520,2003,75,43
 Glasses
 bounds:1968,1845,78,56
 Mouth_normal
-bounds:623,2017,36,29
+bounds:880,2017,36,29
 Mouth_skill1
 bounds:267,2026,33,20
 Mouth_skill_2
-bounds:2,2008,38,38
+bounds:327,2008,36,38
+offsets:2,0,38,38
 Upper  Body
 bounds:941,1562,302,484
 arm_l_1
@@ -54,7 +55,7 @@ bounds:1559,1714,131,134
 arm_r_4
 bounds:165,1871,160,175
 arm_r_5
-bounds:327,2018,27,28
+bounds:623,2018,27,28
 arm_r_6
 bounds:147,1996,43,50
 arm_r_7
@@ -138,7 +139,7 @@ bounds:843,1985,48,61
 hand_l_2
 bounds:1820,1595,105,164
 hand_l_3
-bounds:892,2001,53,45
+bounds:2,2001,53,45
 hand_r_2
 bounds:405,2012,63,34
 hand_r_9

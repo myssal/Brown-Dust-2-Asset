@@ -387,6 +387,12 @@
 		"rarity": "5",
 		"costume":	[
 			{
+				"idCostume": "003301",
+				"costumeName": "Labyrinth Gatekeeper",
+				"spine": "char003301",
+				"cutscene": "cutscene_char003301"
+			},
+			{
 				"idCostume": "003302",
 				"costumeName": "Laid-back Lifeguard",
 				"spine": "char003302",
@@ -455,6 +461,58 @@
 				"costumeName": "Emerging Desire",
 				"spine": "char020102",
 				"cutscene": "cutscene_char020102"
+			}
+		]
+	},
+	{
+		"idChar": "0202",
+		"charName": "Yomi",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020201",
+				"costumeName": "Gentle Destroyer",
+				"spine": "char020201",
+				"cutscene": "cutscene_char020201"
+			}
+		]
+	},
+	{
+		"idChar": "0203",
+		"charName": "Yozakura",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020301",
+				"costumeName": "Fist of Conviction",
+				"spine": "char020101",
+				"cutscene": "cutscene_char020301"
+			}
+		]
+	},
+	{
+		"idChar": "0204",
+		"charName": "Yumi",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020401",
+				"costumeName": "",
+				"spine": "char020401",
+				"cutscene": "cutscene_char020401"
+			}
+		]
+	},
+	{
+		"idChar": "0205",
+		"charName": "Hikage",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020501",
+				"costumeName": "Kind Ruthlessness",
+				"spine": "char020501",
+				"cutscene": "cutscene_char020501"
 			}
 		]
 	},

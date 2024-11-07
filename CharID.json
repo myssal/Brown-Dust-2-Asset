@@ -397,6 +397,12 @@
 				"costumeName": "Laid-back Lifeguard",
 				"spine": "char003302",
 				"cutscene": "cutscene_char003302"
+			},
+			{
+				"idCostume": "003303",
+				"costumeName": "",
+				"spine": "char003303",
+				"cutscene": "cutscene_char003303"
 			}
 		]
 	},
@@ -497,7 +503,7 @@
 		"costume":	[
 			{
 				"idCostume": "020401",
-				"costumeName": "",
+				"costumeName": "Dancing Snowflake",
 				"spine": "char020401",
 				"cutscene": "cutscene_char020401"
 			}
@@ -948,6 +954,25 @@
 				"costumeName": "Beachside Justice",
 				"spine": "char067401",
 				"cutscene": "cutscene_char067401"
+			},
+			{
+				"idCostume": "067402",
+				"costumeName": "",
+				"spine": "char067402",
+				"cutscene": "cutscene_char067402"
+			}
+		]
+	},	
+	{
+		"idChar": "0675",
+		"charName": "Luvencia",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "067502",
+				"costumeName": "Dead Snatcher",
+				"spine": "char067502",
+				"cutscene": "cutscene_char067502"
 			}
 		]
 	},	
@@ -1064,6 +1089,12 @@
 				"costumeName": "B-Rank Idol",
 				"spine": "char101102",
 				"cutscene": "cutscene_char101102"
+			},
+			{
+				"idCostume": "101103",
+				"costumeName": "New Hire",
+				"spine": "char101103",
+				"cutscene": "cutscene_char101103"
 			}
 		]
 	},

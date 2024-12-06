@@ -400,7 +400,7 @@
 			},
 			{
 				"idCostume": "003303",
-				"costumeName": "",
+				"costumeName": "New Hire",
 				"spine": "char003303",
 				"cutscene": "cutscene_char003303"
 			}
@@ -676,7 +676,7 @@
 				"idCostume": "061101",
 				"costumeName": "Piercing Magic Bow",
 				"spine": "char061101",
-				"cutscene": ""
+				"cutscene": "cutscene_char061101"
 			},
 			{
 				"idCostume": "061102",
@@ -920,6 +920,12 @@
 				"costumeName": "DJ",
 				"spine": "char067201",
 				"cutscene": "cutscene_char067201"
+			},
+			{
+				"idCostume": "067202",
+				"costumeName": "Wind Dancer",
+				"spine": "char067202",
+				"cutscene": "cutscene_char067202"
 			}
 		]
 	},
@@ -957,7 +963,7 @@
 			},
 			{
 				"idCostume": "067402",
-				"costumeName": "",
+				"costumeName": "Queen of Signatures",
 				"spine": "char067402",
 				"cutscene": "cutscene_char067402"
 			}

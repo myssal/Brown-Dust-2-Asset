@@ -210,6 +210,8 @@ mouth_B
 bounds:1763,1583,26,19
 mouth_C
 bounds:1959,1626,27,31
+mouth_talk
+bounds:2005,1701,20,5
 neck
 bounds:1462,1184,47,49
 offsets:2,0,49,49

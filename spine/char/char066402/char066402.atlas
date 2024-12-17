@@ -334,6 +334,8 @@ rotate:270
 mouth
 bounds:1524,2035,18,11
 offsets:0,0,18,12
+mouth_talk
+bounds:286,2042,15,4
 mouth_touch1
 bounds:1462,2001,16,19
 offsets:1,0,18,19

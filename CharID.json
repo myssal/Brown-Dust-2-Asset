@@ -378,6 +378,12 @@
 				"costumeName": "Track and Field Team",
 				"spine": "char003202",
 				"cutscene": "cutscene_char003202"
+			},
+			{
+				"idCostume": "003203",
+				"costumeName": "Celebrity Bunny",
+				"spine": "char003203",
+				"cutscene": "cutscene_char003203"
 			}
 		]
 	},
@@ -416,6 +422,12 @@
 				"costumeName": "Beach Vacane",
 				"spine": "char003401",
 				"cutscene": "cutscene_char003401"
+			},
+			{
+				"idCostume": "003402",
+				"costumeName": "Daydream Bunny",
+				"spine": "char003402",
+				"cutscene": "cutscene_char003402"
 			}
 		]
 	},
@@ -946,6 +958,12 @@
 				"costumeName": "Night of Jealousy",
 				"spine": "char067302",
 				"cutscene": "cutscene_char067302"
+			},
+			{
+				"idCostume": "067303",
+				"costumeName": "Overheat",
+				"spine": "char067303",
+				"cutscene": "cutscene_char067303"
 			}
 		]
 	},	
@@ -979,6 +997,12 @@
 				"costumeName": "Dead Snatcher",
 				"spine": "char067502",
 				"cutscene": "cutscene_char067502"
+			},
+			{
+				"idCostume": "067503",
+				"costumeName": "",
+				"spine": "char067503",
+				"cutscene": ""
 			}
 		]
 	},	

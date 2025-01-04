@@ -178,6 +178,10 @@ effect_4
 bounds:802,1821,198,225
 effect_5
 bounds:2,1280,99,96
+eye_anger_L
+bounds:1963,2002,11,13
+eye_anger_R
+bounds:2029,1848,13,13
 eye_annoyance_L
 bounds:514,1911,13,14
 offsets:0,4,16,18
@@ -271,7 +275,7 @@ eyebrow_anger_R
 bounds:1031,1571,33,21
 offsets:0,1,34,22
 eyebrow_arrogance_R
-bounds:122,1477,29,19
+bounds:2,1466,29,19
 offsets:0,0,30,19
 eyebrow_arrogancel_L
 bounds:671,1819,23,5
@@ -309,7 +313,7 @@ eyebrow_smile_L
 bounds:453,2039,23,7
 offsets:0,0,24,7
 eyebrow_smile_R
-bounds:517,1583,33,18
+bounds:532,1491,33,18
 offsets:0,0,34,18
 eyebrow_surprise_L
 bounds:1294,1861,24,6
@@ -335,6 +339,12 @@ offsets:0,3,24,17
 eyebrow_worry_R
 bounds:899,1612,32,9
 offsets:0,0,36,9
+eyeline_anger_2_L
+bounds:954,1610,27,15
+offsets:0,0,28,15
+eyeline_anger_2_R
+bounds:1794,1423,33,19
+offsets:0,0,34,19
 eyeline_anger_L
 bounds:510,1655,30,30
 offsets:0,2,31,32
@@ -347,7 +357,7 @@ eyeline_annoyancel_R
 bounds:1002,1467,30,18
 offsets:0,0,31,18
 eyeline_arrogance_L
-bounds:533,1490,29,13
+bounds:117,1482,29,13
 offsets:0,1,29,14
 eyeline_arrogance_R
 bounds:1340,1430,32,17
@@ -363,10 +373,10 @@ offsets:0,1,28,14
 eyeline_coy_R
 bounds:882,1444,31,18
 eyeline_normal_L
-bounds:952,1610,29,13
+bounds:520,1582,29,13
 offsets:0,0,30,13
 eyeline_normal_R
-bounds:1794,1424,32,18
+bounds:1975,1395,32,18
 offsets:0,0,33,18
 eyeline_panic_L
 bounds:386,1666,26,14
@@ -396,7 +406,7 @@ eyeline_surprise_L
 bounds:594,1592,27,12
 offsets:0,3,28,15
 eyeline_surprise_R
-bounds:1975,1394,33,19
+bounds:1316,1374,33,19
 offsets:0,0,35,19
 eyeline_touch_1_L
 bounds:1922,1657,31,13

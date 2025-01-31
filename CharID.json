@@ -214,7 +214,7 @@
 				"costumeName": "Beach Vacane",
 				"spine": "char000707",
 				"cutscene": "cutscene_char000707"
-			},
+			}
 		]
 	},
 	{
@@ -434,13 +434,26 @@
 	{
 		"idChar": "0035",
 		"charName": "Sacred Justia",
-		"rarity": "6",
+		"rarity": "5",
 		"costume":	[
 			{
 				"idCostume": "003501",
 				"costumeName": "Reclaimed Destiny",
 				"spine": "char003501",
 				"cutscene": "cutscene_char003501"
+			}
+		]
+	},
+	{
+		"idChar": "0038",
+		"charName": "Liberta",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "003802",
+				"costumeName": "Onsen Manager",
+				"spine": "char003802",
+				"cutscene": "cutscene_char003802"
 			}
 		]
 	},
@@ -900,6 +913,12 @@
 				"costumeName": "Comeback Idol",
 				"spine": "char067003",
 				"cutscene": "cutscene_char067003"
+			},
+			{
+				"idCostume": "067004",
+				"costumeName": "Onser Practitioner",
+				"spine": "char067004",
+				"cutscene": "cutscene_char067004"
 			}
 		]
 	},

@@ -127,7 +127,7 @@ offsets:0,1,36,32
 A_eye_touch2
 bounds:418,739,64,35
 A_eye_touch3
-bounds:972,1711,32,32
+bounds:413,1070,32,32
 A_eye_touch4
 bounds:1894,2000,64,45
 A_eyebrow_normal1
@@ -440,7 +440,7 @@ offsets:4,5,66,44
 B_eye_normal1
 bounds:2,1920,13,21
 B_eye_normal2
-bounds:413,1074,21,27
+bounds:63,956,21,27
 B_eye_normal3
 bounds:137,2021,23,23
 offsets:1,0,24,23
@@ -473,6 +473,8 @@ offsets:1,1,160,188
 B_finge_touch3_R1
 bounds:61,1778,34,45
 offsets:0,0,34,48
+B_finge_touch3_R2
+bounds:974,1698,25,45
 B_finger_R1
 bounds:873,1170,47,45
 offsets:0,0,48,45
@@ -489,7 +491,7 @@ B_finger_touch1_R2
 bounds:510,1509,26,28
 offsets:1,0,28,28
 B_finger_touch1_R3
-bounds:59,944,31,32
+bounds:1088,1810,31,32
 B_finger_touch2_R
 bounds:219,1230,43,57
 B_finger_touch2_R1

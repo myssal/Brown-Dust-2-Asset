@@ -445,6 +445,19 @@
 		]
 	},
 	{
+		"idChar": "0037",
+		"charName": "Blade",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "003701",
+				"costumeName": "Apostle",
+				"spine": "char003701",
+				"cutscene": "cutscene_char003701"
+			}
+		]
+	},
+	{
 		"idChar": "0038",
 		"charName": "Liberta",
 		"rarity": "5",

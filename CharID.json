@@ -1016,6 +1016,12 @@
 				"costumeName": "Queen of Signatures",
 				"spine": "char067402",
 				"cutscene": "cutscene_char067402"
+			},
+			{
+				"idCostume": "067403",
+				"costumeName": "Acting Archbishop",
+				"spine": "",
+				"cutscene": "cutscene_char067403"
 			}
 		]
 	},	
@@ -1034,6 +1040,19 @@
 				"idCostume": "067503",
 				"costumeName": "Wild Dog",
 				"spine": "char067503",
+				"cutscene": ""
+			}
+		]
+	},	
+	{
+		"idChar": "0676",
+		"charName": "Wilhelmina",
+		"rarity": "",
+		"costume":	[
+			{
+				"idCostume": "067601",
+				"costumeName": "Iron Monarch",
+				"spine": "char067601",
 				"cutscene": ""
 			}
 		]

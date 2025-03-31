@@ -123,6 +123,9 @@ offsets:2,2,85,37
 eye_touch2
 bounds:1560,1614,91,64
 offsets:2,0,95,65
+eyebrow_determine
+bounds:1121,1585,85,32
+offsets:0,0,88,37
 eyebrow_normal
 bounds:1396,1631,85,33
 offsets:2,2,90,37
@@ -362,6 +365,9 @@ offsets:0,2,134,278
 leg_R3
 bounds:904,2011,34,35
 offsets:2,1,37,38
+mouth_determine
+bounds:406,2033,22,13
+offsets:0,0,23,13
 mouth_normal
 bounds:385,2032,22,14
 offsets:2,1,26,17

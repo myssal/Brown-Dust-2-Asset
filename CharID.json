@@ -428,6 +428,12 @@
 				"costumeName": "Daydream Bunny",
 				"spine": "char003402",
 				"cutscene": "cutscene_char003402"
+			},
+			{
+				"idCostume": "003403",
+				"costumeName": "",
+				"spine": "char003403",
+				"cutscene": ""
 			}
 		]
 	},
@@ -1053,7 +1059,7 @@
 				"idCostume": "067601",
 				"costumeName": "Iron Monarch",
 				"spine": "char067601",
-				"cutscene": ""
+				"cutscene": "cutscene_char067601"
 			}
 		]
 	},	

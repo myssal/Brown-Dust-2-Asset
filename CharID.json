@@ -226,7 +226,7 @@
 				"idCostume": "000801",
 				"costumeName": "Thorn of the Desert",
 				"spine": "char000801",
-				"cutscene": ""
+				"cutscene": "cutscene_char000801"
 			},
 			{
 				"idCostume": "000804",
@@ -431,9 +431,9 @@
 			},
 			{
 				"idCostume": "003403",
-				"costumeName": "",
+				"costumeName": "Apostle",
 				"spine": "char003403",
-				"cutscene": ""
+				"cutscene": "cutscene_char003403"
 			}
 		]
 	},

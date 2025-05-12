@@ -567,6 +567,58 @@
 		]
 	},
 	{
+		"idChar": "0206",
+		"charName": "Goblin Slayer",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020601",
+				"costumeName": "Orcbolg",
+				"spine": "char020601",
+				"cutscene": "cutscene_char020601"
+			}
+		]
+	},
+	{
+		"idChar": "0207",
+		"charName": "Priestess",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020701",
+				"costumeName": "Earth Mother Believer",
+				"spine": "char020701",
+				"cutscene": "cutscene_char020701"
+			}
+		]
+	},
+	{
+		"idChar": "0208",
+		"charName": "High Elf Archer",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020801",
+				"costumeName": "Daughter of Starwind",
+				"spine": "char020801",
+				"cutscene": "cutscene_char020801"
+			}
+		]
+	},
+	{
+		"idChar": "0209",
+		"charName": "Sword Maiden",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "020901",
+				"costumeName": "Supreme God Archbishop",
+				"spine": "char020901",
+				"cutscene": ""
+			}
+		]
+	},
+	{
 		"idChar": "0603",
 		"charName": "Alec",
 		"rarity": "5",

@@ -199,7 +199,7 @@
 		"costume":	[
 			{
 				"idCostume": "000701",
-				"costumeName": "Dimesion Witch",
+				"costumeName": "Dimension Witch",
 				"spine": "char000701",
 				"cutscene": "cutscene_char000701"
 			},

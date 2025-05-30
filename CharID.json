@@ -199,7 +199,7 @@
 		"costume":	[
 			{
 				"idCostume": "000701",
-				"costumeName": "The Dimesion Witch",
+				"costumeName": "Dimension Witch",
 				"spine": "char000701",
 				"cutscene": "cutscene_char000701"
 			},
@@ -211,7 +211,7 @@
 			},
 			{
 				"idCostume": "000707",
-				"costumeName": "Beach Vacane",
+				"costumeName": "Beach Vacation",
 				"spine": "char000707",
 				"cutscene": "cutscene_char000707"
 			}
@@ -419,7 +419,7 @@
 		"costume":	[
 			{
 				"idCostume": "003401",
-				"costumeName": "Beach Vacane",
+				"costumeName": "Beach Vacation",
 				"spine": "char003401",
 				"cutscene": "cutscene_char003401"
 			},
@@ -460,6 +460,12 @@
 				"costumeName": "Apostle",
 				"spine": "char003701",
 				"cutscene": "cutscene_char003701"
+			},
+			{
+				"idCostume": "003703",
+				"costumeName": "Young Lady",
+				"spine": "char003703",
+				"cutscene": "cutscene_char003703"
 			}
 		]
 	},
@@ -468,6 +474,12 @@
 		"charName": "Liberta",
 		"rarity": "5",
 		"costume":	[
+			{
+				"idCostume": "003801",
+				"costumeName": "Dark Saintess",
+				"spine": "char003801",
+				"cutscene": "cutscene_char003801"
+			},
 			{
 				"idCostume": "003802",
 				"costumeName": "Onsen Manager",
@@ -702,7 +714,7 @@
 	},
 	{
 		"idChar": "0607",
-		"charName": "Rafina ",
+		"charName": "Rafina",
 		"rarity": "5",
 		"costume":	[
 			{
@@ -987,7 +999,7 @@
 			},
 			{
 				"idCostume": "067004",
-				"costumeName": "Onser Practitioner",
+				"costumeName": "Onsen Practitioner",
 				"spine": "char067004",
 				"cutscene": "cutscene_char067004"
 			}
@@ -1090,7 +1102,7 @@
 		"costume":	[
 			{
 				"idCostume": "067502",
-				"costumeName": "Dead Snatcher",
+				"costumeName": "Deal Snatcher",
 				"spine": "char067502",
 				"cutscene": "cutscene_char067502"
 			},
@@ -1122,7 +1134,7 @@
 		"costume":	[
 			{
 				"idCostume": "100101",
-				"costumeName": "Lupo Hunter",
+				"costumeName": "Lugo Hunter",
 				"spine": "char100101",
 				"cutscene": ""
 			}
@@ -1258,7 +1270,7 @@
 	},
 	{
 		"idChar": "1013",
-		"charName": "Enma",
+		"charName": "Emma",
 		"rarity": "3",
 		"costume":	[
 			{

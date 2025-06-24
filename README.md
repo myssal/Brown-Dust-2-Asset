@@ -18,4 +18,4 @@ If you’d like to contribute or make suggestions:
 ## Cloning repository
 For faster cloning and saving bandwith, you can use this command to clone which should be fine in most case:
 
-`git clone --depth 1 https://github.com/myssal/Reverse-1999-CN-Asset.git`
+`git clone --depth 1 https://github.com/myssal/Brown-Dust-2-Asset.git`

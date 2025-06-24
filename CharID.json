@@ -214,6 +214,12 @@
 				"costumeName": "Beach Vacation",
 				"spine": "char000707",
 				"cutscene": "cutscene_char000707"
+			},
+			{
+				"idCostume": "000708",
+				"costumeName": "Dream Bride",
+				"spine": "char000708",
+				"cutscene": "cutscene_char000708"
 			}
 		]
 	},
@@ -823,6 +829,12 @@
 				"costumeName": "Robin Hood",
 				"spine": "char061402",
 				"cutscene": "cutscene_char061402"
+			},
+			{
+				"idCostume": "061404",
+				"costumeName": "",
+				"spine": "char061404",
+				"cutscene": "cutscene_char061404"
 			}
 		]
 	},
@@ -957,6 +969,12 @@
 				"costumeName": "Pure White Blessing",
 				"spine": "char066802",
 				"cutscene": "cutscene_char066802"
+			},
+			{
+				"idCostume": "066803",
+				"costumeName": "Poolside Fairy",
+				"spine": "char066803",
+				"cutscene": "cutscene_char066803"
 			}
 		]
 	},
@@ -1124,6 +1142,12 @@
 				"costumeName": "Iron Monarch",
 				"spine": "char067601",
 				"cutscene": "cutscene_char067601"
+			},
+			{
+				"idCostume": "067603",
+				"costumeName": "Water Park Queen",
+				"spine": "char067603",
+				"cutscene": "cutscene_char067603"
 			}
 		]
 	},	

@@ -457,6 +457,31 @@
 		]
 	},
 	{
+		"idChar": "0036",
+		"charName": "Olivier",
+		"rarity": "5",
+		"costume":	[
+			{
+				"idCostume": "003601",
+				"costumeName": "",
+				"spine": "char003601",
+				"cutscene": ""
+			},
+			{
+				"idCostume": "003602",
+				"costumeName": "",
+				"spine": "char003602",
+				"cutscene": ""
+			},
+			{
+				"idCostume": "003603",
+				"costumeName": "Fallen Wing",
+				"spine": "char00603",
+				"cutscene": "cutscene_char003603"
+			}
+		]
+	},
+	{
 		"idChar": "0037",
 		"charName": "Blade",
 		"rarity": "5",

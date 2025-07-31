@@ -469,9 +469,9 @@
 			},
 			{
 				"idCostume": "003602",
-				"costumeName": "",
+				"costumeName": "Apostle",
 				"spine": "char003602",
-				"cutscene": ""
+				"cutscene": "cutscene_char003602"
 			},
 			{
 				"idCostume": "003603",

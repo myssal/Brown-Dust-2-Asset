@@ -31,7 +31,7 @@
 			},
 			{
 				"idCostume": "000105",
-				"costumeName": "Promise of Vengance",
+				"costumeName": "Promise of Vengeance",
 				"spine": "char000105",
 				"cutscene": ""
 			},
@@ -463,7 +463,7 @@
 		"costume":	[
 			{
 				"idCostume": "003601",
-				"costumeName": "",
+				"costumeName": "Faithful Wings",
 				"spine": "char003601",
 				"cutscene": ""
 			},
@@ -475,7 +475,7 @@
 			},
 			{
 				"idCostume": "003603",
-				"costumeName": "Fallen Wing",
+				"costumeName": "Fallen Wings",
 				"spine": "char00603",
 				"cutscene": "cutscene_char003603"
 			}
@@ -857,7 +857,7 @@
 			},
 			{
 				"idCostume": "061404",
-				"costumeName": "",
+				"costumeName": "Poolside Guardian",
 				"spine": "char061404",
 				"cutscene": "cutscene_char061404"
 			}

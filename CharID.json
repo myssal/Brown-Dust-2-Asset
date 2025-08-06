@@ -174,7 +174,7 @@
 			},
 			{
 				"idCostume": "000502",
-				"costumeName": "Red Hat",
+				"costumeName": "Red Riding Hood",
 				"spine": "char000502",
 				"cutscene": "cutscene_char000502",
 				"releaseDate": "2023-09-26"
@@ -785,7 +785,7 @@
 	},
 	{
 		"idChar": "0605",
-		"charName": "Anatasia",
+		"charName": "Anastasia",
 		"rarity": "5",
 		"costume":	[
 			{
@@ -869,7 +869,7 @@
 				"idCostume": "060802",
 				"costumeName": "Code Name O",
 				"spine": "char060802",
-				"cutscene": "",
+				"cutscene": "cutscene_char060802",
 				"releaseDate": "2023-06-22"
 			}
 		]

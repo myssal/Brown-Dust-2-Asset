@@ -88,7 +88,13 @@
         "spine": "char000206",
         "cutscene": "cutscene_char000206"
       }
-    ]
+    ],
+    "prestigeSkin": {
+      "prestigeSkinName": "Hot Summer Dream",
+      "releaseDate": "",
+      "spine": "char000296",
+      "interact": "illust_dating7"
+    }
   },
   {
     "charId": "0003",
@@ -276,6 +282,13 @@
         "releaseDate": "2024-02-22",
         "spine": "char000806",
         "cutscene": "cutscene_char000806"
+      },
+      {
+        "costumeId": "000807",
+        "costumeName": "Bikini Agent",
+        "releaseDate": "UNREALEASED",
+        "spine": "char000807",
+        "cutscene": ""
       }
     ]
   },
@@ -304,8 +317,19 @@
         "releaseDate": "2023-08-23",
         "spine": "char001004",
         "cutscene": "cutscene_char001004"
+      },
+      {
+        "costumeId": "001006",
+        "costumeName": "Bikini Agent",
+        "releaseDate": "2025-08-14",
+        "spine": "char001006",
+        "cutscene": "cutscene_char001006"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-08-14",
+      "interact": "illust_dating8"
+    }
   },
   {
     "charId": "0011",
@@ -333,7 +357,17 @@
         "spine": "char001107",
         "cutscene": "cutscene_char001107"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-02-13",
+      "interact": "illust_dating4"
+    },
+    "prestigeSkin": {
+      "prestigeSkinName": "Milky Bikini",
+      "releaseDate": "2025-08-14",
+      "spine": "char001197",
+      "interact": "illust_dating9"
+    }
   },
   {
     "charId": "0012",
@@ -438,7 +472,11 @@
         "spine": "char003203",
         "cutscene": "cutscene_char003203"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-01-04",
+      "interact": "illust_dating3"
+    }
   },
   {
     "charId": "0033",
@@ -466,7 +504,11 @@
         "spine": "char003303",
         "cutscene": "cutscene_char003303"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2024-12-17",
+      "interact": "illust_dating1"
+    }
   },
   {
     "charId": "0034",
@@ -494,7 +536,11 @@
         "spine": "char003403",
         "cutscene": "cutscene_char003403"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-01-04",
+      "interact": "illust_dating2"
+    }
   },
   {
     "charId": "0035",
@@ -872,7 +918,11 @@
         "spine": "char060802",
         "cutscene": "cutscene_char060802"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-03-26",
+      "interact": "illust_dating5"
+    }
   },
   {
     "charId": "0610",
@@ -1299,7 +1349,11 @@
         "spine": "char067603",
         "cutscene": "cutscene_char067603"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-07-22",
+      "interact": "illust_dating6"
+    }
   },
   {
     "charId": "1001",

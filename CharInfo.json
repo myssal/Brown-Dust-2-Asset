@@ -1,0 +1,1633 @@
+[
+  {
+    "charId": "0001",
+    "charName": "Lathel",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000101",
+        "costumeName": "Medicinal Herb Tracker",
+        "releaseDate": "2023-09-13",
+        "spine": "char000101",
+        "cutscene": "cutscene_char000101"
+      },
+      {
+        "costumeId": "000102",
+        "costumeName": "Lonely Survivor",
+        "releaseDate": "2023-06-22",
+        "spine": "char000102",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000103",
+        "costumeName": "Homunculus",
+        "releaseDate": "2023-09-13",
+        "spine": "char000103",
+        "cutscene": "cutscene_char000103"
+      },
+      {
+        "costumeId": "000104",
+        "costumeName": "Dark Knight",
+        "releaseDate": "2023-06-22",
+        "spine": "char000104",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000105",
+        "costumeName": "Promise of Vengeance",
+        "releaseDate": "2025-02-12",
+        "spine": "char000105",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000106",
+        "costumeName": "Pool Party",
+        "releaseDate": "2023-08-02",
+        "spine": "char000106",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0002",
+    "charName": "Justia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000201",
+        "costumeName": "Knight of Blood",
+        "releaseDate": "2023-06-22",
+        "spine": "char000201",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000202",
+        "costumeName": "White Reaper",
+        "releaseDate": "2023-06-22",
+        "spine": "char000202",
+        "cutscene": "cutscene_char000202"
+      },
+      {
+        "costumeId": "000203",
+        "costumeName": "Blood Glutton",
+        "releaseDate": "2024-02-07",
+        "spine": "char000203",
+        "cutscene": "cutscene_char000203"
+      },
+      {
+        "costumeId": "000204",
+        "costumeName": "Kendo Club",
+        "releaseDate": "2023-06-22",
+        "spine": "char000204",
+        "cutscene": "cutscene_char000204"
+      },
+      {
+        "costumeId": "000206",
+        "costumeName": "Pool Party",
+        "releaseDate": "2023-08-02",
+        "spine": "char000206",
+        "cutscene": "cutscene_char000206"
+      }
+    ]
+  },
+  {
+    "charId": "0003",
+    "charName": "Scheherazade",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000301",
+        "costumeName": "The Lapis Witch",
+        "releaseDate": "2023-06-22",
+        "spine": "char000301",
+        "cutscene": "cutscene_char000301"
+      },
+      {
+        "costumeId": "000303",
+        "costumeName": "The Magic School Professor",
+        "releaseDate": "2023-06-22",
+        "spine": "char000303",
+        "cutscene": "cutscene_char000303"
+      },
+      {
+        "costumeId": "000304",
+        "costumeName": "Code Name S",
+        "releaseDate": "2023-06-22",
+        "spine": "char000304",
+        "cutscene": "cutscene_char000304"
+      },
+      {
+        "costumeId": "000306",
+        "costumeName": "Pool Party",
+        "releaseDate": "2023-08-10",
+        "spine": "char000306",
+        "cutscene": "cutscene_char000306"
+      }
+    ]
+  },
+  {
+    "charId": "0004",
+    "charName": "Gray",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000401",
+        "costumeName": "The Sharpshooter of the Mist",
+        "releaseDate": "2023-06-22",
+        "spine": "char000401",
+        "cutscene": "cutscene_char000401"
+      },
+      {
+        "costumeId": "000402",
+        "costumeName": "B-Rank Manager",
+        "releaseDate": "2023-06-05",
+        "spine": "char000402",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000403",
+        "costumeName": "Vanguard",
+        "releaseDate": "2023-06-22",
+        "spine": "char000403",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000406",
+        "costumeName": "Pool Party",
+        "releaseDate": "2023-08-02",
+        "spine": "char000406",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0005",
+    "charName": "Rou",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000501",
+        "costumeName": "White Cat",
+        "releaseDate": "2023-06-22",
+        "spine": "char000501",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000502",
+        "costumeName": "Red Riding Hood",
+        "releaseDate": "2023-09-26",
+        "spine": "char000502",
+        "cutscene": "cutscene_char000502"
+      },
+      {
+        "costumeId": "000504",
+        "costumeName": "Nature\u0027s Claw",
+        "releaseDate": "2023-06-22",
+        "spine": "char000504",
+        "cutscene": "cutscene_char000504"
+      },
+      {
+        "costumeId": "000506",
+        "costumeName": "Stray Cat",
+        "releaseDate": "2024-12-05",
+        "spine": "char000506",
+        "cutscene": "cutscene_char000506"
+      }
+    ]
+  },
+  {
+    "charId": "0006",
+    "charName": "Olstein",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000601",
+        "costumeName": "The Fiend Scholar",
+        "releaseDate": "2023-06-22",
+        "spine": "char000601",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "000604",
+        "costumeName": "Sage of Blue Clouds",
+        "releaseDate": "2023-11-16",
+        "spine": "char000604",
+        "cutscene": "cutscene_char000604"
+      }
+    ]
+  },
+  {
+    "charId": "0007",
+    "charName": "Eclipse",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000701",
+        "costumeName": "Dimension Witch",
+        "releaseDate": "2023-06-22",
+        "spine": "char000701",
+        "cutscene": "cutscene_char000701"
+      },
+      {
+        "costumeId": "000706",
+        "costumeName": "Nightmare Bunny",
+        "releaseDate": "2023-12-21",
+        "spine": "char000706",
+        "cutscene": "cutscene_char000706"
+      },
+      {
+        "costumeId": "000707",
+        "costumeName": "Beach Vacation",
+        "releaseDate": "2024-09-05",
+        "spine": "char000707",
+        "cutscene": "cutscene_char000707"
+      },
+      {
+        "costumeId": "000708",
+        "costumeName": "Dream Bride",
+        "releaseDate": "2025-06-19",
+        "spine": "char000708",
+        "cutscene": "cutscene_char000708"
+      }
+    ]
+  },
+  {
+    "charId": "0008",
+    "charName": "Rubia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "000801",
+        "costumeName": "Thorn of the Desert",
+        "releaseDate": "2023-06-22",
+        "spine": "char000801",
+        "cutscene": "cutscene_char000801"
+      },
+      {
+        "costumeId": "000804",
+        "costumeName": "The Empress of the Ocean",
+        "releaseDate": "2023-09-06",
+        "spine": "char000804",
+        "cutscene": "cutscene_char000804"
+      },
+      {
+        "costumeId": "000806",
+        "costumeName": "Maid Name C",
+        "releaseDate": "2024-02-22",
+        "spine": "char000806",
+        "cutscene": "cutscene_char000806"
+      }
+    ]
+  },
+  {
+    "charId": "0010",
+    "charName": "Sylvia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "001001",
+        "costumeName": "Desert Flower",
+        "releaseDate": "2023-06-22",
+        "spine": "char001001",
+        "cutscene": "cutscene_char001001"
+      },
+      {
+        "costumeId": "001002",
+        "costumeName": "The Sword Queen",
+        "releaseDate": "2023-11-23",
+        "spine": "char001002",
+        "cutscene": "cutscene_char001002"
+      },
+      {
+        "costumeId": "001004",
+        "costumeName": "Admiral",
+        "releaseDate": "2023-08-23",
+        "spine": "char001004",
+        "cutscene": "cutscene_char001004"
+      }
+    ]
+  },
+  {
+    "charId": "0011",
+    "charName": "Teresse",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "001101",
+        "costumeName": "Angel of Destruction",
+        "releaseDate": "2023-06-22",
+        "spine": "char001101",
+        "cutscene": "cutscene_char001101"
+      },
+      {
+        "costumeId": "001106",
+        "costumeName": "Medical Club",
+        "releaseDate": "2024-03-14",
+        "spine": "char001106",
+        "cutscene": "cutscene_char001106"
+      },
+      {
+        "costumeId": "001107",
+        "costumeName": "Beachside Angel",
+        "releaseDate": "2024-08-14",
+        "spine": "char001107",
+        "cutscene": "cutscene_char001107"
+      }
+    ]
+  },
+  {
+    "charId": "0012",
+    "charName": "Liatris",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "001201",
+        "costumeName": "Rodev\u0027s Star",
+        "releaseDate": "2023-06-22",
+        "spine": "char001201",
+        "cutscene": "cutscene_char001201"
+      },
+      {
+        "costumeId": "001206",
+        "costumeName": "Neon Stalker",
+        "releaseDate": "2023-09-13",
+        "spine": "char001206",
+        "cutscene": "cutscene_char001206"
+      },
+      {
+        "costumeId": "001207",
+        "costumeName": "Maid Name R",
+        "releaseDate": "2024-02-15",
+        "spine": "char001207",
+        "cutscene": "cutscene_char001207"
+      }
+    ]
+  },
+  {
+    "charId": "0024",
+    "charName": "Diana",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "002401",
+        "costumeName": "Adventurer of the Unknown",
+        "releaseDate": "2023-10-26",
+        "spine": "char002401",
+        "cutscene": "cutscene_char002401"
+      },
+      {
+        "costumeId": "002406",
+        "costumeName": "Anti-dystopia",
+        "releaseDate": "2024-01-04",
+        "spine": "char002406",
+        "cutscene": "cutscene_char002406"
+      }
+    ]
+  },
+  {
+    "charId": "0030",
+    "charName": "Layla",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "003001",
+        "costumeName": "Anvil of Creation",
+        "releaseDate": "2023-06-22",
+        "spine": "char003001",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0031",
+    "charName": "Elpis",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "003101",
+        "costumeName": "Hand of Salvation",
+        "releaseDate": "2023-06-22",
+        "spine": "",
+        "cutscene": "cutscene_char003101"
+      }
+    ]
+  },
+  {
+    "charId": "0032",
+    "charName": "Loen",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003201",
+        "costumeName": "Last Hope",
+        "releaseDate": "2024-05-09",
+        "spine": "",
+        "cutscene": "cutscene_char003201"
+      },
+      {
+        "costumeId": "003202",
+        "costumeName": "Track and Field Team",
+        "releaseDate": "2024-07-18",
+        "spine": "char003202",
+        "cutscene": "cutscene_char003202"
+      },
+      {
+        "costumeId": "003203",
+        "costumeName": "Celebrity Bunny",
+        "releaseDate": "2024-12-17",
+        "spine": "char003203",
+        "cutscene": "cutscene_char003203"
+      }
+    ]
+  },
+  {
+    "charId": "0033",
+    "charName": "Nebris",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003301",
+        "costumeName": "Labyrinth Gatekeeper",
+        "releaseDate": "2024-09-26",
+        "spine": "char003301",
+        "cutscene": "cutscene_char003301"
+      },
+      {
+        "costumeId": "003302",
+        "costumeName": "Laid-back Lifeguard",
+        "releaseDate": "2024-06-27",
+        "spine": "char003302",
+        "cutscene": "cutscene_char003302"
+      },
+      {
+        "costumeId": "003303",
+        "costumeName": "New Hire",
+        "releaseDate": "2024-12-05",
+        "spine": "char003303",
+        "cutscene": "cutscene_char003303"
+      }
+    ]
+  },
+  {
+    "charId": "0034",
+    "charName": "Morpeah",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003401",
+        "costumeName": "Beach Vacation",
+        "releaseDate": "2024-08-22",
+        "spine": "char003401",
+        "cutscene": "cutscene_char003401"
+      },
+      {
+        "costumeId": "003402",
+        "costumeName": "Daydream Bunny",
+        "releaseDate": "2024-12-17",
+        "spine": "char003402",
+        "cutscene": "cutscene_char003402"
+      },
+      {
+        "costumeId": "003403",
+        "costumeName": "Apostle",
+        "releaseDate": "2025-04-24",
+        "spine": "char003403",
+        "cutscene": "cutscene_char003403"
+      }
+    ]
+  },
+  {
+    "charId": "0035",
+    "charName": "Sacred Justia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003501",
+        "costumeName": "Reclaimed Destiny",
+        "releaseDate": "2024-07-04",
+        "spine": "char003501",
+        "cutscene": "cutscene_char003501"
+      }
+    ]
+  },
+  {
+    "charId": "0036",
+    "charName": "Olivier",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003601",
+        "costumeName": "Faithful Wings",
+        "releaseDate": "UNRELEASED",
+        "spine": "char003601",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "003602",
+        "costumeName": "Apostle",
+        "releaseDate": "2025-07-31",
+        "spine": "char003602",
+        "cutscene": "cutscene_char003602"
+      },
+      {
+        "costumeId": "003603",
+        "costumeName": "Fallen Wings",
+        "releaseDate": "2025-07-17",
+        "spine": "char00603",
+        "cutscene": "cutscene_char003603"
+      }
+    ]
+  },
+  {
+    "charId": "0037",
+    "charName": "Blade",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003701",
+        "costumeName": "Apostle",
+        "releaseDate": "2025-02-13",
+        "spine": "char003701",
+        "cutscene": "cutscene_char003701"
+      },
+      {
+        "costumeId": "003703",
+        "costumeName": "Young Lady",
+        "releaseDate": "2025-02-27",
+        "spine": "char003703",
+        "cutscene": "cutscene_char003703"
+      }
+    ]
+  },
+  {
+    "charId": "0038",
+    "charName": "Liberta",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003801",
+        "costumeName": "Dark Saintess",
+        "releaseDate": "2025-03-13",
+        "spine": "char003801",
+        "cutscene": "cutscene_char003801"
+      },
+      {
+        "costumeId": "003802",
+        "costumeName": "Onsen Manager",
+        "releaseDate": "2025-01-31",
+        "spine": "char003802",
+        "cutscene": "cutscene_char003802"
+      }
+    ]
+  },
+  {
+    "charId": "0200",
+    "charName": "Eris",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020001",
+        "costumeName": "Esteemed Adventurer",
+        "releaseDate": "2024-06-05",
+        "spine": "char020001",
+        "cutscene": "cutscene_char020101"
+      },
+      {
+        "costumeId": "020002",
+        "costumeName": "Your Very Own Cat",
+        "releaseDate": "2024-06-05  ",
+        "spine": "char020002",
+        "cutscene": "cutscene_char020102"
+      }
+    ]
+  },
+  {
+    "charId": "0201",
+    "charName": "Roxy",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020101",
+        "costumeName": "Respected Master",
+        "releaseDate": "2024-05-23",
+        "spine": "char020101",
+        "cutscene": "cutscene_char020101"
+      },
+      {
+        "costumeId": "020102",
+        "costumeName": "Emerging Desire",
+        "releaseDate": "2024-05-23",
+        "spine": "char020102",
+        "cutscene": "cutscene_char020102"
+      }
+    ]
+  },
+  {
+    "charId": "0202",
+    "charName": "Yomi",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020201",
+        "costumeName": "Gentle Destroyer",
+        "releaseDate": "2024-10-02",
+        "spine": "char020201",
+        "cutscene": "cutscene_char020201"
+      }
+    ]
+  },
+  {
+    "charId": "0203",
+    "charName": "Yozakura",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020301",
+        "costumeName": "Fist of Conviction",
+        "releaseDate": "2024-10-02",
+        "spine": "char020101",
+        "cutscene": "cutscene_char020301"
+      }
+    ]
+  },
+  {
+    "charId": "0204",
+    "charName": "Yumi",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020401",
+        "costumeName": "Dancing Snowflake",
+        "releaseDate": "2024-10-17",
+        "spine": "char020401",
+        "cutscene": "cutscene_char020401"
+      }
+    ]
+  },
+  {
+    "charId": "0205",
+    "charName": "Hikage",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020501",
+        "costumeName": "Kind Ruthlessness",
+        "releaseDate": "2024-10-02",
+        "spine": "char020501",
+        "cutscene": "cutscene_char020501"
+      }
+    ]
+  },
+  {
+    "charId": "0206",
+    "charName": "Goblin Slayer",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020601",
+        "costumeName": "Orcbolg",
+        "releaseDate": "2025-05-08",
+        "spine": "char020601",
+        "cutscene": "cutscene_char020601"
+      }
+    ]
+  },
+  {
+    "charId": "0207",
+    "charName": "Priestess",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020701",
+        "costumeName": "Earth Mother Believer",
+        "releaseDate": "2025-05-08",
+        "spine": "char020701",
+        "cutscene": "cutscene_char020701"
+      }
+    ]
+  },
+  {
+    "charId": "0208",
+    "charName": "High Elf Archer",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020801",
+        "costumeName": "Daughter of Starwind",
+        "releaseDate": "2025-05-08",
+        "spine": "char020801",
+        "cutscene": "cutscene_char020801"
+      }
+    ]
+  },
+  {
+    "charId": "0209",
+    "charName": "Sword Maiden",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "020901",
+        "costumeName": "Supreme God Archbishop",
+        "releaseDate": "2025-05-22",
+        "spine": "char020901",
+        "cutscene": "cutscene_char020801"
+      }
+    ]
+  },
+  {
+    "charId": "0603",
+    "charName": "Alec",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "060301",
+        "costumeName": "The Destruction",
+        "releaseDate": "2023-06-22",
+        "spine": "char060301",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "060302",
+        "costumeName": "Sword Breaker",
+        "releaseDate": "2023-06-22",
+        "spine": "char060302",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0604",
+    "charName": "Celia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "060401",
+        "costumeName": "The Curse",
+        "releaseDate": "2023-06-22",
+        "spine": "",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "060402",
+        "costumeName": "Descendant of the Great Witch",
+        "releaseDate": "2023-06-22",
+        "spine": "char060402",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "060403",
+        "costumeName": "Masquerade Bunny",
+        "releaseDate": "2023-12-28",
+        "spine": "char060403",
+        "cutscene": "cutscene_char060403"
+      }
+    ]
+  },
+  {
+    "charId": "0605",
+    "charName": "Anastasia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "060501",
+        "costumeName": "Gentle Maid",
+        "releaseDate": "2023-08-31",
+        "spine": "char060501",
+        "cutscene": "cutscene_char060501"
+      },
+      {
+        "costumeId": "060502",
+        "costumeName": "Fire Graffiti",
+        "releaseDate": "2023-08-31",
+        "spine": "char060502",
+        "cutscene": "cutscene_char060502"
+      }
+    ]
+  },
+  {
+    "charId": "0606",
+    "charName": "Lecliss",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "060601",
+        "costumeName": "Killer Doll",
+        "releaseDate": "2023-06-22",
+        "spine": "char060601",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "060602",
+        "costumeName": "Android Queen",
+        "releaseDate": "2023-06-22",
+        "spine": "char060602",
+        "cutscene": "cutscene_char060602"
+      }
+    ]
+  },
+  {
+    "charId": "0607",
+    "charName": "Rafina",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "060701",
+        "costumeName": "Steel Engine",
+        "releaseDate": "2023-06-22",
+        "spine": "char060701",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "060702",
+        "costumeName": "Code Name A",
+        "releaseDate": "2023-06-22",
+        "spine": "char060702",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "060706",
+        "costumeName": "Game Club",
+        "releaseDate": "2024-03-28",
+        "spine": "char060706",
+        "cutscene": "cutscene_char060706"
+      }
+    ]
+  },
+  {
+    "charId": "0608",
+    "charName": "Elise",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "060801",
+        "costumeName": "Lovely Lady",
+        "releaseDate": "2023-06-22",
+        "spine": "char060801",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "060802",
+        "costumeName": "Code Name O",
+        "releaseDate": "2023-06-22",
+        "spine": "char060802",
+        "cutscene": "cutscene_char060802"
+      }
+    ]
+  },
+  {
+    "charId": "0610",
+    "charName": "Helena",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "061001",
+        "costumeName": "Top Idol",
+        "releaseDate": "2023-06-22",
+        "spine": "char061001",
+        "cutscene": "cutscene_char061001"
+      },
+      {
+        "costumeId": "061002",
+        "costumeName": "B-Rank Idol",
+        "releaseDate": "2023-06-22",
+        "spine": "char061002",
+        "cutscene": "cutscene_char061002"
+      }
+    ]
+  },
+  {
+    "charId": "0611",
+    "charName": "Eleaneer",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "061101",
+        "costumeName": "Piercing Magic Bow",
+        "releaseDate": "2023-06-22",
+        "spine": "char061101",
+        "cutscene": "cutscene_char061101"
+      },
+      {
+        "costumeId": "061102",
+        "costumeName": "B-Rank Idol",
+        "releaseDate": "2023-06-22",
+        "spine": "char061102",
+        "cutscene": "cutscene_char061102"
+      }
+    ]
+  },
+  {
+    "charId": "0613",
+    "charName": "Dalvi",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "061302",
+        "costumeName": "Bright Moon",
+        "releaseDate": "2023-12-07",
+        "spine": "char061302",
+        "cutscene": "cutscene_char061302"
+      },
+      {
+        "costumeId": "061305",
+        "costumeName": "Summer Vacation",
+        "releaseDate": "2024-06-20",
+        "spine": "char061305",
+        "cutscene": "cutscene_char061305"
+      }
+    ]
+  },
+  {
+    "charId": "0614",
+    "charName": "Zenith",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "061402",
+        "costumeName": "Robin Hood",
+        "releaseDate": "2023-10-26",
+        "spine": "char061402",
+        "cutscene": "cutscene_char061402"
+      },
+      {
+        "costumeId": "061404",
+        "costumeName": "Poolside Guardian",
+        "releaseDate": "2025-07-03",
+        "spine": "char061404",
+        "cutscene": "cutscene_char061404"
+      }
+    ]
+  },
+  {
+    "charId": "0620",
+    "charName": "Andrew",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "062001",
+        "costumeName": "Loyal Butler",
+        "releaseDate": "2023-06-22",
+        "spine": "char062001",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "062002",
+        "costumeName": "Specialist",
+        "releaseDate": "2023-06-22",
+        "spine": "char062002",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0630",
+    "charName": "Ingrid",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "063001",
+        "costumeName": "Kardis\u0027 Bullet",
+        "releaseDate": "2023-06-22",
+        "spine": "char063001",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0633",
+    "charName": "Cynthia",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "063301",
+        "costumeName": "Warmth within the Severe Cold",
+        "releaseDate": "2023-06-22",
+        "spine": "char063301",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0634",
+    "charName": "Julie",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "063401",
+        "costumeName": "Healer",
+        "releaseDate": "2023-06-22",
+        "spine": "char063401",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0651",
+    "charName": "Yuri",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "065102",
+        "costumeName": "Whitebolt",
+        "releaseDate": "2023-11-30",
+        "spine": "char065102",
+        "cutscene": "cutscene_char065102"
+      },
+      {
+        "costumeId": "065103",
+        "costumeName": "Comeback Idol",
+        "releaseDate": "2024-01-18",
+        "spine": "char065103",
+        "cutscene": "cutscene_char065103"
+      }
+    ]
+  },
+  {
+    "charId": "0658",
+    "charName": "Nartas",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "065802",
+        "costumeName": "Anonymous Sage",
+        "releaseDate": "2023-12-14",
+        "spine": "char065802",
+        "cutscene": "cutscene_char065802"
+      }
+    ]
+  },
+  {
+    "charId": "0664",
+    "charName": "Angelica",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "066401",
+        "costumeName": "The Fallen",
+        "releaseDate": "2023-10-11",
+        "spine": "char066401",
+        "cutscene": "cutscene_char066401"
+      },
+      {
+        "costumeId": "066402",
+        "costumeName": "Pool Party",
+        "releaseDate": "2023-08-17",
+        "spine": "char066402",
+        "cutscene": "cutscene_char066402"
+      },
+      {
+        "costumeId": "066403",
+        "costumeName": "Neon Savior",
+        "releaseDate": "2023-09-21",
+        "spine": "char066403",
+        "cutscene": "cutscene_char066403"
+      }
+    ]
+  },
+  {
+    "charId": "0668",
+    "charName": "Refithea",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "066801",
+        "costumeName": "The Gluttonous",
+        "releaseDate": "2024-05-01",
+        "spine": "char066801",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "066802",
+        "costumeName": "Pure White Blessing",
+        "releaseDate": "2024-04-25",
+        "spine": "char066802",
+        "cutscene": "cutscene_char066802"
+      },
+      {
+        "costumeId": "066803",
+        "costumeName": "Poolside Fairy",
+        "releaseDate": "2025-06-26",
+        "spine": "char066803",
+        "cutscene": "cutscene_char066803"
+      }
+    ]
+  },
+  {
+    "charId": "0669",
+    "charName": "Glacia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "066902",
+        "costumeName": "Alice",
+        "releaseDate": "2023-09-25",
+        "spine": "char066902",
+        "cutscene": "cutscene_char066902"
+      },
+      {
+        "costumeId": "066906",
+        "costumeName": "Disciplinary Committee",
+        "releaseDate": "2024-03-21",
+        "spine": "char066906",
+        "cutscene": "cutscene_char066906"
+      }
+    ]
+  },
+  {
+    "charId": "0670",
+    "charName": "Ventana",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "067002",
+        "costumeName": "Snow White",
+        "releaseDate": "2023-10-11",
+        "spine": "char067002",
+        "cutscene": "cutscene_char067002"
+      },
+      {
+        "costumeId": "067003",
+        "costumeName": "Comeback Idol",
+        "releaseDate": "2024-02-01",
+        "spine": "char067003",
+        "cutscene": "cutscene_char067003"
+      },
+      {
+        "costumeId": "067004",
+        "costumeName": "Onsen Practitioner",
+        "releaseDate": "2025-01-16",
+        "spine": "char067004",
+        "cutscene": "cutscene_char067004"
+      }
+    ]
+  },
+  {
+    "charId": "0671",
+    "charName": "Granhildr",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "067101",
+        "costumeName": "The Void",
+        "releaseDate": "2024-02-29",
+        "spine": "char067101",
+        "cutscene": "cutscene_char067101"
+      },
+      {
+        "costumeId": "067102",
+        "costumeName": "Comeback Idol",
+        "releaseDate": "2024-01-25",
+        "spine": "char067102",
+        "cutscene": "cutscene_char067102"
+      }
+    ]
+  },
+  {
+    "charId": "0672",
+    "charName": "Venaka",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "067201",
+        "costumeName": "DJ",
+        "releaseDate": "2024-06-20",
+        "spine": "char067201",
+        "cutscene": "cutscene_char067201"
+      },
+      {
+        "costumeId": "067202",
+        "costumeName": "Wind Dancer",
+        "releaseDate": "2024-12-05",
+        "spine": "char067202",
+        "cutscene": "cutscene_char067202"
+      }
+    ]
+  },
+  {
+    "charId": "0673",
+    "charName": "Levia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "067301",
+        "costumeName": "Track and Field Captain",
+        "releaseDate": "2024-07-25",
+        "spine": "char067301",
+        "cutscene": "cutscene_char067301"
+      },
+      {
+        "costumeId": "067302",
+        "costumeName": "Night of Jealousy",
+        "releaseDate": "2024-09-12",
+        "spine": "char067302",
+        "cutscene": "cutscene_char067302"
+      },
+      {
+        "costumeId": "067303",
+        "costumeName": "Overheat",
+        "releaseDate": "2024-12-17",
+        "spine": "char067303",
+        "cutscene": "cutscene_char067303"
+      }
+    ]
+  },
+  {
+    "charId": "0674",
+    "charName": "Michaela",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "067401",
+        "costumeName": "Beachside Justice",
+        "releaseDate": "2024-08-29",
+        "spine": "char067401",
+        "cutscene": "cutscene_char067401"
+      },
+      {
+        "costumeId": "067402",
+        "costumeName": "Queen of Signatures",
+        "releaseDate": "2024-11-21",
+        "spine": "char067402",
+        "cutscene": "cutscene_char067402"
+      },
+      {
+        "costumeId": "067403",
+        "costumeName": "Acting Archbishop",
+        "releaseDate": "2025-03-27",
+        "spine": "",
+        "cutscene": "cutscene_char067403"
+      }
+    ]
+  },
+  {
+    "charId": "0675",
+    "charName": "Luvencia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "067502",
+        "costumeName": "Deal Snatcher",
+        "releaseDate": "2024-11-07",
+        "spine": "char067502",
+        "cutscene": "cutscene_char067502"
+      },
+      {
+        "costumeId": "067503",
+        "costumeName": "Wild Dog",
+        "releaseDate": "2025-01-02",
+        "spine": "char067503",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0676",
+    "charName": "Wilhelmina",
+    "rarity": 0,
+    "costumes": [
+      {
+        "costumeId": "067601",
+        "costumeName": "Iron Monarch",
+        "releaseDate": "2025-04-10",
+        "spine": "char067601",
+        "cutscene": "cutscene_char067601"
+      },
+      {
+        "costumeId": "067603",
+        "costumeName": "Water Park Queen",
+        "releaseDate": "2025-06-19",
+        "spine": "char067603",
+        "cutscene": "cutscene_char067603"
+      }
+    ]
+  },
+  {
+    "charId": "1001",
+    "charName": "Gynt",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "100101",
+        "costumeName": "Lugo Hunter",
+        "releaseDate": "2023-06-22",
+        "spine": "char100101",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1002",
+    "charName": "Fred",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "100201",
+        "costumeName": "Lugo Defense Force",
+        "releaseDate": "2023-06-22",
+        "spine": "char100201",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1003",
+    "charName": "Lisianne",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "100301",
+        "costumeName": "Wandering Priest",
+        "releaseDate": "2023-06-22",
+        "spine": "char100301",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1004",
+    "charName": "Remnunt",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "100401",
+        "costumeName": "Combat Doctor",
+        "releaseDate": "2023-06-22",
+        "spine": "char100401",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1005",
+    "charName": "Wiggle",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "100501",
+        "costumeName": "Bomb Fanatic",
+        "releaseDate": "2023-06-22",
+        "spine": "char100501",
+        "cutscene": "cutscene_char100501"
+      },
+      {
+        "costumeId": "100502",
+        "costumeName": "Bomb in the Hoodie",
+        "releaseDate": "2023-06-22",
+        "spine": "char100502",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1006",
+    "charName": "Lucrezia",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "100601",
+        "costumeName": "Seductive Wings",
+        "releaseDate": "2023-06-22",
+        "spine": "char100601",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1008",
+    "charName": "Bernie",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "100801",
+        "costumeName": "Righteous Raider Girl",
+        "releaseDate": "2023-06-22",
+        "spine": "char100801",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1011",
+    "charName": "Seir",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "101101",
+        "costumeName": "Demon\u0027s Daughter",
+        "releaseDate": "2023-06-22",
+        "spine": "char101101",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "101102",
+        "costumeName": "B-Rank Idol",
+        "releaseDate": "2023-07-20",
+        "spine": "char101102",
+        "cutscene": "cutscene_char101102"
+      },
+      {
+        "costumeId": "101103",
+        "costumeName": "New Hire",
+        "releaseDate": "2024-10-31",
+        "spine": "char101103",
+        "cutscene": "cutscene_char101103"
+      }
+    ]
+  },
+  {
+    "charId": "1012",
+    "charName": "Jayden",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "101201",
+        "costumeName": "Beautiful Gird Devotee",
+        "releaseDate": "2023-06-22",
+        "spine": "char101201",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "101202",
+        "costumeName": "Manga Research Club",
+        "releaseDate": "2023-06-22",
+        "spine": "char101202",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1013",
+    "charName": "Emma",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "101301",
+        "costumeName": "Haggard Delinquent",
+        "releaseDate": "2023-06-22",
+        "spine": "char101301",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "101302",
+        "costumeName": "School Queen",
+        "releaseDate": "2023-06-22",
+        "spine": "char101302",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1014",
+    "charName": "Samay",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "101401",
+        "costumeName": "Kind Liberator",
+        "releaseDate": "2023-06-22",
+        "spine": "char101401",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "101402",
+        "costumeName": "Kind Student",
+        "releaseDate": "2023-06-22",
+        "spine": "char101402",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1015",
+    "charName": "Kry",
+    "rarity": 4,
+    "costumes": [
+      {
+        "costumeId": "101501",
+        "costumeName": "Liberated Marauder",
+        "releaseDate": "2023-06-22",
+        "spine": "char101501",
+        "cutscene": ""
+      },
+      {
+        "costumeId": "101502",
+        "costumeName": "Violent Student",
+        "releaseDate": "2023-06-22",
+        "spine": "char101502",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1016",
+    "charName": "Celia",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "101601",
+        "costumeName": "The Curse",
+        "releaseDate": "2023-06-22",
+        "spine": "char101601",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1032",
+    "charName": "Carlson",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "103201",
+        "costumeName": "The Mercenary Knight",
+        "releaseDate": "2023-06-22",
+        "spine": "char103201",
+        "cutscene": "cutscene_char103201"
+      }
+    ]
+  },
+  {
+    "charId": "1033",
+    "charName": "Lydia",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "103301",
+        "costumeName": "Apprentice Spearman",
+        "releaseDate": "2023-06-22",
+        "spine": "char103301",
+        "cutscene": "cutscene_char103301"
+      }
+    ]
+  },
+  {
+    "charId": "1034",
+    "charName": "Rigenette",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "103401",
+        "costumeName": "Little Hunter",
+        "releaseDate": "2023-06-22",
+        "spine": "char103401",
+        "cutscene": "cutscene_char103401"
+      }
+    ]
+  },
+  {
+    "charId": "1035",
+    "charName": "Beatrice",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "103501",
+        "costumeName": "The Mighty Warrior of the Tribe",
+        "releaseDate": "2023-06-22",
+        "spine": "char103501",
+        "cutscene": "cutscene_char103501"
+      }
+    ]
+  },
+  {
+    "charId": "1036",
+    "charName": "Maria",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "103601",
+        "costumeName": "Archmage",
+        "releaseDate": "2023-06-22",
+        "spine": "char103601",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "1037",
+    "charName": "Arines",
+    "rarity": 3,
+    "costumes": [
+      {
+        "costumeId": "103701",
+        "costumeName": "Priest of Vitality",
+        "releaseDate": "2023-06-22",
+        "spine": "char103701",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "7040",
+    "charName": "",
+    "rarity": 0,
+    "costumes": [
+      {
+        "costumeId": "704001",
+        "costumeName": "",
+        "releaseDate": "",
+        "spine": "",
+        "cutscene": ""
+      }
+    ]
+  }
+]

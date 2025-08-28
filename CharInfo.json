@@ -286,9 +286,9 @@
       {
         "costumeId": "000807",
         "costumeName": "Bikini Agent",
-        "releaseDate": "UNREALEASED",
+        "releaseDate": "2025-08-28",
         "spine": "char000807",
-        "cutscene": ""
+        "cutscene": "cutscene_char000807"
       }
     ]
   },

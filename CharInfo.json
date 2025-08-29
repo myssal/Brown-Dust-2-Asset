@@ -455,7 +455,7 @@
         "costumeId": "003201",
         "costumeName": "Last Hope",
         "releaseDate": "2024-05-09",
-        "spine": "",
+        "spine": "char003201",
         "cutscene": "cutscene_char003201"
       },
       {

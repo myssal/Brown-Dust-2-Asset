@@ -6,7 +6,7 @@
     "costumes": [
       {
         "costumeId": "000101",
-        "costumeName": "Medicinal Herb Tracker",
+        "costumeName": "Herb Tracker",
         "releaseDate": "2023-09-13",
         "spine": "char000101",
         "cutscene": "cutscene_char000101"
@@ -285,7 +285,7 @@
       },
       {
         "costumeId": "000807",
-        "costumeName": "Bikini Agent",
+        "costumeName": "Maid Bikini",
         "releaseDate": "2025-08-28",
         "spine": "char000807",
         "cutscene": "cutscene_char000807"

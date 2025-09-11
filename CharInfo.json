@@ -627,6 +627,48 @@
     ]
   },
   {
+    "charId": "0039",
+    "charName": "Sonya",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "003901",
+        "costumeName": "Shadow Dream",
+        "releaseDate": "2025-09-11",
+        "spine": "char003901",
+        "cutscene": "cutscene_char003901"
+      }
+    ]
+  },
+  {
+    "charId": "0040",
+    "charName": "Darian",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "004001",
+        "costumeName": "Prophetic Dream",
+        "releaseDate": "UNRELEASED",
+        "spine": "char004001",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
+    "charId": "0041",
+    "charName": "Tyr",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "004101",
+        "costumeName": "Starlight Guardian",
+        "releaseDate": "UNRELEASED",
+        "spine": "char004101",
+        "cutscene": ""
+      }
+    ]
+  },
+  {
     "charId": "0200",
     "charName": "Eris",
     "rarity": 5,
@@ -1680,48 +1722,6 @@
         "costumeName": "",
         "releaseDate": "",
         "spine": "",
-        "cutscene": ""
-      }
-    ]
-  },
-  {
-    "charId": "0039",
-    "charName": "Sonya",
-    "rarity": 5,
-    "costumes": [
-      {
-        "costumeId": "003901",
-        "costumeName": "Shadow Dream",
-        "releaseDate": "2025-09-11",
-        "spine": "char003901",
-        "cutscene": "cutscene_char003901"
-      }
-    ]
-  },
-  {
-    "charId": "0040",
-    "charName": "Darian",
-    "rarity": 5,
-    "costumes": [
-      {
-        "costumeId": "004001",
-        "costumeName": "Prophetic Dream",
-        "releaseDate": "UNRELEASED",
-        "spine": "char004001",
-        "cutscene": ""
-      }
-    ]
-  },
-  {
-    "charId": "0041",
-    "charName": "Tyr",
-    "rarity": 5,
-    "costumes": [
-      {
-        "costumeId": "004101",
-        "costumeName": "Starlight Guardian",
-        "releaseDate": "UNRELEASED",
-        "spine": "char004101",
         "cutscene": ""
       }
     ]

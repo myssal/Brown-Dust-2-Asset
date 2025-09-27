@@ -648,9 +648,9 @@
       {
         "costumeId": "004001",
         "costumeName": "Prophetic Dream",
-        "releaseDate": "UNRELEASED",
+        "releaseDate": "2025-09-25",
         "spine": "char004001",
-        "cutscene": ""
+        "cutscene": "cutscene_char004001"
       }
     ]
   },
@@ -662,9 +662,9 @@
       {
         "costumeId": "004101",
         "costumeName": "Starlight Guardian",
-        "releaseDate": "UNRELEASED",
+        "releaseDate": "2025-09-25",
         "spine": "char004101",
-        "cutscene": ""
+        "cutscene": "cutscene_char004101"
       }
     ]
   },

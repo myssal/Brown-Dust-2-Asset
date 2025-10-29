@@ -637,6 +637,13 @@
         "releaseDate": "2025-09-11",
         "spine": "char003901",
         "cutscene": "cutscene_char003901"
+      },
+      {
+        "costumeId": "003902",
+        "costumeName": "Little Pumpkin Girl",
+        "releaseDate": "2025-10-23",
+        "spine": "char003902",
+        "cutscene": "cutscene_char003902"
       }
     ]
   },
@@ -1174,7 +1181,11 @@
         "spine": "char066403",
         "cutscene": "cutscene_char066403"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-10-23",
+      "interact": "illust_dating10"
+    }
   },
   {
     "charId": "0668",
@@ -1271,6 +1282,13 @@
         "releaseDate": "2024-01-25",
         "spine": "char067102",
         "cutscene": "cutscene_char067102"
+      },
+      {
+        "costumeId": "067103",
+        "costumeName": "Boo Ghost",
+        "releaseDate": "2025-10-23",
+        "spine": "char067103",
+        "cutscene": "cutscene_char067103"
       }
     ]
   },

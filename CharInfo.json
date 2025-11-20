@@ -564,9 +564,9 @@
       {
         "costumeId": "003601",
         "costumeName": "Faithful Wings",
-        "releaseDate": "UNRELEASED",
+        "releaseDate": "2025-11-20",
         "spine": "char003601",
-        "cutscene": ""
+        "cutscene": "cutscene_char003601"
       },
       {
         "costumeId": "003602",

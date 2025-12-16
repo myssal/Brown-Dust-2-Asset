@@ -1,5 +1,5 @@
 cutscene_char066902.png
-size:2048,2047
+size:2048,2048
 filter:Linear,Linear
 (S)apron2
 bounds:1911,1134,370,122
@@ -514,7 +514,7 @@ wink
 bounds:1395,307,80,66
 
 cutscene_char066902_2.png
-size:2048,565
+size:2048,1024
 filter:Linear,Linear
 (S)apron1
 bounds:341,171,402,141

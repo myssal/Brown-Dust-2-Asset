@@ -291,6 +291,9 @@ offsets:0,0,480,282
 A_back_hair_7
 bounds:1503,1784,326,134
 offsets:1,0,328,134
+A_back_hand_R1
+bounds:1346,81,700,259
+rotate:180
 A_eye
 bounds:534,1659,438,71
 offsets:2,1,442,102

@@ -506,6 +506,5 @@ rotate:180
 B_lower_body
 bounds:803,2,569,477
 bong
-bounds:1374,26,322,500
-offsets:12,19,334,547
+bounds:1374,14,334,547
 rotate:90

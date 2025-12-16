@@ -37,18 +37,15 @@ bounds:2,1073,46,80
 A_eye(L)
 bounds:2,1918,22,26
 A_eye(R)
-bounds:105,1592,27,29
-offsets:1,1,29,31
+bounds:105,1588,29,31
 A_eyeball(L)
 bounds:1124,1559,54,59
 A_eyeball(R)
 bounds:1244,1301,65,59
 A_eyebrow(L)
-bounds:121,2027,48,15
-offsets:1,1,51,17
+bounds:121,2025,51,17
 A_eyebrow(R)
-bounds:962,1397,76,49
-offsets:1,2,79,52
+bounds:999,1990,79,52
 A_eyelash(R)
 bounds:533,779,71,44
 A_hair_1
@@ -68,7 +65,7 @@ bounds:1256,1970,150,72
 A_hand(L)_1
 bounds:990,746,144,154
 A_hand(L)_2
-bounds:1450,1187,78,65
+bounds:962,1381,78,65
 A_hand(R)_1
 bounds:1139,509,175,108
 A_hand(R)_1_blur
@@ -77,7 +74,7 @@ A_hand(R)_2_blur
 bounds:1831,20,234,208
 rotate:270
 A_mouth
-bounds:1067,2000,65,42
+bounds:1252,1122,65,42
 A_nose
 bounds:525,1904,22,34
 A_upper body
@@ -96,7 +93,7 @@ C_cloak_3
 bounds:405,824,190,151
 rotate:90
 C_cloak_6
-bounds:967,1988,98,54
+bounds:1409,1198,98,54
 C_eyebrow
 bounds:2,1673,66,35
 C_eyes
@@ -129,7 +126,7 @@ bounds:1964,621,77,131
 D_ears(R)
 bounds:1959,1915,85,127
 D_eye_(L)
-bounds:1253,1122,51,51
+bounds:2,223,51,51
 D_eye_(R)
 bounds:1115,711,47,49
 offsets:1,1,49,52

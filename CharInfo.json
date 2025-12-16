@@ -255,7 +255,11 @@
         "spine": "char000708",
         "cutscene": "cutscene_char000708"
       }
-    ]
+    ],
+    "guest": {
+      "releaseDate": "2025-12-16",
+      "interact": "illust_dating11"
+    }
   },
   {
     "charId": "0008",
@@ -658,6 +662,13 @@
         "releaseDate": "2025-09-25",
         "spine": "char004001",
         "cutscene": "cutscene_char004001"
+      },
+      {
+        "costumeId": "004002",
+        "costumeName": "Bittersweet Bunny",
+        "releaseDate": "2025-12-16",
+        "spine": "char004002",
+        "cutscene": "cutscene_char004002"
       }
     ]
   },
@@ -1012,6 +1023,13 @@
         "releaseDate": "2023-06-22",
         "spine": "char061102",
         "cutscene": "cutscene_char061102"
+      },
+      {
+        "costumeId": "061103",
+        "costumeName": "Shadown Bunny",
+        "releaseDate": "2025-12-16",
+        "spine": "char061103",
+        "cutscene": "cutscene_char061103"
       }
     ]
   },
@@ -1055,7 +1073,13 @@
         "spine": "char061404",
         "cutscene": "cutscene_char061404"
       }
-    ]
+    ],
+    "prestigeSkin": {
+      "prestigeSkinName": "Stranger Bunny",
+      "releaseDate": "2025-12-16",
+      "spine": "char061492",
+      "interact": "illust_dating12"
+    }
   },
   {
     "charId": "0620",
@@ -1408,6 +1432,13 @@
         "releaseDate": "2025-06-19",
         "spine": "char067603",
         "cutscene": "cutscene_char067603"
+      },
+      {
+        "costumeId": "067604",
+        "costumeName": "char067604",
+        "releaseDate": "2025-12-16",
+        "spine": "cutscene_char067604",
+        "cutscene": "cutscene_char067604"
       }
     ],
     "guest": {

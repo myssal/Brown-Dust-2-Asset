@@ -7,11 +7,11 @@ rotate:180
 B_Clothes_nomal1
 bounds:1265,911,45,41
 B_Clothes_nomal2
-bounds:1469,353,490,616
-rotate:180
-B_Clothes_shy2
 bounds:1296,1274,490,616
 rotate:90
+B_Clothes_shy2
+bounds:1469,353,490,616
+rotate:180
 B_Jacket_nomal2
 bounds:2,45,201,638
 rotate:90

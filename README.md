@@ -1,4 +1,4 @@
-# Brown Dust 2 Assets  - NO LONGER UPDATE
+# Brown Dust 2 Assets
 ![Brown Dust 2 Header](header/header.png)
 
 This repository contains primarily 2D and Live2D assets from **Brown Dust 2**.

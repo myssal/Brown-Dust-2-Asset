@@ -274,6 +274,8 @@ mouth_normal
 bounds:239,344,18,14
 mouth_open
 bounds:139,492,19,17
+mouth_sigh
+bounds:2,493,17,16
 sword_1
 bounds:2,13,76,931
 rotate:270

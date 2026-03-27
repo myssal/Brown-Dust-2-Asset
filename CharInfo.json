@@ -186,6 +186,7 @@
         "costumeName": "Red Riding Hood",
         "releaseDate": "2023-09-26",
         "spine": "char000502",
+		"censored_spine": "char000502_c"
         "cutscene": "cutscene_char000502"
       },
       {
@@ -606,7 +607,11 @@
         "spine": "char003604",
         "cutscene": "cutscene_char003604"
       }
-    ]
+    ],
+	"guest": {
+      "releaseDate": "",
+      "interact": "illust_dating16"
+    }
   },
   {
     "charId": "0037",
@@ -1064,7 +1069,12 @@
         "spine": "char061002",
         "cutscene": "cutscene_char061002"
       }
-    ]
+    ],
+	"skin":{
+		"skinName": "Rising Star",
+		"spine": "char061092",
+		"cutscene": "cutscene_char061092_a"
+	}
   },
   {
     "charId": "0611",
@@ -1292,6 +1302,7 @@
         "costumeName": "Pure White Blessing",
         "releaseDate": "2024-04-25",
         "spine": "char066802",
+		"censored_spine": "char066802_c"
         "cutscene": "cutscene_char066802"
       },
       {
@@ -1536,6 +1547,20 @@
     ]
   },
   {
+    "charId": "0678",
+    "charName": "Mamonir",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "067801",
+        "costumeName": "Night of Death",
+        "releaseDate": "",
+        "spine": "char067801",
+        "cutscene": "cutscene_char067801"
+      }
+    ]
+  },
+  {
     "charId": "1001",
     "charName": "Gynt",
     "rarity": 3,
@@ -1650,6 +1675,7 @@
         "costumeName": "Demon\u0027s Daughter",
         "releaseDate": "2023-06-22",
         "spine": "char101101",
+		"censored_spine": "char10101_c",
         "cutscene": "cutscene_char101101"
       },
       {
@@ -1657,6 +1683,7 @@
         "costumeName": "B-Rank Idol",
         "releaseDate": "2023-07-20",
         "spine": "char101102",
+		"censored_spine": "char10102_c",
         "cutscene": "cutscene_char101102"
       },
       {

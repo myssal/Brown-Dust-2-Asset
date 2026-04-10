@@ -907,6 +907,20 @@
     ]
   },
   {
+    "charId": "0210",
+    "charName": "Karuga",
+    "rarity": 5,
+    "costumes": [
+      {
+        "costumeId": "021001",
+        "costumeName": "Noble Flame",
+        "releaseDate": "",
+        "spine": "char021001",
+        "cutscene": "cutscene_char021001"
+      }
+    ]
+  },
+  {
     "charId": "0603",
     "charName": "Alec",
     "rarity": 5,

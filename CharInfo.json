@@ -659,6 +659,13 @@
         "releaseDate": "2025-01-31",
         "spine": "char003802",
         "cutscene": "cutscene_char003802"
+      },
+	  {
+        "costumeId": "003803",
+        "costumeName": "Miracle Rose",
+        "releaseDate": "",
+        "spine": "char003803",
+        "cutscene": "cutscene_char003803"
       }
     ],
 	"prestigeSkin": {

@@ -756,8 +756,19 @@
         "releaseDate": "",
         "spine": "char004201",
         "cutscene": "cutscene_char004201"
+      },
+	  {
+        "costumeId": "004202",
+        "costumeName": "Miracle Violet",
+        "releaseDate": "",
+        "spine": "char004202",
+        "cutscene": "cutscene_char004202"
       }
-    ]
+    ],
+	"guest": {
+      "releaseDate": "",
+      "interact": "illust_dating17"
+    }
   },
   {
     "charId": "0200",

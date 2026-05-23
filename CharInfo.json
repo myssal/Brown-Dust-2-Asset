@@ -1589,6 +1589,13 @@
         "releaseDate": "",
         "spine": "char067801",
         "cutscene": "cutscene_char067801"
+      },
+	  {
+        "costumeId": "067803",
+        "costumeName": "Miracle Marine",
+        "releaseDate": "",
+        "spine": "char067803",
+        "cutscene": "cutscene_char067803"
       }
     ]
   },

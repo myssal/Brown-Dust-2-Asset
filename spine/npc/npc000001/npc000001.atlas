@@ -6,16 +6,20 @@ bounds:197,405,140,104
 rotate:180
 Eyebrow_1
 bounds:317,501,23,8
+Eyebrow_1_difficulty
+bounds:28,479,22,13
 Eyebrow_2
 bounds:43,495,26,14
+Eyebrow_2_difficulty
+bounds:431,501,29,8
 Hand(L)_1
-bounds:22,15,28,19
+bounds:302,107,28,19
 Hand(L)_2
 bounds:594,10,44,78
 Hand(L)_3
-bounds:236,3,45,35
+bounds:823,474,45,35
 Hand(L)_4
-bounds:355,118,17,28
+bounds:292,14,17,28
 Hand(L)_5
 bounds:1242,431,64,78
 Hand(L)_6
@@ -23,11 +27,11 @@ bounds:369,217,57,95
 Hand(L)_7
 bounds:984,4,58,48
 Hand(R)_1
-bounds:283,2,25,37
+bounds:668,82,25,37
 Hand(R)_2
 bounds:2,158,21,31
 Hand(R)_3
-bounds:664,78,27,41
+bounds:797,141,27,41
 Hand(R)_4
 bounds:505,305,31,38
 Hand(R)_5
@@ -74,7 +78,7 @@ bag
 bounds:155,115,58,66
 rotate:180
 belt back
-bounds:2,6,18,23
+bounds:32,11,18,23
 belt masking
 bounds:1055,8,70,124
 breast_1
@@ -96,17 +100,25 @@ offsets:0,1,46,102
 ear_2
 bounds:1368,166,58,80
 eye_1
-bounds:174,202,16,20
+bounds:373,316,16,20
 eye_2
-bounds:526,283,17,21
+bounds:738,488,17,21
 eye_3
 bounds:96,8,28,36
+eye_3_difficulty
+bounds:165,181,29,32
 eye_4
 bounds:54,2,40,41
+eye_4_difficulty
+bounds:255,2,35,37
+eyes line_1_difficulty
+bounds:740,370,25,20
+eyes line_2_difficulty
+bounds:263,385,37,19
 eyes line_normal_1
 bounds:2,490,39,19
 eyes line_normal_2
-bounds:302,105,27,20
+bounds:350,118,27,20
 face_nomal
 bounds:700,60,112,152
 hair_1
@@ -125,7 +137,7 @@ hair_15
 bounds:597,327,23,72
 offsets:0,0,24,72
 hair_2
-bounds:159,179,38,21
+bounds:510,286,38,21
 hair_3
 bounds:955,301,57,72
 rotate:90
@@ -176,8 +188,12 @@ rotate:180
 leg(R)_3
 bounds:342,190,179,319
 rotate:180
+mouth_difficulty
+bounds:2,145,23,11
 mouth_nomal
-bounds:263,386,28,19
+bounds:2,10,28,19
+mouth_smile
+bounds:48,86,26,13
 neck masking
 bounds:211,351,50,59
 rotate:180
@@ -196,9 +212,11 @@ rotate:90
 pocket_2
 bounds:442,6,56,63
 small bag_1
-bounds:823,476,45,33
+bounds:1124,7,45,33
 small bag_2
 bounds:310,8,53,46
+sweat_difficulty
+bounds:186,465,8,11
 tail_1
 bounds:194,101,185,284
 offsets:0,0,185,285

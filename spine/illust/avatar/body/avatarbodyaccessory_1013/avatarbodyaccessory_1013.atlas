@@ -1,0 +1,148 @@
+avatarbodyaccessory_1013.png
+size:1024,1024
+filter:Linear,Linear
+scale:0.5
+1013_Foot_L_1
+bounds:143,579,221,424
+1013_Foot_L_10
+bounds:444,8,49,55
+1013_Foot_L_11
+bounds:112,796,43,64
+1013_Foot_L_2
+bounds:679,58,92,182
+1013_Foot_L_4
+bounds:929,932,71,84
+rotate:90
+1013_Foot_L_5
+bounds:2,613,62,92
+1013_Foot_L_6
+bounds:620,228,61,80
+rotate:270
+1013_Foot_L_7
+bounds:99,295,54,70
+1013_Foot_L_8
+bounds:558,926,52,77
+rotate:180
+1013_Foot_L_9
+bounds:2,228,50,75
+offsets:0,1,50,76
+1013_Foot_R_1
+bounds:119,859,91,77
+rotate:90
+1013_Foot_R_11
+bounds:349,606,249,397
+rotate:180
+1013_Foot_R_2
+bounds:235,445,51,47
+1013_Foot_R_3
+bounds:749,11,75,78
+rotate:180
+1013_Foot_R_4
+bounds:2,953,50,57
+rotate:90
+1013_Foot_R_5
+bounds:863,153,85,72
+1013_Foot_R_6
+bounds:934,622,81,58
+offsets:3,0,84,58
+1013_Foot_R_8
+bounds:2,56,87,145
+1013_Foot_R_9
+bounds:361,643,77,88
+rotate:180
+1013_Side hair_L1
+bounds:222,25,98,455
+rotate:270
+1013_Side hair_L2
+bounds:850,49,172,377
+rotate:180
+1013_Side hair_L4
+bounds:2,221,268,782
+1013_Side hair_L6
+bounds:891,570,126,119
+rotate:270
+1013_Side hair_L7
+bounds:775,25,101,204
+rotate:270
+1013_chest
+bounds:585,643,360,236
+rotate:90
+1013_chest ribbon_R
+bounds:767,931,129,72
+1013_chest_accessory
+bounds:734,633,57,47
+1013_eye patch
+bounds:791,634,86,86
+1013_eye1
+bounds:348,92,67,53
+1013_eye2
+bounds:49,592,47,38
+1013_eyebrow1
+bounds:508,575,63,30
+1013_eyebrow2
+bounds:822,973,64,30
+1013_eyeline1
+bounds:75,27,88,46
+1013_eyeline2
+bounds:384,343,96,37
+1013_face
+bounds:285,379,299,257
+1013_face hair
+bounds:496,194,328,286
+rotate:180
+1013_front hair1
+bounds:325,210,54,166
+rotate:90
+1013_front hair10
+bounds:85,2,68,135
+rotate:90
+1013_front hair3
+bounds:2,308,35,163
+1013_front hair4
+bounds:883,208,89,216
+1013_front hair5
+bounds:814,173,69,219
+1013_front hair7
+bounds:77,363,75,190
+1013_front hair9
+bounds:494,19,66,219
+rotate:90
+1013_front_L_1
+bounds:2,165,182,421
+1013_front_R_3
+bounds:272,124,149,411
+rotate:90
+1013_hair pin_L
+bounds:395,247,99,93
+1013_hair_shadow1
+bounds:790,90,58,84
+1013_hair_shadow2
+bounds:355,911,52,92
+1013_hair_shadow3
+bounds:186,556,38,78
+1013_hair_shadow4
+bounds:561,825,23,85
+1013_hand_L_1
+bounds:229,494,43,85
+1013_hand_L_2
+bounds:193,66,81,72
+rotate:90
+1013_hand_L_4
+bounds:715,973,42,30
+1013_hand_L_5
+bounds:583,221,132,177
+rotate:90
+1013_leg_L
+bounds:577,420,223,425
+rotate:270
+1013_mouth
+bounds:423,87,85,61
+1013_ribbon1_L
+bounds:183,58,163,160
+1013_ribbon2_L
+bounds:261,281,161,160
+1013_skirt1
+bounds:816,698,206,250
+rotate:180
+1013_skirt2
+bounds:85,58,137,106

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "020301",
+  "visualSignature": "4954ffab6b179971a4bde7031d9666da2ab92f2cfe03be05b21849f3824f1475",
+  "duration": 6.183333333333334,
+  "sourceTimeline": "Char020301",
+  "clips": [
+    {
+      "id": "538fdd78-4d19eac9-7a8247b8-1f95b40a-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char020301_Skill_CutScene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 5,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char020301_Skill_CutScene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "c65b1368-45902818-bc18e487-59a51fcc-1",
+      "event": "event:/Voices/Common/Char020301/Char020301_Cutscene1",
+      "kind": "voice",
+      "start": 0,
+      "duration": 1.9,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/020301/Char020301_BattleSkill_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/020301/Char020301_BattleSkill_1.wav"
+        ]
+      }
+    },
+    {
+      "id": "d5ca0236-4bb5bb66-3cedb488-4b074f9e-2",
+      "event": "event:/Voices/Common/Char020301/Char020301_Cutscene2",
+      "kind": "voice",
+      "start": 3.9166666666666665,
+      "duration": 1.9,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/020301/Char020301_BattleSkill_2.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/020301/Char020301_BattleSkill_2.wav"
+        ]
+      }
+    },
+    {
+      "id": "a84271cc-4891d56b-6c440fa2-1b40e341-3",
+      "event": "event:/Voices/Common/Char020301/Char020301_Cutscene3",
+      "kind": "voice",
+      "start": 4.9,
+      "duration": 1.083333333333333,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/020301/Char020301_BattleSkill_3.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/020301/Char020301_BattleSkill_3.wav"
+        ]
+      }
+    }
+  ]
+}

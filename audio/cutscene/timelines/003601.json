@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "003601",
+  "visualSignature": "5f8ac8fee6ed7c94e978a40e62137663b8696767ee6dfaf1af7e42f95cdc5303",
+  "duration": 7.333333492279053,
+  "sourceTimeline": "Char003601",
+  "clips": [
+    {
+      "id": "68187568-410f8219-882a45b7-e7bd521f-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char003601_Skill_CutScene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 5,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char003601_Skill_CutScene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "077e1f74-40ef759c-50cc9aa0-65954d28-1",
+      "event": "event:/Voices/Common/Char003601/Char003601_Cutscene1",
+      "kind": "voice",
+      "start": 0.3333333333333333,
+      "duration": 2,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/003601/Char003601_Cutscene5_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/003601/Char003601_Cutscene5_1.wav"
+        ]
+      }
+    },
+    {
+      "id": "12143889-4a61d4a1-7ebbf4a3-e09dde7a-2",
+      "event": "event:/Voices/Common/Char003601/Char003601_Cutscene2",
+      "kind": "voice",
+      "start": 4.116666666666666,
+      "duration": 2,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/003601/Char003601_Cutscene5_2.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/003601/Char003601_Cutscene5_2.wav"
+        ]
+      }
+    }
+  ]
+}

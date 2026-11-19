@@ -1,0 +1,431 @@
+{
+  "counts": {
+    "performances": 174,
+    "timelineClips": 538,
+    "soundEffects": 174,
+    "streamingSoundEffects": 30,
+    "audioBytes": 382248208,
+    "japaneseVoices": 360,
+    "koreanVoices": 310,
+    "missingJapaneseEvents": 1,
+    "missingKoreanEvents": 51
+  },
+  "missing": [
+    {
+      "cutsceneId": "001201",
+      "event": "event:/Voices/Common/Char001201/Char001201_Cutscene1",
+      "sample": "Char001201_BattleSkill_2",
+      "language": "ko-KR",
+      "start": 2.1666666666666665,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001206",
+      "event": "event:/Voices/Common/Char001206/Char001206_Cutscene4",
+      "sample": "Char001206_Surprise_1",
+      "language": "ko-KR",
+      "start": 0.33,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001206",
+      "event": "event:/Voices/Common/Char001206/Char001206_Cutscene1",
+      "sample": "Char001206_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 1.3333333333333333,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001206",
+      "event": "event:/Voices/Common/Char001206/Char001206_Cutscene2",
+      "sample": "Char001206_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 2.833333,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001207",
+      "event": "event:/Voices/Common/Char001207/Char001207_Cutscene1",
+      "sample": "Char001207_Surprise_1",
+      "language": "ko-KR",
+      "start": 1.3666666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001207",
+      "event": "event:/Voices/Common/Char001207/Char001207_Cutscene2",
+      "sample": "Char001207_Cutscene8",
+      "language": "ko-KR",
+      "start": 2.316666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001207",
+      "event": "event:/Voices/Common/Char001207/Char001207_Cutscene3",
+      "sample": "Char001207_Cutscene2",
+      "language": "ko-KR",
+      "start": 4.916666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001297",
+      "event": "event:/Voices/Common/Char001297/Char001297_Cutscene1",
+      "sample": "Char001297_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "001297",
+      "event": "event:/Voices/Common/Char001297/Char001297_Cutscene2",
+      "sample": "Char001297_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 5.933333333333334,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "003701",
+      "event": "event:/Voices/Common/Char003701/Char003701_Cutscene1",
+      "sample": "Char003701_Cutscene2",
+      "language": "ko-KR",
+      "start": 0.8,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "003702",
+      "event": "event:/Voices/Common/Char003702/Char003702_Cutscene1",
+      "sample": "Char003702_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 0.23333333333333334,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "003702",
+      "event": "event:/Voices/Common/Char003702/Char003702_Cutscene2",
+      "sample": "Char003702_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 3.8,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "003703",
+      "event": "event:/Voices/Common/Char003703/Char003703_Cutscene1",
+      "sample": "Char003703_Cutscene2",
+      "language": "ko-KR",
+      "start": 0.2,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "003793",
+      "event": "event:/Voices/Common/Char003793/Char003793_Cutscene1",
+      "sample": "Char003793_Cutscene5_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "003793",
+      "event": "event:/Voices/Common/Char003793/Char003793_Cutscene2",
+      "sample": "Char003793_Cutscene5_2",
+      "language": "ko-KR",
+      "start": 3.500000238418579,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004001",
+      "event": "event:/Voices/Common/Char004001/Char004001_Cutscene2",
+      "sample": "Char004001_Cutscene8",
+      "language": "ja-JP",
+      "start": 3.966666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004001",
+      "event": "event:/Voices/Common/Char004001/Char004001_Cutscene2",
+      "sample": "Char004001_Cutscene8",
+      "language": "ko-KR",
+      "start": 3.966666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004101",
+      "event": "event:/Voices/Common/Char004101/Char004101_Cutscene1",
+      "sample": "Char004101_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004101",
+      "event": "event:/Voices/Common/Char004101/Char004101_Cutscene2",
+      "sample": "Char004101_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 2.8499996662139875,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004102",
+      "event": "event:/Voices/Common/Char004102/Char004102_Cutscene1",
+      "sample": "Char004102_Smile_1",
+      "language": "ko-KR",
+      "start": 3.55,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004102",
+      "event": "event:/Voices/Common/Char004102/Char004102_Cutscene2",
+      "sample": "Char004102_Cutscene6",
+      "language": "ko-KR",
+      "start": 6.276208747054138,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004192",
+      "event": "event:/Voices/Common/Char004192/Char004192_Cutscene1",
+      "sample": "Char004192_Cutscene9",
+      "language": "ko-KR",
+      "start": 0.2833333333333333,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004192",
+      "event": "event:/Voices/Common/Char004192/Char004192_Cutscene2",
+      "sample": "Char004192_Cutscene3_1",
+      "language": "ko-KR",
+      "start": 2.95,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004192",
+      "event": "event:/Voices/Common/Char004192/Char004192_Cutscene3",
+      "sample": "Char004192_Cutscene3_2",
+      "language": "ko-KR",
+      "start": 5.366666666666666,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004301",
+      "event": "event:/Voices/Common/Char004301/Char004301_Cutscene1",
+      "sample": "Char004301_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004301",
+      "event": "event:/Voices/Common/Char004301/Char004301_Cutscene2",
+      "sample": "Char004301_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 4.200000286102295,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004301",
+      "event": "event:/Voices/Common/Char004301/Char004301_Cutscene3",
+      "sample": "Char004301_Cutscene8",
+      "language": "ko-KR",
+      "start": 7.066666666666666,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004302",
+      "event": "event:/Voices/Common/Char004302/Char004302_Cutscene1",
+      "sample": "Char004302_Cutscene5_1",
+      "language": "ko-KR",
+      "start": 1.7166666666666666,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "004302",
+      "event": "event:/Voices/Common/Char004302/Char004302_Cutscene2",
+      "sample": "Char004302_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 6,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021001",
+      "event": "event:/Voices/Common/Char021001/Char021001_Cutscene1",
+      "sample": "Char021001_BattleSkill_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021001",
+      "event": "event:/Voices/Common/Char021001/Char021001_Cutscene2",
+      "sample": "Char021001_BattleSkill_2",
+      "language": "ko-KR",
+      "start": 4.216666475931804,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021101",
+      "event": "event:/Voices/Common/Char021101/Char021101_Cutscene1",
+      "sample": "Char021101_BattleSkill_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021101",
+      "event": "event:/Voices/Common/Char021101/Char021101_Cutscene2",
+      "sample": "Char021101_BattleSkill_3",
+      "language": "ko-KR",
+      "start": 5.45,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021201",
+      "event": "event:/Voices/Common/Char021201/Char021201_Cutscene1",
+      "sample": "Char021201_BattleSkill_1",
+      "language": "ko-KR",
+      "start": 0.36666666666666664,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021201",
+      "event": "event:/Voices/Common/Char021201/Char021201_Cutscene2",
+      "sample": "Char021201_BattleSkill_2",
+      "language": "ko-KR",
+      "start": 2.6,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021201",
+      "event": "event:/Voices/Common/Char021201/Char021201_Cutscene3",
+      "sample": "Char021201_BattleSkill_3",
+      "language": "ko-KR",
+      "start": 5.55,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021291",
+      "event": "event:/Voices/Common/Char021291/Char021291_Cutscene1",
+      "sample": "Char021291_BattleSkill_1",
+      "language": "ko-KR",
+      "start": 2.966666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021291",
+      "event": "event:/Voices/Common/Char021291/Char021291_Cutscene2",
+      "sample": "Char021291_BattleSkill_2",
+      "language": "ko-KR",
+      "start": 5,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021301",
+      "event": "event:/Voices/Common/Char021301/Char021301_Cutscene1",
+      "sample": "Char021301_BattleSkill_3",
+      "language": "ko-KR",
+      "start": 2.75,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021391",
+      "event": "event:/Voices/Common/Char021391/Char021391_Cutscene1",
+      "sample": "Char021391_BattleAttack_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021391",
+      "event": "event:/Voices/Common/Char021391/Char021391_Cutscene2",
+      "sample": "Char021391_BattleSkill_1",
+      "language": "ko-KR",
+      "start": 2.716666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "021391",
+      "event": "event:/Voices/Common/Char021391/Char021391_Cutscene3",
+      "sample": "Char021391_BattleSkill_2",
+      "language": "ko-KR",
+      "start": 6.066666666666666,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067201",
+      "event": "event:/Voices/Common/Char067201/Char067201_Cutscene1",
+      "sample": "Char067201_Cutscene5_1",
+      "language": "ko-KR",
+      "start": 0.3,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067201",
+      "event": "event:/Voices/Common/Char067201/Char067201_Cutscene2",
+      "sample": "Char067201_Cutscene5_2",
+      "language": "ko-KR",
+      "start": 2.983333,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067202",
+      "event": "event:/Voices/Common/Char067202/Char067202_Cutscene1",
+      "sample": "Char067202_Cutscene2",
+      "language": "ko-KR",
+      "start": 3.7,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067901",
+      "event": "event:/Voices/Common/Char067901/Char067901_Cutscene1",
+      "sample": "Char067901_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067901",
+      "event": "event:/Voices/Common/Char067901/Char067901_Cutscene2",
+      "sample": "Char067901_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 5.166666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067902",
+      "event": "event:/Voices/Common/Char067902/Char067902_Cutscene1",
+      "sample": "Char067902_Cutscene9",
+      "language": "ko-KR",
+      "start": 0,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067902",
+      "event": "event:/Voices/Common/Char067902/Char067902_Cutscene2",
+      "sample": "Char067902_Cutscene1_1",
+      "language": "ko-KR",
+      "start": 3.466666666666667,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "067902",
+      "event": "event:/Voices/Common/Char067902/Char067902_Cutscene3",
+      "sample": "Char067902_Cutscene1_2",
+      "language": "ko-KR",
+      "start": 7.816666666666666,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "068001",
+      "event": "event:/Voices/Common/Char068001/Char068001_Cutscene1",
+      "sample": "Char068001_Cutscene8",
+      "language": "ko-KR",
+      "start": 2.45,
+      "reason": "Programmer sample absent from installed language banks"
+    },
+    {
+      "cutsceneId": "068001",
+      "event": "event:/Voices/Common/Char068001/Char068001_Cutscene2",
+      "sample": "Char068001_Cutscene4",
+      "language": "ko-KR",
+      "start": 4.033333333333333,
+      "reason": "Programmer sample absent from installed language banks"
+    }
+  ]
+}

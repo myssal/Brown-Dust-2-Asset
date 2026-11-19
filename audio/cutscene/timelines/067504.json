@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "067504",
+  "visualSignature": "076a0a28bc8f9fcc4d4e6a818d49cb55c5ff3d5770d80f722fded9f14f2e976a",
+  "duration": 8.983333333333333,
+  "sourceTimeline": "Char067504_Skill",
+  "clips": [
+    {
+      "id": "2d0042c3-4fc06bb0-9a89578f-9fd9ebd8-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char067504_Skill_CutScene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 5,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char067504_Skill_CutScene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "a5bd577a-4d222dd3-ffb3bb90-ab367140-1",
+      "event": "event:/Voices/Common/Char067504/Char067504_Cutscene1",
+      "kind": "voice",
+      "start": 0.7666666666666667,
+      "duration": 4.233333333333336,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/067504/Char067504_Cutscene1_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/067504/Char067504_Cutscene1_1.wav"
+        ]
+      }
+    },
+    {
+      "id": "f748e0b5-40f6e704-9c8a1a92-4a2ee26c-2",
+      "event": "event:/Voices/Common/Char067504/Char067504_Cutscene2",
+      "kind": "voice",
+      "start": 4.05,
+      "duration": 2.9333333333333336,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/067504/Char067504_Cutscene1_2.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/067504/Char067504_Cutscene1_2.wav"
+        ]
+      }
+    },
+    {
+      "id": "bfb42504-45cdac10-b803c7b0-f172e05d-3",
+      "event": "event:/Voices/Common/Char067504/Char067504_Cutscene3",
+      "kind": "voice",
+      "start": 6.283333333333333,
+      "duration": 1.9333333333333336,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/067504/Char067504_Cutscene8.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/067504/Char067504_Cutscene8.wav"
+        ]
+      }
+    }
+  ]
+}

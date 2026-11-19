@@ -1,0 +1,1583 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T03:25:36.358Z",
+  "counts": {
+    "performances": 174,
+    "timelineClips": 538,
+    "soundEffects": 174,
+    "streamingSoundEffects": 30,
+    "audioBytes": 382248208,
+    "japaneseVoices": 360,
+    "koreanVoices": 310,
+    "missingJapaneseEvents": 1,
+    "missingKoreanEvents": 51
+  },
+  "performances": [
+    {
+      "cutsceneId": "100501",
+      "timeline": "Char100501",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "101101",
+      "timeline": "Char101101",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "101102",
+      "timeline": "Char101102",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "101103",
+      "timeline": "Char101103",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "103201",
+      "timeline": "Char103201",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "103301",
+      "timeline": "Char103301",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "103401",
+      "timeline": "Cha103401",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "103501",
+      "timeline": "Char103501",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000101",
+      "timeline": "Char000101",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000103",
+      "timeline": "Char000103",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000201",
+      "timeline": "Char000201",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000202",
+      "timeline": "Char000202",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000203",
+      "timeline": "Char000203",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000204",
+      "timeline": "Char000204",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000206",
+      "timeline": "Char000206",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000296",
+      "timeline": "Char000296",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000301",
+      "timeline": "Char000301",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000303",
+      "timeline": "Char000303",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000304",
+      "timeline": "Char000304",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000306",
+      "timeline": "Char000306",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000396",
+      "timeline": "Char000396",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000401",
+      "timeline": "Char000401",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000501",
+      "timeline": "char000501",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000502",
+      "timeline": "Char000502",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000504",
+      "timeline": "Char000504",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000506",
+      "timeline": "Char000506",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000604",
+      "timeline": "Char000604",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000701",
+      "timeline": "Char000701",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000706",
+      "timeline": "Char000706",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000707",
+      "timeline": "Char000707",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000708",
+      "timeline": "Char000708",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000801",
+      "timeline": "Char000801",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000804",
+      "timeline": "Char000804",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000806",
+      "timeline": "Char000806",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "000807",
+      "timeline": "Char000807",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001001",
+      "timeline": "Char001001",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001002",
+      "timeline": "Char001002",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001004",
+      "timeline": "Char001004",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001006",
+      "timeline": "Char001006",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001092",
+      "timeline": "Char001092",
+      "clips": 5,
+      "sfx": 1,
+      "voices": 4,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001101",
+      "timeline": "Char001101",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001106",
+      "timeline": "Char001106",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001107",
+      "timeline": "Char001107",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001197",
+      "timeline": "Char001197",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "001201",
+      "timeline": "Char001201",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 1
+    },
+    {
+      "cutsceneId": "001206",
+      "timeline": "Char001206",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 3
+    },
+    {
+      "cutsceneId": "001207",
+      "timeline": "Char001207",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 3
+    },
+    {
+      "cutsceneId": "001297",
+      "timeline": "Char001297",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "002401",
+      "timeline": "Char002401",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "002403",
+      "timeline": "Char002403",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "002406",
+      "timeline": "Char002406",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003101",
+      "timeline": "Char003101",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003201",
+      "timeline": "Char003201",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003202",
+      "timeline": "Char003202",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003203",
+      "timeline": "CharChar003203",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003301",
+      "timeline": "Char003301",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003302",
+      "timeline": "Char003302",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003303",
+      "timeline": "Char003303",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003392",
+      "timeline": "Char003392",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003401",
+      "timeline": "char003401",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003402",
+      "timeline": "Char003402",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003403",
+      "timeline": "Char003403",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003501",
+      "timeline": "Char003501",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003601",
+      "timeline": "Char003601",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003602",
+      "timeline": "Char003602",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003603",
+      "timeline": "Char003603",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003604",
+      "timeline": "Char003604",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003701",
+      "timeline": "Char003701",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 1
+    },
+    {
+      "cutsceneId": "003702",
+      "timeline": "Char003702",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "003703",
+      "timeline": "Char003703",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 1
+    },
+    {
+      "cutsceneId": "003793",
+      "timeline": "Char003793",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "003801",
+      "timeline": "Char003801",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003802",
+      "timeline": "Char003802",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003803",
+      "timeline": "Char003803",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003892",
+      "timeline": "Char003892",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003901",
+      "timeline": "Char003901",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "003902",
+      "timeline": "Char003902",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "004001",
+      "timeline": "Char004001",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 1,
+      "missingKorean": 1
+    },
+    {
+      "cutsceneId": "004002",
+      "timeline": "Char004002",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "004091",
+      "timeline": "Char004091",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "004101",
+      "timeline": "Char004101",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "004102",
+      "timeline": "Char004102",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "004192",
+      "timeline": "Char004192",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 3
+    },
+    {
+      "cutsceneId": "004201",
+      "timeline": "Char004201",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "004202",
+      "timeline": "Char004202",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "004301",
+      "timeline": "Char004301",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 3
+    },
+    {
+      "cutsceneId": "004302",
+      "timeline": "Char004302",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "020001",
+      "timeline": "Char020001",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020002",
+      "timeline": "Char020002",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020101",
+      "timeline": "Char020101",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020102",
+      "timeline": "Char020102",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020201",
+      "timeline": "Char020201",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020301",
+      "timeline": "Char020301",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020401",
+      "timeline": "Char020401",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020501",
+      "timeline": "Char020501",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020601",
+      "timeline": "Char020601",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020701",
+      "timeline": "Char020701",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020801",
+      "timeline": "Char020801",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "020901",
+      "timeline": "Char020901",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "021001",
+      "timeline": "Char021001",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "021101",
+      "timeline": "Char021101",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "021201",
+      "timeline": "Char021201",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 3
+    },
+    {
+      "cutsceneId": "021291",
+      "timeline": "Char021291",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "021301",
+      "timeline": "Char021301",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 1
+    },
+    {
+      "cutsceneId": "021391",
+      "timeline": "Char021391",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 3
+    },
+    {
+      "cutsceneId": "060401",
+      "timeline": "Char060401",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060402",
+      "timeline": "Char060402",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060403",
+      "timeline": "Char060403",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060501",
+      "timeline": "Char060501",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060502",
+      "timeline": "char060502",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060601",
+      "timeline": "Char060601",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060602",
+      "timeline": "char060602",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060701",
+      "timeline": "Char060701",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060702",
+      "timeline": "Char060702",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060706",
+      "timeline": "Char060706",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060801",
+      "timeline": "Char060801",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060802",
+      "timeline": "Char060802",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "060804",
+      "timeline": "Char060804",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061001",
+      "timeline": "Char061001",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061002",
+      "timeline": "Char061002",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061003",
+      "timeline": "Char061003",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061092",
+      "timeline": "Char061092",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061101",
+      "timeline": "Char061101",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061102",
+      "timeline": "Char061102",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061103",
+      "timeline": "Char061103",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061302",
+      "timeline": "Char061302",
+      "clips": 5,
+      "sfx": 1,
+      "voices": 4,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061305",
+      "timeline": "Char061305",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061306",
+      "timeline": "Char061306",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061392",
+      "timeline": "Char061392",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061402",
+      "timeline": "Char061402",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061404",
+      "timeline": "Char061404",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "061492",
+      "timeline": "Char061492",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "065102",
+      "timeline": "Char065102",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "065103",
+      "timeline": "Char065103",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "065193",
+      "timeline": "Char065193",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "065802",
+      "timeline": "Char065802",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066401",
+      "timeline": "Char066401",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066402",
+      "timeline": "Char066402",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066403",
+      "timeline": "Char066403",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066801",
+      "timeline": "Char066801",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066802",
+      "timeline": "Char066802",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066803",
+      "timeline": "Char066803",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066902",
+      "timeline": "Char066902",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066906",
+      "timeline": "Char066906",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "066907",
+      "timeline": "Char066907",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067002",
+      "timeline": "Char067002",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067003",
+      "timeline": "Char067003",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067004",
+      "timeline": "Char067004",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067101",
+      "timeline": "Char067101",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067102",
+      "timeline": "Char067102",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067103",
+      "timeline": "Char067103",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067104",
+      "timeline": "Char067104",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067201",
+      "timeline": "Char067201",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "067202",
+      "timeline": "Char067202",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 1
+    },
+    {
+      "cutsceneId": "067301",
+      "timeline": "Char067301",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067302",
+      "timeline": "Char067302",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067303",
+      "timeline": "Char067303",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067401",
+      "timeline": "Char067401",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067402",
+      "timeline": "Char067402",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067403",
+      "timeline": "Char067403",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067491",
+      "timeline": "Char067491",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067502",
+      "timeline": "char067502",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067503",
+      "timeline": "char067503",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067504",
+      "timeline": "Char067504_Skill",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067601",
+      "timeline": "Char067601",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067603",
+      "timeline": "Char067603",
+      "clips": 2,
+      "sfx": 1,
+      "voices": 1,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067604",
+      "timeline": "Char067604",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067701",
+      "timeline": "Char067701",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067702",
+      "timeline": "Char067702",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067801",
+      "timeline": "Char067801",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067803",
+      "timeline": "Char067803",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 0
+    },
+    {
+      "cutsceneId": "067901",
+      "timeline": "Char067901_Skill",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    },
+    {
+      "cutsceneId": "067902",
+      "timeline": "Char067902",
+      "clips": 4,
+      "sfx": 1,
+      "voices": 3,
+      "missingJapanese": 0,
+      "missingKorean": 3
+    },
+    {
+      "cutsceneId": "068001",
+      "timeline": "Char068001",
+      "clips": 3,
+      "sfx": 1,
+      "voices": 2,
+      "missingJapanese": 0,
+      "missingKorean": 2
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "060402",
+  "visualSignature": "8bbecd9001a0b491ae0acc578f05ec1b8a2fbcf6d053fa7f8ba50eb1ed86de4c",
+  "duration": 7.1,
+  "sourceTimeline": "Char060402",
+  "clips": [
+    {
+      "id": "63f72f1a-45716749-a93aefa1-08849c74-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char060402_Skill_CutScene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 5,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char060402_Skill_CutScene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "12864b2e-48113551-62f643ae-75956050-1",
+      "event": "event:/Voices/Common/Char000406/Char000406_SetBattleAttack",
+      "kind": "voice",
+      "start": 0,
+      "duration": 1.9166666666666667,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/060402/Char060402_Smile_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/060402/Char060402_Smile_1.wav"
+        ]
+      }
+    },
+    {
+      "id": "12288ea6-4085aed5-d5ebffaf-383b0f09-2",
+      "event": "event:/Voices/Common/Char100101/Char100101_SetBattleAttack",
+      "kind": "voice",
+      "start": 2.5,
+      "duration": 1.9166666666666667,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/060402/Char060402_Embarrass_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/060402/Char060402_Embarrass_1.wav"
+        ]
+      }
+    },
+    {
+      "id": "93d6dc73-40d1ee35-394281be-8ef05877-3",
+      "event": "event:/Voices/Common/Char101102/Char101102_SetBattleAttack",
+      "kind": "voice",
+      "start": 4.933333,
+      "duration": 1.9166666666666667,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/060402/Char060402_Angry_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/060402/Char060402_Angry_1.wav"
+        ]
+      }
+    }
+  ]
+}

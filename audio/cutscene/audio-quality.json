@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T03:26:53.231Z",
+  "cause": "FMOD offline rendering used an asynchronous streaming thread while the render clock advanced faster than real time. Streaming decode buffers could repeat in the exported WAV.",
+  "correction": "Core STREAM_FROM_UPDATE with Studio SYNCHRONOUS_UPDATE; start then pause each instance, pre-roll while its timeline stays at zero, then record from unpause.",
+  "filesValidated": 174,
+  "sourceReferencesMatched": 174,
+  "streamingEffectsCorrected": 30,
+  "minimumStreamingSourceCorrelation": 0.9921377679135878,
+  "affected": [
+    {
+      "file": "sfx/Char000296_Skill_CutScene_01.wav",
+      "cutsceneId": "000296",
+      "character": "悠丝缇亚",
+      "costume": "仲夏之梦",
+      "sourceCorrelation": 0.9990454687056656,
+      "sourceDelayFrames": 0,
+      "sha256": "61549225153f2fb7105c19bba1de0f039a6dccefd5786dde1b9ffbc08051d7a5"
+    },
+    {
+      "file": "sfx/Char000396_Skill_CutScene_01.wav",
+      "cutsceneId": "000396",
+      "character": "莎赫拉查德",
+      "costume": "从容的王牌",
+      "sourceCorrelation": 0.9966470589569959,
+      "sourceDelayFrames": 0,
+      "sha256": "ef741d1b114a5e38da001293069964911e5851aaebe6adf4cfc2a7834d25f032"
+    },
+    {
+      "file": "sfx/Char000708_Skill_CutScene_01.wav",
+      "cutsceneId": "000708",
+      "character": "伊柯利普斯",
+      "costume": "梦中的新娘",
+      "sourceCorrelation": 0.9976642618570745,
+      "sourceDelayFrames": 0,
+      "sha256": "93d3d9129fa27a1013eee3366605e44ed18b8e4db2a1d021d1c095c868f71bca"
+    },
+    {
+      "file": "sfx/Char000807_Skill_CutScene_01.wav",
+      "cutsceneId": "000807",
+      "character": "露比雅",
+      "costume": "女仆比基尼",
+      "sourceCorrelation": 0.9977787615393177,
+      "sourceDelayFrames": 0,
+      "sha256": "b64edac5529cef18b4cf9860c7ca090196b0eae434585d21cfa6a765ac0cb48c"
+    },
+    {
+      "file": "sfx/Char001197_Skill_CutScene_01.wav",
+      "cutsceneId": "001197",
+      "character": "泰瑞丝",
+      "costume": "奶牛比基尼",
+      "sourceCorrelation": 0.9992771625405126,
+      "sourceDelayFrames": 0,
+      "sha256": "cad5bb391d47a0563ce0c4efd1f5c1750cd2eb0966eb2e19ae989fda0bd9333f"
+    },
+    {
+      "file": "sfx/Char001297_Skill_CutScene_01.wav",
+      "cutsceneId": "001297",
+      "character": "莉亚特里斯",
+      "costume": "甜蜜的诱惑",
+      "sourceCorrelation": 0.9956011744884253,
+      "sourceDelayFrames": 0,
+      "sha256": "3a7a74b58eedf40341fcb570fde9737e314fd2f7f42b95bcd3c03920efec6e9e"
+    },
+    {
+      "file": "sfx/Char002403_Skill_CutScene_01.wav",
+      "cutsceneId": "002403",
+      "character": "黛安娜",
+      "costume": "魔法匠心",
+      "sourceCorrelation": 0.9951356951792839,
+      "sourceDelayFrames": 0,
+      "sha256": "1940f9f8b2883db668dd51b309b24ef41eb8a6985ef7afd56a450c1669656a34"
+    },
+    {
+      "file": "sfx/Char003201_Skill_CutScene_01.wav",
+      "cutsceneId": "003201",
+      "character": "罗安",
+      "costume": "最后的希望",
+      "sourceCorrelation": 0.9963414207649739,
+      "sourceDelayFrames": 0,
+      "sha256": "cd435995144bafdd63bcaa062bdb6d5944eb8697c923203996c5863fb1a13e4f"
+    },
+    {
+      "file": "sfx/Char003403_Skill_CutScene_01.wav",
+      "cutsceneId": "003403",
+      "character": "墨菲亚",
+      "costume": "使徒",
+      "sourceCorrelation": 0.9945286972050288,
+      "sourceDelayFrames": 0,
+      "sha256": "a16431331f8b6f506f7feb4adfb4538eea3a3e7866272aae34e89c22608e70ec"
+    },
+    {
+      "file": "sfx/Char003501_Skill_CutScene_01.wav",
+      "cutsceneId": "003501",
+      "character": "神圣悠丝缇亚",
+      "costume": "找回的命运",
+      "sourceCorrelation": 0.9938769585101902,
+      "sourceDelayFrames": 0,
+      "sha256": "fdfc20a94e2cab66f52301c0750fb7bb8295466d61c6c890359e78b3e80d7041"
+    },
+    {
+      "file": "sfx/Char003604_Skill_CutScene_01.wav",
+      "cutsceneId": "003604",
+      "character": "奥利维耶",
+      "costume": "传奇退役",
+      "sourceCorrelation": 0.9999016086511607,
+      "sourceDelayFrames": 0,
+      "sha256": "d2ce6e041d3d584c6edf1ceb82702a1e3bf07ca5cf652226f572a0275f5716ea"
+    },
+    {
+      "file": "sfx/Char003892_Skill_CutScene_01.wav",
+      "cutsceneId": "003892",
+      "character": "黎维塔",
+      "costume": "享乐主义者",
+      "sourceCorrelation": 0.9971744017672849,
+      "sourceDelayFrames": 0,
+      "sha256": "451d935a1b626aaac986177950746a0bb33de79c2018fb2adb1c596fe61b2b19"
+    },
+    {
+      "file": "sfx/Char004001_Skill_CutScene_01.wav",
+      "cutsceneId": "004001",
+      "character": "达丽安",
+      "costume": "启示之梦",
+      "sourceCorrelation": 0.9921377679135878,
+      "sourceDelayFrames": 0,
+      "sha256": "1e1c44c18e192562a34f67a91a7b988778a31642fe5b25e1da5914024409a9bb"
+    },
+    {
+      "file": "sfx/Char004002_Skill_CutScene_01.wav",
+      "cutsceneId": "004002",
+      "character": "达丽安",
+      "costume": "半糖余韵兔女郎",
+      "sourceCorrelation": 0.9961805350380157,
+      "sourceDelayFrames": 0,
+      "sha256": "d3487e2901440cac3e84edb70712d6ceae265d8798789494612b7d0e32dc4d5a"
+    },
+    {
+      "file": "sfx/Char004091_Skill_CutScene_01.wav",
+      "cutsceneId": "004091",
+      "character": "达丽安",
+      "costume": "启蒙信使",
+      "sourceCorrelation": 0.9942380439951769,
+      "sourceDelayFrames": 0,
+      "sha256": "cd6ce700ae4d340cf5182b2aba15e648a1641ed16fd965fb65918d857e2fa25e"
+    },
+    {
+      "file": "sfx/Char004102_Skill_CutScene_01.wav",
+      "cutsceneId": "004102",
+      "character": "提尔",
+      "costume": "澄心无邪兔女郎",
+      "sourceCorrelation": 0.9953831734032066,
+      "sourceDelayFrames": 0,
+      "sha256": "42170143d12dd5440b06352afe78dea8fc453699abd0de70c0c8d42063de82b1"
+    },
+    {
+      "file": "sfx/Char004201_Skill_CutScene_01.wav",
+      "cutsceneId": "004201",
+      "character": "帕莱特",
+      "costume": "惊悚之梦",
+      "sourceCorrelation": 0.9934807792388709,
+      "sourceDelayFrames": 0,
+      "sha256": "620980b6280e3c7a399f2044b9e5aa74b7950f37b8b7615f749395e37bba1613"
+    },
+    {
+      "file": "sfx/Char021101_Skill_CutScene_01.wav",
+      "cutsceneId": "021101",
+      "character": "羽前京香",
+      "costume": "无穷之锁",
+      "sourceCorrelation": 0.9990838226974138,
+      "sourceDelayFrames": 0,
+      "sha256": "cbae0e6ca0739e54a7647a0fb37f8b592d39383eca7cee0f2211d2828f88c998"
+    },
+    {
+      "file": "sfx/Char021291_Skill_CutScene_01.wav",
+      "cutsceneId": "021291",
+      "character": "出云天花",
+      "costume": "特别外出",
+      "sourceCorrelation": 0.997544714842845,
+      "sourceDelayFrames": 0,
+      "sha256": "347ff03581a5ac3c128e83d9f820e29e74cdf95dfbf81cd5b7786ab9184a0b88"
+    },
+    {
+      "file": "sfx/Char060401_Skill_CutScene_01.wav",
+      "cutsceneId": "060401",
+      "character": "西利亚",
+      "costume": "诅咒之星",
+      "sourceCorrelation": 0.9970159276244918,
+      "sourceDelayFrames": 0,
+      "sha256": "a07bafa1e40d73a73b2640e86ef3acf1df66d659b63233445c40b64e7aa17770"
+    },
+    {
+      "file": "sfx/Char060702_Skill_CutScene_01.wav",
+      "cutsceneId": "060702",
+      "character": "拉菲娜",
+      "costume": "代号A",
+      "sourceCorrelation": 0.9970401184256438,
+      "sourceDelayFrames": 0,
+      "sha256": "c4a0a46bbe3a74333e74a81afc8480a855303d6d2f3ed743551ec8b205a5828a"
+    },
+    {
+      "file": "sfx/Char060706_Skill_CutScene_01.wav",
+      "cutsceneId": "060706",
+      "character": "拉菲娜",
+      "costume": "游戏社",
+      "sourceCorrelation": 0.9973019135830743,
+      "sourceDelayFrames": 0,
+      "sha256": "2281440effb1eac7f687e5554ada88de2c1d07c729459fc4d7b0328ba8a38ec7"
+    },
+    {
+      "file": "sfx/Char060804_Skill_CutScene_01.wav",
+      "cutsceneId": "060804",
+      "character": "爱丽洁",
+      "costume": "稚心佳人",
+      "sourceCorrelation": 0.9999420101836766,
+      "sourceDelayFrames": 0,
+      "sha256": "736cd35ad4f1c116a7ff67684581a95f1df364c4c251d6b934baa5fe888515dd"
+    },
+    {
+      "file": "sfx/Char061092_Skill_CutScene_01.wav",
+      "cutsceneId": "061092",
+      "character": "海伦娜",
+      "costume": "新星",
+      "sourceCorrelation": 0.9993313662905563,
+      "sourceDelayFrames": 0,
+      "sha256": "ef03ed8b3ad2bf9e20bedbfea8b0e6d314d84bdec35161343b4ab108cbee109b"
+    },
+    {
+      "file": "sfx/Char061492_Skill_CutScene_01.wav",
+      "cutsceneId": "061492",
+      "character": "杰尼斯",
+      "costume": "神秘面纱兔女郎",
+      "sourceCorrelation": 0.9940500591456674,
+      "sourceDelayFrames": 0,
+      "sha256": "598a6318f93b26269d4be92de368d45364cddd09e22b73dc0abab6d2b5d61524"
+    },
+    {
+      "file": "sfx/Char065193_Skill_CutScene_01.wav",
+      "cutsceneId": "065193",
+      "character": "尤里",
+      "costume": "永远的吉祥物",
+      "sourceCorrelation": 0.9999678885002192,
+      "sourceDelayFrames": 0,
+      "sha256": "b2351f77b690b43fabfac9a9b2110d977aa73fef31a0c3373186152881e53395"
+    },
+    {
+      "file": "sfx/Char067103_Skill_CutScene_01.wav",
+      "cutsceneId": "067103",
+      "character": "格兰希特",
+      "costume": "恶作剧幽灵",
+      "sourceCorrelation": 0.9952317589003273,
+      "sourceDelayFrames": 0,
+      "sha256": "2331a484f6c220846a4ede1c1fd42ddcbde9fddb52d866a2d2d113bfff8ef37b"
+    },
+    {
+      "file": "sfx/Char067504_Skill_CutScene_01.wav",
+      "cutsceneId": "067504",
+      "character": "卢班希亚",
+      "costume": "海洋先锋",
+      "sourceCorrelation": 0.9991166680193923,
+      "sourceDelayFrames": 0,
+      "sha256": "f59a3d48e97d7340cff87de30940c7643944cae664358ded0e1377d5d4c81902"
+    },
+    {
+      "file": "sfx/Char067603_Skill_CutScene_01.wav",
+      "cutsceneId": "067603",
+      "character": "威廉明娜",
+      "costume": "水上乐园女王",
+      "sourceCorrelation": 0.9990853560783165,
+      "sourceDelayFrames": 0,
+      "sha256": "ad3dd42671d36348d9f8f508004a94d986a2477c4774a8bfaac3c1bc2307c315"
+    },
+    {
+      "file": "sfx/Char067902_Skill_CutScene_01.wav",
+      "cutsceneId": "067902",
+      "character": "阿奇拉",
+      "costume": "被封印的欲望",
+      "sourceCorrelation": 0.9969832179969911,
+      "sourceDelayFrames": 0,
+      "sha256": "8dba38ee4acc2df4fa60e602579fde4d1ee6a17feba72632fd394a238bdab113"
+    }
+  ],
+  "backupDirectory": "F:/Neowiz/releases/BD2ModPreview-skill-audio-noise-20261117/before/audio/skills"
+}

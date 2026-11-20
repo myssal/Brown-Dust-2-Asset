@@ -1,6 +1,5 @@
 illust_pack20.png
-size:512,512
+size:2048,2048
 filter:Linear,Linear
-scale:0.3
 illust_pack20_1
-bounds:2,2,480,446
+bounds:2,2,1601,1485

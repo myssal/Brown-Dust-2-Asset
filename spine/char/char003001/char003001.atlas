@@ -2,318 +2,344 @@ char003001.png
 size:2048,512
 filter:Linear,Linear
 arm(L)_1
-bounds:1529,243,79,63
-arm(L)_2
-bounds:228,64,119,53
-arm(L)_3
-bounds:766,2,46,77
-rotate:270
-arm(R)_normal_1
-bounds:785,168,76,70
-arm(R)_normal_2
-bounds:1032,469,60,41
-arm(R)_normal_3
-bounds:1753,154,55,54
+bounds:1057,284,79,63
 rotate:90
+arm(L)_2
+bounds:399,21,119,53
+arm(L)_3
+bounds:1738,263,46,77
+arm(R)_normal_1
+bounds:1249,8,76,70
+rotate:180
+arm(R)_normal_2
+bounds:991,184,60,41
+rotate:90
+arm(R)_normal_3
+bounds:516,333,55,54
+rotate:270
 arm(R)_normal_4
-bounds:667,270,39,19
+bounds:105,199,39,19
 arm(R)_normal_5
-bounds:58,2,54,21
+bounds:1445,91,54,21
+rotate:90
 arm(R)_normal_6
-bounds:1335,351,44,41
+bounds:1528,196,44,41
 arm(R)_normal_7
-bounds:1200,448,39,36
+bounds:1329,345,39,36
+rotate:90
 arm(R)_normal_8
-bounds:625,2,44,105
+bounds:1202,143,44,105
 arm(R)_normal_9
-bounds:1333,467,21,43
+bounds:1392,249,21,43
 arm(R)_skill_1_1
-bounds:410,309,79,77
+bounds:919,198,79,77
 arm(R)_skill_1_2
-bounds:1730,447,55,60
+bounds:1749,43,55,60
 arm(R)_skill_1_3
-bounds:1485,342,67,67
+bounds:1444,439,67,67
 arm(R)_skill_1_4
-bounds:349,52,17,41
+bounds:139,69,17,41
 offsets:1,1,19,44
 arm(R)_skill_1_5
-bounds:1337,14,47,107
+bounds:736,9,47,107
+rotate:90
 arm(R)_skill_2_1
-bounds:1358,433,69,77
+bounds:1329,264,69,77
 arm(R)_skill_2_2
-bounds:169,65,55,49
+bounds:1451,364,55,49
+rotate:90
 arm(R)_skill_2_3
-bounds:1439,384,64,102
+bounds:1079,9,64,102
 base skirt
-bounds:487,136,247,150
+bounds:598,183,247,150
 bra line_1
-bounds:940,239,55,61
+bounds:1675,122,55,61
+rotate:270
 bra line_2
-bounds:1525,190,47,49
-rotate:90
+bounds:1785,257,47,49
 bra line_3
-bounds:565,262,50,40
+bounds:677,309,50,40
 chest ribbon pink_1
-bounds:1626,61,68,66
+bounds:1688,195,68,66
+rotate:270
 chest ribbon pink_2
-bounds:1508,71,64,71
+bounds:1727,435,64,71
+rotate:180
 chest ribbon pink_3
-bounds:491,347,53,33
+bounds:574,374,53,33
 chest ribbon pink_4
-bounds:2,222,61,29
-chest ribbon pink_5
-bounds:1406,261,71,73
-chest ribbon pink_6
-bounds:1679,154,59,77
-chest ribbon_1
-bounds:1758,66,51,62
-offsets:0,0,500,244
-rotate:180
-chest ribbon_3
-bounds:817,480,59,30
-earring_L
-bounds:332,396,11,17
-earring_R
-bounds:41,480,11,17
-ears
-bounds:921,402,31,36
-eye_closed
-bounds:503,2,42,25
-eye_normal
-bounds:349,101,21,24
-eye_skill
-bounds:786,487,21,23
-eyeball_normal
-bounds:629,112,37,37
-eyeball_skill
-bounds:2,473,37,37
-eyebrow_closed
-bounds:41,499,35,11
-eyebrow_normal
-bounds:411,4,33,8
-eyebrow_skill
-bounds:863,194,40,11
-eyelash_normal
-bounds:663,2,48,34
-eyelash_skill
-bounds:321,478,47,32
-face_normal
-bounds:671,27,155,174
-rotate:180
-face_skill
-bounds:371,14,155,173
+bounds:1535,402,61,29
 rotate:90
+chest ribbon pink_5
+bounds:1537,353,71,73
+rotate:270
+chest ribbon pink_6
+bounds:1698,7,59,77
+rotate:270
+chest ribbon_1
+bounds:1762,105,51,62
+offsets:0,0,500,244
+chest ribbon_3
+bounds:1336,233,59,30
+earring_L
+bounds:68,238,11,17
+earring_R
+bounds:2,426,11,17
+ears
+bounds:563,239,31,36
+eye_closed
+bounds:432,140,42,25
+eye_normal
+bounds:2,297,21,24
+rotate:90
+eye_skill
+bounds:422,72,21,23
+eyeball_normal
+bounds:1782,308,37,37
+eyeball_skill
+bounds:1777,4,37,37
+eyebrow_closed
+bounds:63,225,35,11
+eyebrow_normal
+bounds:2,473,33,8
+rotate:90
+eyebrow_skill
+bounds:2,5,40,11
+eyelash_normal
+bounds:1359,434,48,34
+eyelash_skill
+bounds:295,474,47,32
+face_normal
+bounds:740,58,155,174
+face_skill
+bounds:922,351,155,173
+rotate:270
 finger(R)_skill_1
-bounds:210,492,44,18
+bounds:185,4,44,18
 finger(R)_skill_2
-bounds:1012,181,48,32
+bounds:907,473,48,32
 finger(R)_skill_3
-bounds:1382,2,37,44
+bounds:1565,307,37,44
 finger(R)_skill_4
-bounds:1457,177,31,40
+bounds:1796,43,31,40
 finger(R)_skill_5
-bounds:1189,189,23,37
+bounds:1118,3,23,37
 hair_1
-bounds:1714,192,43,86
-rotate:180
+bounds:690,113,43,86
 hair_11
-bounds:1689,360,47,150
+bounds:1248,214,47,150
 hair_2
-bounds:1809,308,24,87
+bounds:1708,375,24,87
 hair_3
-bounds:1656,449,39,58
+bounds:1616,280,39,58
 hair_4
-bounds:1644,435,32,75
+bounds:816,420,32,75
 offsets:0,0,32,76
+rotate:180
 hair_5
-bounds:1765,211,40,87
+bounds:315,67,40,87
+rotate:90
 hair_6
-bounds:1202,375,53,87
+bounds:1517,76,53,87
 hair_7
-bounds:1289,222,45,186
+bounds:2,320,45,186
 hair_8
-bounds:1402,421,40,85
+bounds:1793,421,40,85
+rotate:180
 hair_9
-bounds:2,420,25,51
+bounds:1236,137,25,51
 hand(L)_1
-bounds:1784,300,36,67
+bounds:1690,306,36,67
 hand(L)_2
-bounds:359,256,22,18
+bounds:476,157,22,18
+rotate:90
 hand(L)_3
-bounds:2,261,15,18
+bounds:49,488,15,18
 hand(L)_4
-bounds:1181,478,29,32
+bounds:1530,230,29,32
 offsets:0,1,29,33
 hand(L)_5
-bounds:846,414,110,96
+bounds:496,141,110,96
 hand(L)_6
-bounds:1720,104,46,72
-rotate:180
+bounds:1747,167,46,72
 head ribbon(L)_1
-bounds:1786,444,66,41
+bounds:1774,211,66,41
 rotate:270
 head ribbon(L)_bule_1
-bounds:1175,228,58,39
+bounds:1434,290,58,39
+rotate:90
 head ribbon(L)_pink_1
-bounds:438,171,51,34
+bounds:1023,3,51,34
 head ribbon(L)_pink_2
-bounds:1671,298,53,71
+bounds:405,245,53,71
 head ribbon(L)_pink_3
-bounds:446,460,29,32
+bounds:664,434,29,32
 head ribbon(L)_white_1
-bounds:1359,209,76,117
+bounds:1392,389,76,117
 head ribbon(R)_1
-bounds:857,281,31,52
+bounds:1795,157,31,52
 head ribbon(R)_bule_1
-bounds:628,279,38,43
+bounds:1243,370,38,43
 head ribbon(R)_pink_1
-bounds:1585,378,31,78
+bounds:1054,17,31,78
 head ribbon(R)_pink_2
-bounds:292,2,32,26
+bounds:1143,427,32,26
+rotate:270
 head ribbon(R)_white_1
-bounds:1386,48,75,101
+bounds:1424,182,75,101
 head_closed
-bounds:828,17,155,173
-rotate:180
+bounds:897,18,155,173
 leg(L)_1
-bounds:985,11,115,236
+bounds:161,8,115,236
 rotate:90
 leg(L)_2
-bounds:585,420,90,259
-rotate:90
+bounds:1159,247,90,259
 leg(L)_3
-bounds:542,2,85,134
+bounds:1137,8,85,134
 leg(R)_1
-bounds:1240,7,99,214
+bounds:1299,12,99,214
 rotate:180
 leg(R)_2
-bounds:974,204,95,103
+bounds:42,16,95,103
 leg(R)_3
-bounds:1185,264,52,109
+bounds:728,454,52,109
+rotate:90
 mouth_closed
-bounds:117,184,26,15
+bounds:258,491,26,15
 offsets:2,4,33,24
 mouth_normal
-bounds:1055,297,30,30
-mouth_skill
-bounds:1117,195,32,27
-neck_1
-bounds:362,273,64,69
-pig
-bounds:2,175,359,335
-pig arm_1
-bounds:889,264,66,65
-pig arm_2
-bounds:736,213,43,45
-offsets:1,1,45,47
-pig arm_3
-bounds:264,463,55,47
-pig arm_4
-bounds:1566,2,61,64
-pig ears_1
-bounds:166,2,178,63
-pig ears_2
-bounds:1425,190,79,72
-pig nose
-bounds:1049,320,152,170
-pole_1
-bounds:463,198,22,33
-pole_2
-bounds:301,302,208,755
+bounds:1270,79,30,30
 rotate:90
+mouth_skill
+bounds:504,2,32,27
+neck_1
+bounds:534,8,64,69
+rotate:90
+pig
+bounds:49,171,359,335
+pig arm_1
+bounds:2,228,66,65
+rotate:90
+pig arm_2
+bounds:683,3,43,45
+offsets:1,1,45,47
+rotate:90
+pig arm_3
+bounds:882,164,55,47
+pig arm_4
+bounds:859,10,61,64
+pig ears_1
+bounds:1093,279,178,63
+rotate:90
+pig ears_2
+bounds:1644,40,79,72
+pig nose
+bounds:1037,109,152,170
+pole_1
+bounds:2,445,22,33
+pole_2
+bounds:2,15,208,755
+rotate:270
 pole_3
-bounds:1046,145,89,106
+bounds:833,400,89,106
 pole_4
-bounds:718,346,35,21
+bounds:385,77,35,21
 pole_5
-bounds:565,487,36,23
+bounds:85,483,36,23
 sholder lace_1
-bounds:1215,12,36,95
+bounds:1642,367,36,95
 sholder lace_2
-bounds:2,25,56,93
+bounds:1396,56,56,93
 sholder lace_3
-bounds:1731,2,42,87
+bounds:1636,464,42,87
+rotate:90
 skirt pleats_1_1
-bounds:1085,247,103,73
+bounds:853,213,103,73
+rotate:90
 skirt pleats_1_2
-bounds:1609,296,71,39
+bounds:45,432,71,39
 rotate:90
 skirt pleats_1_3
-bounds:600,2,25,50
+bounds:847,282,25,50
 skirt pleats_2_1
-bounds:1724,267,58,68
-rotate:180
+bounds:461,448,58,68
+rotate:90
 skirt pleats_2_2
-bounds:249,141,24,26
+bounds:530,210,24,26
 skirt pleats_3_1
-bounds:1502,410,66,54
-rotate:270
+bounds:580,132,66,54
+rotate:180
 skirt pleats_3_2
-bounds:724,2,30,26
+bounds:460,298,30,26
 skirt pleats_4_1
-bounds:332,2,78,48
+bounds:1312,458,78,48
 offsets:1,0,79,48
+rotate:180
 skirt pleats_4_2
-bounds:6,2,47,24
+bounds:89,2,47,24
 skirt pleats_5_1
-bounds:146,130,101,45
-rotate:180
+bounds:1082,461,101,45
 skirt pleats_5_2
-bounds:1755,423,63,36
+bounds:1250,440,63,36
+rotate:90
 skirt pleats_6
-bounds:777,320,77,41
+bounds:2,18,77,41
+rotate:90
 skirt pleats_7
-bounds:956,427,100,71
+bounds:566,411,100,71
 skirt pleats_8
-bounds:942,2,55,48
+bounds:135,4,55,48
+rotate:90
 twintail(L)_1_1
-bounds:1326,111,90,257
+bounds:1503,249,90,257
 twintail(L)_1_2
-bounds:1802,188,23,108
+bounds:28,308,23,108
 twintail(L)_1_4
-bounds:1775,2,69,92
-rotate:180
+bounds:1638,212,69,92
 twintail(L)_2
-bounds:1284,150,243,360
+bounds:1285,146,243,360
 rotate:180
 twintail(L)_3
-bounds:1561,2,120,193
+bounds:1327,217,120,193
+rotate:180
 twintail(L)_4
-bounds:200,116,266,438
+bounds:304,160,266,438
 rotate:270
 twintail(R)_1
-bounds:1600,111,148,349
+bounds:1602,118,148,349
 twintail(R)_10
-bounds:1463,300,121,210
+bounds:1580,16,121,210
+rotate:180
 twintail(R)_2
-bounds:1422,2,265,445
+bounds:1441,21,265,445
 twintail(R)_3
-bounds:640,121,253,547
-rotate:90
+bounds:529,253,253,547
+rotate:270
 twintail(R)_4
-bounds:1765,47,105,62
-rotate:90
+bounds:1397,2,105,62
+rotate:180
 twintail(R)_5
-bounds:1573,308,69,202
+bounds:1573,276,69,202
 twintail(R)_7
-bounds:1169,80,129,430
+bounds:1198,8,129,430
 twintail(R)_8
-bounds:1231,312,61,28
-rotate:90
+bounds:1497,2,61,28
 twintail(R)_9
-bounds:1748,337,84,60
+bounds:1749,342,84,60
 rotate:90
 upper arm(R)
-bounds:1465,2,102,75
+bounds:1606,78,102,75
 offsets:0,0,102,76
 upper body_1
-bounds:2,22,165,195
+bounds:349,311,165,195
 waist belt_1
-bounds:114,2,53,30
+bounds:1462,175,53,30
+rotate:90
 waist belt_2
-bounds:1624,22,130,108
+bounds:1652,69,130,108
 rotate:90
 weapon_ribbon_1
-bounds:1623,190,67,106
+bounds:736,306,67,106
+rotate:90
 weapon_ribbon_2
-bounds:462,444,120,66
+bounds:1494,8,120,66

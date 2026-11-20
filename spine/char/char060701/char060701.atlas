@@ -4,13 +4,13 @@ filter:Linear,Linear
 Body
 bounds:1313,308,196,347
 Eyebrow_1_1
-bounds:1313,647,26,8
+bounds:290,647,26,8
 offsets:1,1,29,10
 Eyebrow_1_2
-bounds:297,642,16,13
+bounds:783,642,16,13
 offsets:1,1,18,15
 Eyebrow_2_1
-bounds:1075,648,22,7
+bounds:1313,648,22,7
 offsets:1,1,24,9
 Eyebrow_2_2
 bounds:628,643,14,12
@@ -19,7 +19,7 @@ Eyebrow_3_1
 bounds:1008,641,19,14
 offsets:1,1,21,16
 Eyebrow_3_2
-bounds:783,642,15,13
+bounds:1078,642,15,13
 offsets:1,1,17,15
 Hand(R)_1
 bounds:1661,633,39,22
@@ -76,7 +76,7 @@ bounds:2,21,55,55
 Machine_Hand(L)_5_2
 bounds:729,17,59,55
 Machine_Hand(R)_1
-bounds:652,67,78,157
+bounds:652,66,78,157
 rotate:90
 Machine_Hand(R)_2
 bounds:1857,66,135,123
@@ -187,7 +187,7 @@ rotate:90
 belt
 bounds:534,33,151,72
 belt_armor1
-bounds:1276,36,55,44
+bounds:1276,35,55,44
 belt_armor1_back
 bounds:1448,439,41,52
 belt_armor2
@@ -216,7 +216,7 @@ closed eyes_2
 bounds:1200,341,36,30
 offsets:2,1,40,33
 ear
-bounds:680,199,36,44
+bounds:681,199,36,44
 offsets:1,1,38,46
 eye_1
 bounds:690,627,15,28
@@ -225,7 +225,7 @@ bounds:766,629,15,26
 eye_3
 bounds:1714,391,27,36
 eye_4
-bounds:579,36,35,41
+bounds:579,35,35,41
 eye_sikll_EF_1
 bounds:1827,630,20,25
 offsets:1,1,22,28
@@ -302,7 +302,7 @@ bounds:1529,241,203,148
 leg(R)_back armor
 bounds:1471,383,200,272
 mouth_normal
-bounds:718,198,34,24
+bounds:719,198,34,24
 offsets:1,1,36,26
 mouth_skill1
 bounds:3,641,28,14

@@ -2,371 +2,365 @@ char000203.png
 size:2048,512
 filter:Linear,Linear
 Cloak_1
-bounds:1388,158,68,56
-Cloak_10
-bounds:735,260,218,264
-rotate:270
-Cloak_11
-bounds:2,192,273,317
-Cloak_2
-bounds:2,136,158,140
+bounds:1416,126,68,56
 rotate:90
+Cloak_10
+bounds:1557,201,218,264
+Cloak_11
+bounds:690,192,273,317
+rotate:90
+Cloak_2
+bounds:1425,88,158,140
 Cloak_3
-bounds:1647,257,86,65
-rotate:270
+bounds:254,46,86,65
 Cloak_4
-bounds:1594,380,98,110
-rotate:180
+bounds:1038,17,98,110
+rotate:270
 Cloak_5
-bounds:1519,75,100,145
+bounds:332,56,100,145
+rotate:90
 Cloak_6
-bounds:264,4,133,104
-rotate:180
+bounds:1777,148,133,104
 Cloak_7
-bounds:1253,23,195,371
+bounds:976,55,195,371
+rotate:90
 Cloak_8
-bounds:819,83,164,289
+bounds:1391,176,164,289
 rotate:180
 Cloak_9
-bounds:1434,154,176,245
-rotate:180
+bounds:1801,64,176,245
+rotate:270
 Eyebrow skill_1
-bounds:615,225,18,13
-rotate:90
+bounds:95,329,18,13
 Eyebrow skill_14
-bounds:277,449,27,9
+bounds:266,456,27,9
 Eyebrow skill_2
-bounds:2,297,30,7
+bounds:139,458,30,7
 Eyebrow skill_3
-bounds:357,449,17,9
+bounds:1436,456,17,9
 Eyebrow_1
-bounds:387,186,26,16
+bounds:1637,272,26,16
 Eyebrow_1_another1
-bounds:329,452,26,6
+bounds:171,459,26,6
 offsets:1,1,28,8
 Eyebrow_1_another2
-bounds:426,451,32,7
+bounds:105,458,32,7
 offsets:0,0,33,7
 Eyebrow_2
-bounds:400,453,24,5
+bounds:199,460,24,5
 Eyebrow_2_another1
-bounds:306,450,21,8
+bounds:295,457,21,8
 offsets:1,1,23,10
 Eyebrow_2_another2
-bounds:233,477,21,12
+bounds:1963,453,21,12
 offsets:0,0,22,12
 Layer 31
-bounds:388,109,24,12
+bounds:378,402,24,12
 Layer 32
-bounds:191,175,32,15
+bounds:606,372,32,15
 Layer 33
-bounds:773,463,28,46
+bounds:208,412,28,46
 Layer 34
-bounds:261,309,12,53
+bounds:91,412,12,53
 Layer 35
-bounds:152,25,9,19
+bounds:2,427,9,19
 Layer 36
-bounds:277,204,219,242
+bounds:1009,223,219,242
 offsets:1,1,221,265
 arm(L)_1
-bounds:498,258,75,136
+bounds:935,57,75,136
 arm(L)_2
-bounds:1360,29,146,110
+bounds:1276,109,146,110
 offsets:0,0,148,110
-rotate:90
 arm(R)_1
-bounds:1556,9,100,125
-rotate:180
+bounds:1667,44,100,125
+rotate:270
 arm(R)_1_another1
-bounds:777,408,108,99
+bounds:411,34,108,99
 offsets:0,1,108,100
 arm(R)_1_another2
-bounds:1390,401,108,100
+bounds:646,117,108,100
 offsets:1,1,110,102
-rotate:90
 arm(R)_2
-bounds:1316,279,85,119
+bounds:1961,63,85,119
 bangs skill_1
-bounds:985,229,24,76
+bounds:983,244,24,76
 bangs skill_10
-bounds:144,135,55,135
-rotate:270
+bounds:675,40,55,135
+rotate:90
 bangs skill_2
-bounds:1294,427,19,82
+bounds:71,383,19,82
 bangs skill_3
-bounds:907,7,74,139
+bounds:237,391,74,139
 rotate:90
 bangs skill_4
-bounds:239,165,36,80
-rotate:90
+bounds:80,200,36,80
 bangs skill_5
-bounds:880,470,39,82
+bounds:475,426,39,82
 rotate:90
 bangs skill_6
-bounds:74,35,39,86
+bounds:1248,15,39,86
 rotate:90
 bangs skill_7
-bounds:1724,423,37,86
+bounds:476,36,37,86
+rotate:90
 bangs skill_8
-bounds:1591,251,63,111
+bounds:186,43,63,111
 bangs skill_9
-bounds:1075,434,49,75
+bounds:1843,107,49,75
+rotate:90
 bangs_1
-bounds:257,203,17,104
+bounds:52,361,17,104
 bangs_2
-bounds:2,2,64,149
+bounds:1041,157,64,149
 rotate:90
 bangs_3
-bounds:189,472,37,85
+bounds:700,19,37,85
 rotate:90
 bangs_4
-bounds:558,2,36,83
-rotate:90
+bounds:1712,382,36,83
 bangs_5
-bounds:1723,100,38,87
-bangs_6
-bounds:1736,10,29,88
-bangs_7
-bounds:1613,117,66,135
-breast sweat1_1
-bounds:246,205,12,34
-breast sweat1_2
-bounds:250,241,9,22
-breast sweat2_1
-bounds:2,306,25,59
-breast sweat2_2
-bounds:2,453,9,21
-breast sweat2_3
-bounds:498,390,16,24
-breast sweat2_4
-bounds:491,489,9,20
-breast_1
-bounds:1686,204,72,60
+bounds:1832,29,38,87
 rotate:90
+bangs_6
+bounds:2017,20,29,88
+bangs_7
+bounds:533,61,66,135
+rotate:90
+breast sweat1_1
+bounds:995,307,12,34
+breast sweat1_2
+bounds:225,443,9,22
+breast sweat2_1
+bounds:756,157,25,59
+breast sweat2_2
+bounds:67,444,9,21
+breast sweat2_3
+bounds:100,415,16,24
+breast sweat2_4
+bounds:71,421,9,20
+breast_1
+bounds:1567,15,72,60
 breast_2
-bounds:819,5,86,102
+bounds:849,93,86,102
 breast_2_another
-bounds:1465,24,88,102
+bounds:96,64,88,102
 offsets:0,0,88,103
 breast_3
-bounds:990,324,88,53
+bounds:248,134,88,53
 offsets:0,1,88,54
-rotate:270
 breast_4
-bounds:1737,327,59,98
+bounds:923,8,59,98
+rotate:90
 breast_4_Another_1
-bounds:1751,98,64,111
+bounds:1457,2,64,111
+rotate:90
 breast_5
-bounds:494,396,85,113
+bounds:121,344,85,113
 breast_5_Another1
-bounds:1260,170,85,114
+bounds:1584,62,85,114
 offsets:0,0,86,114
 breast_6
-bounds:2,86,30,23
+bounds:716,393,30,23
 breast_another_1
-bounds:639,109,30,25
+bounds:676,378,30,25
 offsets:1,1,32,27
 breast_line_another_1
-bounds:659,145,14,36
+bounds:1694,429,14,36
 offsets:1,1,16,38
 breath_1
-bounds:1662,143,59,59
+bounds:897,32,59,59
 breath_2
-bounds:1048,4,71,56
+bounds:1349,51,71,56
 breath_3
-bounds:164,8,98,72
+bounds:1012,69,98,72
 closed eyes_1
-bounds:528,4,28,25
+bounds:1586,440,28,25
 closed eyes_2
-bounds:581,483,34,26
+bounds:640,370,34,26
 ear
-bounds:575,410,22,39
+bounds:1892,426,22,39
 eye line skill1_1
-bounds:803,476,33,18
-rotate:90
+bounds:464,251,33,18
 eye line skill1_2
-bounds:209,479,23,14
+bounds:475,418,23,14
 eye line skill2_1
-bounds:630,227,28,16
+bounds:1424,420,28,16
 eye line skill2_2
-bounds:415,189,20,13
+bounds:559,431,20,13
 eye_line1_another1
-bounds:36,53,32,13
+bounds:651,452,32,13
 offsets:1,1,34,15
 eye_line1_another2
-bounds:321,174,37,28
+bounds:1230,437,37,28
 eye_line2_another1
-bounds:236,82,23,11
+bounds:581,370,23,11
 offsets:1,1,25,13
 eye_line2_another2
-bounds:892,3,29,25
+bounds:1555,329,29,25
 offsets:0,0,30,25
 eyeball skill_1
-bounds:59,492,20,17
+bounds:105,441,20,17
 eyeball skill_2
-bounds:747,398,26,19
+bounds:91,391,26,19
 eyeball skill_3
-bounds:755,489,19,20
+bounds:1154,201,19,20
 eyeball skill_4
-bounds:359,179,26,23
+bounds:981,396,26,23
 eyeball_1
-bounds:697,4,21,21
+bounds:1395,323,21,21
 eyeball_2
-bounds:643,18,28,24
+bounds:1400,346,28,24
 face
-bounds:1122,348,140,161
-rotate:180
+bounds:100,154,140,161
+rotate:270
 face skill_1
-bounds:983,62,140,163
+bounds:525,228,140,163
+rotate:90
 face skill_2
-bounds:677,27,140,163
+bounds:1750,302,140,163
 finger1_another1
-bounds:530,127,32,21
+bounds:603,205,32,21
 finger2_another1
-bounds:2,2,23,12
+bounds:231,407,23,12
 offsets:1,0,24,14
 finger3_another1
-bounds:779,191,50,24
+bounds:1078,197,50,24
 offsets:0,4,50,28
 flushing
-bounds:394,460,95,49
+bounds:378,416,95,49
 hair_1
-bounds:1433,5,26,110
-rotate:90
+bounds:26,355,26,110
 hair_2
-bounds:398,6,32,131
-rotate:90
+bounds:2,334,32,131
 hair_3
-bounds:1692,3,42,122
-hair_4
-bounds:1251,383,43,117
-hair_4_another1
-bounds:277,460,49,115
-offsets:1,1,51,118
+bounds:1759,258,42,122
 rotate:90
+hair_4
+bounds:78,35,43,117
+rotate:90
+hair_4_another1
+bounds:1986,350,49,115
+offsets:1,1,51,118
 hair_5
-bounds:43,107,34,72
+bounds:293,431,34,72
 rotate:90
 hair_6
-bounds:1637,466,43,84
+bounds:1639,28,43,84
 rotate:90
 hair_7
-bounds:1500,466,43,79
+bounds:327,16,43,79
 rotate:90
 hand(L)_1
-bounds:671,237,41,33
+bounds:482,260,41,33
 hand(L)_2
-bounds:366,85,42,33
+bounds:1414,432,42,33
 hand(L)_3
-bounds:726,250,62,62
-rotate:270
-hand(L)_34
-bounds:498,213,24,22
-hand(R)_1
-bounds:1675,341,98,59
+bounds:833,18,62,62
 rotate:90
+hand(L)_34
+bounds:225,288,24,22
+hand(R)_1
+bounds:568,22,98,59
 hand(R)_1_another_nofinger
-bounds:2,464,57,45
+bounds:951,420,57,45
 offsets:0,1,57,47
 hand(R)_2
-bounds:131,485,52,24
+bounds:556,441,52,24
 hand(R)_3
-bounds:117,124,40,19
+bounds:609,446,40,19
 hand(R)_3_Another1
-bounds:991,479,26,30
+bounds:1230,370,26,30
 offsets:0,0,27,31
 hand(R)_3_Another2
-bounds:954,373,34,29
+bounds:3,318,34,29
 horn_1
-bounds:556,391,23,20
+bounds:1129,201,23,20
 horn_2
-bounds:819,118,18,31
+bounds:1664,248,18,31
 leg(L)_1
-bounds:1442,112,105,142
+bounds:2,133,105,142
 leg(L)_2
-bounds:1143,70,165,276
+bounds:247,91,165,276
+rotate:270
 leg(L)_3
-bounds:1001,226,165,260
-rotate:180
+bounds:263,189,165,260
+rotate:90
 leg(R) sweat_1
-bounds:498,226,34,53
+bounds:1557,412,34,53
 leg(R) sweat_2
-bounds:498,284,15,58
+bounds:1574,167,15,58
 leg(R) sweat_3
-bounds:225,175,8,15
+bounds:42,450,8,15
 leg(R) sweat_4
-bounds:1072,257,18,31
+bounds:1729,326,18,31
 leg(R) sweat_5
-bounds:956,58,19,46
+bounds:1892,378,19,46
 offsets:0,0,19,47
 leg(R)_1
-bounds:1475,336,102,140
+bounds:750,68,102,140
 leg(R)_2
-bounds:1218,245,170,264
+bounds:1551,108,170,264
+rotate:90
 leg(R)_3
-bounds:399,31,102,276
-rotate:90
+bounds:1890,189,102,276
 lower body
-bounds:1125,18,166,103
-rotate:90
+bounds:478,123,166,103
 mouth
-bounds:116,174,26,16
+bounds:1386,449,26,16
 mouth skill1
-bounds:673,4,22,21
+bounds:1725,359,22,21
 mouth skill2
-bounds:108,32,26,25
+bounds:109,342,26,25
 offsets:1,0,27,25
 mouth_another1
-bounds:376,449,23,9
+bounds:537,428,23,9
 mouth_another2
-bounds:70,54,18,12
+bounds:685,453,18,12
 pupil skill_1
-bounds:2,200,12,13
+bounds:1593,425,12,13
 pupil skill_2
-bounds:281,158,16,16
+bounds:1458,449,16,16
 pupil skill_3
-bounds:727,494,13,15
+bounds:1230,401,13,15
 pupil skill_4
-bounds:394,3,13,15
+bounds:1557,450,13,15
 pupil skill_5
-bounds:264,3,15,16
+bounds:2,302,15,16
 pupil_1
-bounds:498,266,13,16
+bounds:1557,404,13,16
 pupil_2
-bounds:534,238,16,18
+bounds:1394,303,16,18
 ribbon_1
-bounds:985,227,103,118
-rotate:180
+bounds:1464,35,103,118
+rotate:90
 ribbon_2
-bounds:1709,302,66,85
+bounds:1922,21,66,85
+rotate:90
 ribbon_3
-bounds:1723,194,113,48
-rotate:270
+bounds:1331,16,113,48
 ribbon_4
-bounds:1644,6,46,110
-rotate:180
+bounds:1993,238,46,110
 skirt_1
-bounds:1180,5,70,86
-rotate:270
+bounds:39,317,70,86
+rotate:90
 skirt_2
-bounds:1449,251,76,85
+bounds:1142,10,76,85
 rotate:90
 skirt_3
-bounds:2,111,87,45
-rotate:90
+bounds:1553,287,87,45
 skirt_4
-bounds:1298,5,68,95
-rotate:270
+bounds:1202,126,68,95
 skirt_5
-bounds:1567,362,80,102
+bounds:5,47,80,102
 sweat_1
-bounds:60,480,6,10
+bounds:367,455,6,10
 sweat_2
-bounds:13,456,5,8
+bounds:318,457,5,8
 sweat_3
-bounds:20,456,7,7
+bounds:325,458,7,7
 upper body
-bounds:573,245,202,264
+bounds:1230,201,202,264
 weapon
-bounds:2,68,189,854
-rotate:270
+bounds:2,276,189,854
+rotate:90

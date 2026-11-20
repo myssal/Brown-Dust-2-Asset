@@ -14,7 +14,7 @@ A_wing1_back5
 bounds:1704,1038,300,219
 rotate:90
 A_wing1_back6
-bounds:1557,431,431,296
+bounds:1558,431,431,296
 A_wing1_back7
 bounds:401,294,642,542
 rotate:180
@@ -23,12 +23,12 @@ bounds:749,1670,267,205
 offsets:175,171,442,376
 rotate:90
 A_wing1_outside2
-bounds:1436,75,327,93
+bounds:1435,75,327,93
 A_wing1_outside3
 bounds:391,520,307,156
 rotate:90
 A_wing1_outside4
-bounds:1227,833,284,244
+bounds:1230,831,284,244
 A_wing1_outside5
 bounds:331,2,293,343
 rotate:270
@@ -45,7 +45,7 @@ rotate:180
 A_wing2_2
 bounds:2,292,382,240
 A_wing2_3
-bounds:1027,370,442,246
+bounds:1027,369,442,246
 A_wing2_4
 bounds:956,1050,935,374
 offsets:12,0,947,374
@@ -66,7 +66,7 @@ bounds:1832,1674,311,201
 offsets:0,11,311,212
 rotate:270
 A_wing3_3
-bounds:1461,262,405,222
+bounds:1461,261,405,222
 rotate:180
 A_wing3_5
 bounds:1319,1055,930,407

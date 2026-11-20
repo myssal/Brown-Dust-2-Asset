@@ -1,0 +1,13 @@
+cutscene_char004201_1.png
+size:1024,512
+filter:Linear,Linear
+A_Blanket1
+bounds:2,2,491,509
+rotate:90
+A_Blanket2
+bounds:659,343,150,109
+offsets:2,2,153,113
+rotate:90
+A_Blanket3
+bounds:493,189,280,304
+rotate:180

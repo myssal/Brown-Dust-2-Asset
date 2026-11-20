@@ -2,259 +2,256 @@ illust_special6.png
 size:2048,1024
 filter:Linear,Linear
 Eyebrow
-bounds:436,627,109,30
+bounds:453,57,109,30
 Eyebrow2
-bounds:1508,755,108,31
+bounds:1491,742,108,31
 arm frill_1
-bounds:623,598,35,107
+bounds:1404,338,35,107
 arm frill_2
-bounds:1185,495,60,88
+bounds:78,295,60,88
 arm frill_3
-bounds:1036,411,59,87
+bounds:1256,388,59,87
 arm frill_4
-bounds:527,131,103,179
+bounds:56,124,103,179
 arm frill_5
-bounds:74,175,102,158
-rotate:90
+bounds:1942,615,102,158
 arm sweat_1
-bounds:654,632,16,43
+bounds:441,648,16,43
 offsets:0,0,17,43
 arm sweat_2
-bounds:992,762,12,24
+bounds:750,749,12,24
 arm sweat_3
-bounds:490,773,8,13
+bounds:223,760,8,13
 arm sweat_4
-bounds:225,744,17,42
+bounds:1564,698,17,42
 arm sweat_5
-bounds:2025,656,21,58
+bounds:67,538,21,58
 arm(L)_1
-bounds:246,659,259,127
+bounds:669,274,259,127
 arm(L)_2
-bounds:541,259,129,276
+bounds:1391,236,129,276
+rotate:270
 arm(R)_1
-bounds:1458,358,114,293
+bounds:1441,345,114,293
 rotate:90
 arm(R)_2
-bounds:1179,60,153,131
-rotate:180
+bounds:1529,71,153,131
 arm(R)_3
-bounds:682,80,95,128
-rotate:90
+bounds:324,71,95,128
+rotate:270
 arm(R)_4
-bounds:1677,51,100,97
+bounds:1916,42,100,97
 back hair(L)_1
-bounds:594,254,300,324
-rotate:180
+bounds:1722,280,300,324
+rotate:270
 back hair(L)_10
-bounds:256,302,251,167
+bounds:2,278,251,167
+rotate:90
 back hair(L)_2
-bounds:226,114,165,115
+bounds:1865,126,165,115
 back hair(L)_3
-bounds:1564,194,134,186
+bounds:1148,162,134,186
 back hair(L)_4
-bounds:214,382,323,249
+bounds:735,431,323,249
 rotate:180
 back hair(L)_5
-bounds:1917,158,129,146
+bounds:1280,140,129,146
+rotate:90
 back hair(L)_6
-bounds:930,117,119,138
+bounds:810,105,119,138
 rotate:270
 back hair(L)_7
-bounds:2,231,319,186
+bounds:372,269,319,186
 back hair(L)_8
-bounds:123,72,113,84
-rotate:180
+bounds:1420,43,113,84
 back hair(L)_9
-bounds:618,598,357,188
+bounds:601,585,357,188
 rotate:180
 back hair(R)_1
-bounds:1796,184,250,300
+bounds:950,125,250,300
 rotate:180
 back hair(R)_2
-bounds:1723,266,323,351
-rotate:180
+bounds:1051,299,323,351
+rotate:90
 back hair(R)_3
-bounds:1784,107,93,148
+bounds:1715,95,93,148
 rotate:270
 back hair(R)_4
-bounds:822,206,273,185
-rotate:90
+bounds:126,179,273,185
+rotate:180
 back hair(R)_5
-bounds:739,143,109,169
-rotate:270
+bounds:121,307,109,169
 back hair(R)_6
-bounds:1863,12,183,148
-back hair(R)_7
-bounds:957,225,234,228
+bounds:2,29,183,148
 rotate:90
+back hair(R)_7
+bounds:1812,204,234,228
 back hair(R)_8
-bounds:2,109,155,137
+bounds:619,102,155,137
 rotate:90
 bang_1
-bounds:1045,51,55,210
+bounds:1606,55,55,210
 rotate:90
 bang_10
-bounds:1133,615,69,38
+bounds:1974,584,69,38
 bang_2
-bounds:1509,30,74,170
+bounds:575,42,74,170
 rotate:90
 bang_3
-bounds:1486,70,79,182
+bounds:1170,74,79,182
 rotate:90
 bang_4
-bounds:223,40,63,175
+bounds:937,240,63,175
 rotate:90
 bang_5
-bounds:1814,67,74,176
+bounds:982,32,74,176
 rotate:90
 bang_6
-bounds:1334,136,63,277
-rotate:90
+bounds:2,496,63,277
 bang_8
-bounds:1389,544,81,233
+bounds:1372,531,81,233
 rotate:90
 bang_9
-bounds:569,14,90,160
+bounds:753,49,90,160
+rotate:90
 body bang_1
-bounds:1812,741,26,45
+bounds:405,581,26,45
 body bang_2
-bounds:17,764,31,22
+bounds:689,751,31,22
 body sweat_1
-bounds:769,655,48,49
+bounds:1137,605,48,49
 body sweat_2
-bounds:1006,768,8,18
+bounds:764,755,8,18
 body sweat_3
-bounds:623,564,29,60
+bounds:737,519,29,60
 body sweat_4
-bounds:789,768,12,18
+bounds:258,755,12,18
 body sweat_5
-bounds:2028,727,16,59
+bounds:2,586,16,59
 body sweat_6
-bounds:1062,349,29,60
+bounds:611,526,29,60
 body sweat_7
-bounds:718,757,26,29
+bounds:645,744,26,29
 body sweat_8
-bounds:605,763,11,23
+bounds:2,750,11,23
 breast frill2
-bounds:1321,31,160,115
+bounds:237,19,160,115
+rotate:180
 breast frill_1
-bounds:399,67,135,112
+bounds:1292,44,135,112
 rotate:180
 breast frill_3
-bounds:517,44,80,87
+bounds:1759,370,80,87
 breast ornament2
-bounds:1491,298,82,62
+bounds:1208,26,82,62
 breast ornament_1
-bounds:213,632,27,54
+bounds:1607,523,27,54
 breast_1
-bounds:1187,193,133,160
-rotate:90
+bounds:484,158,133,160
 breast_2
-bounds:374,165,152,150
-rotate:180
+bounds:693,158,152,150
 closed eye
-bounds:1325,404,129,54
+bounds:1563,29,129,54
 closed faee
-bounds:1784,535,205,251
+bounds:1767,522,205,251
 closed mouth
-bounds:187,764,40,22
+bounds:79,751,40,22
 cloth(L)_1
-bounds:1204,460,244,254
+bounds:1187,447,244,254
 rotate:90
 cloth(L)_2
-bounds:634,176,204,131
-rotate:90
+bounds:287,132,204,131
 cloth(R)_1
-bounds:914,461,174,286
-rotate:90
+bounds:461,378,174,286
+rotate:270
 cloth(R)_2
-bounds:2,343,252,199
+bounds:749,292,252,199
 eye line
-bounds:34,49,128,47
+bounds:711,28,128,47
 eye_1
-bounds:667,763,25,23
+bounds:547,750,25,23
 eye_2
-bounds:694,761,22,25
+bounds:574,748,22,25
 eye_3
-bounds:2,432,55,56
+bounds:1669,291,55,56
 eye_4
-bounds:950,744,40,42
+bounds:279,731,40,42
 face
-bounds:1611,532,205,254
+bounds:1594,519,205,254
 rotate:180
 face  sweat_1
-bounds:762,756,11,30
+bounds:321,743,11,30
 face  sweat_2
-bounds:442,768,8,18
+bounds:121,755,8,18
 finger
-bounds:1528,713,69,40
+bounds:907,733,69,40
 flushing
-bounds:1349,199,167,91
+bounds:1612,187,167,91
 frill_1
-bounds:1003,95,116,216
+bounds:115,93,116,216
 rotate:270
 frill_2
-bounds:1823,311,114,134
-rotate:90
+bounds:1043,98,114,134
+rotate:270
 frill_3
-bounds:1236,292,167,239
-rotate:90
+bounds:1000,283,167,239
 hair1_1
-bounds:202,531,255,419
-rotate:90
+bounds:278,518,255,419
+rotate:270
 hair1_2
-bounds:1083,324,151,234
+bounds:219,312,151,234
 hand_1
-bounds:399,380,75,78
+bounds:192,28,75,78
 hand_2
-bounds:505,669,51,62
+bounds:993,560,51,62
 hand_3
-bounds:72,322,95,90
+bounds:344,621,95,90
 horn1
-bounds:516,317,51,74
+bounds:682,576,51,74
 horn2_1
-bounds:59,401,43,79
+bounds:38,85,43,79
 horn2_2
-bounds:816,472,96,79
+bounds:946,53,96,79
 horn2_3
-bounds:1949,394,35,67
+bounds:838,212,35,67
 horn2_4
-bounds:753,311,65,50
+bounds:1060,511,65,50
 leg(L)_1
-bounds:971,636,150,337
+bounds:954,623,150,337
 rotate:90
 leg(L)_2
-bounds:1452,466,107,421
+bounds:1435,453,107,421
 rotate:90
 leg(R) frill
-bounds:808,21,119,209
-rotate:90
+bounds:1907,303,119,209
 leg(R)_1
-bounds:1292,621,165,343
+bounds:1275,608,165,343
 rotate:90
 leg(R)_2
-bounds:1613,143,120,181
-rotate:270
+bounds:1429,129,120,181
+rotate:90
 leg(R)_3
-bounds:1964,633,62,153
+bounds:483,87,62,153
+rotate:90
 lower body
-bounds:653,482,206,183
+bounds:409,475,206,183
 lower body frill
-bounds:654,2,138,122
+bounds:1857,2,138,122
 rotate:180
 mouth
-bounds:453,752,37,34
+bounds:42,739,37,34
 sweat_1
-bounds:2,748,13,38
+bounds:1791,735,13,38
 sweat_2
-bounds:934,762,12,24
+bounds:736,749,12,24
 sweat_3
-bounds:1371,553,31,86
+bounds:1354,540,31,86
 sweat_4
-bounds:775,762,12,24
+bounds:722,749,12,24
 sweat_5
-bounds:746,759,14,27
+bounds:673,746,14,27
 sweat_6
-bounds:1299,22,50,100
+bounds:1996,435,50,100
 upper body
-bounds:2,544,211,242
+bounds:66,531,211,242
+rotate:180

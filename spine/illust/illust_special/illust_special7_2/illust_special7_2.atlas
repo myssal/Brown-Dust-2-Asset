@@ -1,116 +1,120 @@
 illust_special7_2.png
-size:1024,1024
+size:1024,512
 filter:Linear,Linear
 arm(L)_1
-bounds:2,24,47,55
+bounds:903,455,47,55
 arm(L)_2
-bounds:345,76,115,46
+bounds:2,126,115,46
 arm(L)_3
-bounds:2,138,63,138
-rotate:90
+bounds:572,26,63,138
+rotate:180
 arm(R)_1
-bounds:91,594,69,182
+bounds:249,441,69,182
+rotate:90
 arm(R)_2
-bounds:328,727,52,57
+bounds:894,309,52,57
 arm(R)_3
-bounds:44,5,52,48
+bounds:292,2,52,48
 back hair1_1
-bounds:75,84,62,209
+bounds:85,5,62,209
 rotate:90
 back hair1_2
-bounds:448,730,120,212
-rotate:180
+bounds:367,3,120,212
+rotate:270
 back hair1_3
-bounds:525,733,60,168
+bounds:860,342,60,168
 rotate:180
 back hair1_4
-bounds:295,324,214,449
+bounds:566,61,214,449
+rotate:180
 back hair2_1
-bounds:286,84,146,237
-rotate:270
+bounds:389,65,146,237
+rotate:90
 back hair2_2
-bounds:309,329,131,241
-rotate:180
+bounds:629,267,131,241
 back hair2_3
-bounds:2,652,66,191
+bounds:90,352,66,191
+rotate:90
 back hair2_4
-bounds:2,225,194,417
-rotate:180
-back hair3_1
-bounds:452,557,71,151
-back hair3_2
-bounds:235,237,51,272
-rotate:90
-back hair3_3
-bounds:61,152,115,409
+bounds:15,56,194,417
 rotate:270
+back hair3_1
+bounds:717,358,71,151
+back hair3_2
+bounds:2,238,51,272
+back hair3_3
+bounds:751,80,115,409
+rotate:180
 bang_1
-bounds:534,118,51,88
+bounds:563,202,51,88
 bang_2
-bounds:481,71,62,160
-rotate:180
+bounds:671,5,62,160
+rotate:90
 bang_3
-bounds:184,406,33,96
+bounds:863,350,33,96
 bang_4
-bounds:82,269,45,98
+bounds:949,249,45,98
 body
-bounds:2,299,419,643
+bounds:55,175,335,514
+rotate:90
 breast string_1
-bounds:299,4,77,125
-rotate:90
-breast string_2
-bounds:378,8,75,129
-rotate:90
-breast string_3
-bounds:136,2,111,102
+bounds:901,296,77,125
 rotate:180
+breast string_2
+bounds:917,368,75,129
+rotate:180
+breast string_3
+bounds:872,104,111,102
+rotate:90
 breast string_4
-bounds:59,662,50,86
+bounds:961,148,50,86
 breast string_5
-bounds:247,7,63,105
-rotate:90
+bounds:910,184,63,105
+rotate:270
 breast string_6
-bounds:487,853,77,96
-rotate:90
+bounds:773,414,77,96
 breast_1
-bounds:2,915,22,27
+bounds:2,376,22,27
 breast_2
-bounds:102,774,15,26
+bounds:55,375,15,26
 breast_3
-bounds:158,71,76,52
+bounds:195,310,76,52
 offsets:0,0,76,53
 breast_4
-bounds:528,396,56,57
-rotate:90
-breast_5
-bounds:504,63,63,53
-breast_6
-bounds:56,749,45,76
-offsets:1,0,46,76
-face
-bounds:161,508,80,93
-face2
-bounds:370,774,61,71
-frill_1
-bounds:522,596,47,125
-frill_2
-bounds:485,464,58,130
-frill_3
-bounds:519,452,56,122
-frill_4
-bounds:99,2,47,64
-frill_5
-bounds:491,321,78,141
-frill_6
-bounds:510,213,57,110
-hair
-bounds:2,51,87,128
-rotate:270
-head_1
-bounds:226,36,59,77
-rotate:90
-head_2
-bounds:139,552,41,77
-leg
-bounds:422,701,107,210
+bounds:505,2,56,57
 rotate:180
+breast_5
+bounds:472,71,63,53
+breast_6
+bounds:2,11,45,76
+offsets:1,0,46,76
+rotate:90
+face
+bounds:286,366,80,93
+rotate:90
+face2
+bounds:323,47,61,71
+frill_1
+bounds:819,85,47,125
+frill_2
+bounds:419,23,58,130
+frill_3
+bounds:855,103,56,122
+frill_4
+bounds:741,318,47,64
+frill_5
+bounds:782,42,78,141
+rotate:90
+frill_6
+bounds:852,238,57,110
+hair
+bounds:381,382,87,128
+rotate:180
+head_1
+bounds:867,2,59,77
+rotate:180
+head_2
+bounds:911,233,41,77
+leg
+bounds:37,403,107,210
+rotate:90

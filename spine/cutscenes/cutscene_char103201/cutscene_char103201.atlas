@@ -2,397 +2,374 @@ cutscene_char103201.png
 size:2048,2048
 filter:Linear,Linear
 A_arm(L)_1
-bounds:964,1622,57,79
+bounds:1979,1812,57,79
 A_arm(L)_2
-bounds:1706,258,100,65
+bounds:1719,490,100,65
+A_arm(L)_4
+bounds:652,1891,122,124
+A_arm(L)_5
+bounds:1355,14,276,166
+A_arm(R)_1B
+bounds:653,1042,125,129
 A_arm(R)_2B
-bounds:211,835,95,130
+bounds:1951,1067,95,130
 A_arm(R)_3A
-bounds:964,1943,147,103
-A_arm(R)_4A
-bounds:958,2,152,154
-rotate:270
+bounds:702,3,147,103
+rotate:180
 A_arm(R)_5A
-bounds:304,883,61,64
+bounds:622,984,61,64
 A_eye(L)
-bounds:964,1933,17,21
+bounds:1861,2023,17,21
 A_eye(R)
-bounds:964,1600,16,20
+bounds:763,1990,16,20
 A_eyeball(L)
-bounds:2,591,38,33
+bounds:1868,1532,38,33
 A_eyeball(R)
-bounds:145,1140,37,34
+bounds:2009,1690,37,34
 A_eyebrow(L)
-bounds:57,1076,37,29
+bounds:359,1996,37,29
 A_eyebrow(R)
-bounds:803,1129,52,21
+bounds:1754,1405,52,21
 A_eyelash(L)
-bounds:74,1107,35,18
+bounds:613,1934,35,18
 A_eyelash(R)
-bounds:403,1159,41,15
+bounds:250,2029,41,15
 A_hair_1
-bounds:1700,1418,121,52
-rotate:90
+bounds:1233,17,121,52
 A_hair_2
-bounds:389,467,76,49
+bounds:1000,508,76,49
 A_hair_3
-bounds:1061,1076,98,79
+bounds:1447,341,98,79
+rotate:90
 A_hair_4
-bounds:1228,1406,62,99
+bounds:1794,1163,62,99
 A_hair_5
-bounds:423,1006,50,46
+bounds:676,1471,50,46
+A_hair_6
+bounds:472,644,60,141
+A_hat_1
+bounds:519,5,79,181
+rotate:90
 A_hat_2
-bounds:1308,1262,41,96
+bounds:635,1489,41,96
+A_hat_3
+bounds:31,844,93,139
+rotate:90
 A_leg(L)_2
-bounds:1930,500,115,164
-rotate:180
-A_leg(L)_3
-bounds:1306,302,86,89
+bounds:2,279,115,164
 A_mouth
-bounds:327,948,56,31
+bounds:734,1410,56,31
 A_nose
-bounds:2,1121,15,26
-A_shieldA_1
-bounds:1280,354,182,504
-rotate:90
+bounds:91,1987,15,26
+A_shieldA_2
+bounds:1836,1142,210,547
 A_shieldB_1
-bounds:1395,2,260,477
+bounds:1754,1567,260,477
 offsets:3,0,263,477
-rotate:270
 A_shoulder armor(R)_2A
-bounds:962,1090,103,121
+bounds:496,511,103,121
 A_shoulder armor(R)_3A
-bounds:414,1054,69,42
+bounds:1097,746,69,42
 A_shoulder armor(R)_4A
-bounds:184,1144,44,30
-A_upper body_2(B)
-bounds:1783,649,256,346
-A_waist belt_1
-bounds:730,1145,155,29
-A_waist belt_3
-bounds:1479,498,206,39
-rotate:180
-A_waist belt_4
-bounds:964,1332,41,67
-B_arm(L)_1
-bounds:964,1097,369,449
-offsets:27,0,411,473
-rotate:180
-B_arm(R)_2
-bounds:1923,1647,120,151
-B_elbow armor_2
-bounds:1334,1136,105,127
-B_eye(L)
-bounds:964,1446,43,50
-B_eye(R)
-bounds:2,798,31,46
-B_eye_closed(L)
-bounds:2,730,136,70
-B_eye_closed(R)
-bounds:1982,1973,61,73
-B_eyeball(L)
-bounds:1719,532,107,92
-B_eyeball(R)
-bounds:740,460,66,76
-B_eyebrow(L)
-bounds:1775,955,117,74
-offsets:0,0,117,78
-rotate:180
-B_eyebrow(R)
-bounds:1688,1682,63,84
-B_eyelash(R)
-bounds:1429,1148,55,58
-B_face
-bounds:812,153,492,601
-B_hair_1
-bounds:950,71,109,32
+bounds:1754,1427,44,30
+A_shoulder armor(R)_B
+bounds:877,351,167,171
 rotate:90
+A_sword
+bounds:233,6,601,189
+A_under armor_2
+bounds:1029,569,157,110
+rotate:90
+A_waist belt_1
+bounds:491,2015,155,29
+A_waist belt_2
+bounds:1977,660,69,136
+rotate:180
+A_waist belt_3
+bounds:283,2005,206,39
+A_waist belt_4
+bounds:2,1619,41,67
+B_arm(R)_2
+bounds:1921,1893,120,151
+B_elbow armor_2
+bounds:1211,211,105,127
+rotate:90
+B_eye(L)
+bounds:2,1688,43,50
+B_eye(R)
+bounds:1754,1935,31,46
+B_eye_closed(L)
+bounds:1422,1102,136,70
+B_eye_closed(R)
+bounds:1972,992,61,73
+B_eyeball(L)
+bounds:2,1204,107,92
+B_eyeball(R)
+bounds:1141,217,66,76
+B_eyebrow(L)
+bounds:1753,273,117,74
+offsets:0,0,117,78
+B_eyebrow(R)
+bounds:594,1587,63,84
+B_eyelash(L)
+bounds:286,10,116,44
+B_eyelash(R)
+bounds:111,1206,55,58
+B_face
+bounds:2,392,492,601
+B_hair_1
+bounds:1516,544,109,32
 B_hair_2
-bounds:1978,259,164,53
-rotate:270
+bounds:1801,20,164,53
 B_hair_3
-bounds:964,1401,235,121
+bounds:669,1169,235,121
 rotate:90
 B_hair_4
-bounds:1730,1238,154,92
-rotate:90
-B_hair_5
-bounds:1370,1984,122,62
-rotate:180
-B_hair_6
-bounds:2,1051,123,141
+bounds:698,1425,154,92
 rotate:270
-B_hair_7
-bounds:245,2,186,233
-offsets:0,0,187,233
-rotate:90
-B_hair_9
-bounds:2,6,143,252
+B_hair_5
+bounds:528,1954,122,62
 rotate:180
+B_hair_9
+bounds:1511,415,143,252
+rotate:270
 B_hand(L)_2
-bounds:896,1112,61,62
+bounds:283,1941,61,62
 B_hat strap_2
-bounds:1700,1285,372,116
+bounds:1754,1198,372,116
 offsets:0,6,372,250
 rotate:90
-B_leg(L)_2
-bounds:484,315,169,304
-rotate:270
-B_mouth_1
-bounds:362,1098,163,76
-rotate:180
 B_mouth_2
-bounds:2,1147,33,27
+bounds:486,1998,33,27
 B_nose
-bounds:999,1344,32,61
+bounds:1754,1983,32,61
 B_shield
-bounds:2,109,515,479
+bounds:1044,295,515,479
 offsets:0,0,519,607
+rotate:270
 B_shield strap_2
-bounds:1425,4,35,143
+bounds:648,2009,35,143
 offsets:92,4,127,147
 rotate:90
-B_shield strap_3
-bounds:1220,1047,133,96
-B_shoulder armor
-bounds:1661,1024,333,421
-rotate:180
 B_side hair_2
-bounds:1228,2,195,71
+bounds:221,121,195,71
+B_side hair_3
+bounds:2,1809,79,183
+offsets:4,1,84,186
+B_side hair_4
+bounds:916,287,109,64
 B_sword_1
-bounds:1086,2,872,635
+bounds:1174,43,872,635
 offsets:0,0,872,862
 rotate:180
-B_under armor_5
-bounds:1882,1378,155,258
-B_upper armor
-bounds:1194,522,587,613
-B_waist belt_3
-bounds:1082,746,96,125
-B_waist belt_4
-bounds:1981,1032,279,50
+B_under armor_2
+bounds:851,19,298,322
 rotate:90
+B_under armor_3
+bounds:2,902,268,300
+rotate:180
+B_upper armor
+bounds:1407,559,587,613
+B_waist belt_3
+bounds:216,966,96,125
+B_waist belt_4
+bounds:2,1994,279,50
 C_arm(L)_1
-bounds:1507,1538,508,414
+bounds:352,1519,508,414
 rotate:90
 C_arm(R)
-bounds:487,2,461,314
-C_armor
-bounds:1835,1800,206,246
+bounds:434,197,461,314
 C_body
-bounds:964,1161,885,735
-rotate:90
+bounds:535,437,885,735
 C_ear
-bounds:1805,1447,73,69
+bounds:1332,818,73,69
 C_eyeball
-bounds:1751,1979,64,67
+bounds:2,1740,64,67
 C_eyelash
-bounds:1109,1984,40,62
+bounds:2006,1749,40,62
 C_face
-bounds:2,802,419,372
+bounds:13,20,419,372
 C_hair_2
-bounds:719,235,121,86
+bounds:1109,2,121,86
 C_hair_3
-bounds:1772,617,110,46
+bounds:119,359,110,46
+C_hair_5
+bounds:728,1756,61,134
+offsets:0,0,61,135
 C_hair_6
-bounds:1962,1299,73,77
+bounds:804,358,73,77
 offsets:0,0,73,84
 C_hair_7
-bounds:168,847,36,76
+bounds:1882,1968,36,76
 C_hair_8
-bounds:1903,996,117,45
+bounds:1685,14,117,45
 C_hat_1
-bounds:144,22,90,174
+bounds:1872,283,90,174
 offsets:0,0,90,176
-rotate:90
-C_hat_2
-bounds:1842,83,380,202
 rotate:270
 C_line
-bounds:2,1176,960,870
+bounds:792,1174,960,870
 C_shield_1
-bounds:2,486,1217,688
-C_shoulder armor_3
-bounds:1868,2,169,79
+bounds:2,787,1217,688
+rotate:270
+C_shoulder armor_1
+bounds:1633,4,265,413
+rotate:270
 
 cutscene_char103201_2.png
 size:2048,2048
 filter:Linear,Linear
 A_arm(L)_3
-bounds:171,1397,148,141
-A_arm(L)_4
-bounds:1395,1439,122,124
-A_arm(L)_5
-bounds:1770,1111,276,166
+bounds:568,27,148,141
 A_arm(R)_1A
-bounds:14,1356,156,159
-rotate:180
-A_arm(R)_1B
-bounds:1519,1434,125,129
+bounds:1424,79,156,159
 A_arm(R)_2A
-bounds:1184,1440,123,215
-rotate:90
+bounds:145,8,123,215
+A_arm(R)_4A
+bounds:1161,49,152,154
 A_face
-bounds:1350,1117,169,213
-rotate:270
-A_hair_6
-bounds:527,1503,60,141
-rotate:90
-A_hat_1
-bounds:613,1484,79,181
-rotate:270
-A_hat_3
-bounds:386,1470,93,139
+bounds:108,224,169,213
 rotate:270
 A_leg(L)_1
-bounds:931,746,235,272
+bounds:253,589,235,272
 offsets:0,2,235,274
-rotate:90
+rotate:180
+A_leg(L)_3
+bounds:1360,1365,86,89
 A_leg(L)_4
-bounds:627,858,274,308
-rotate:90
+bounds:1684,340,274,308
+rotate:270
 A_leg(R)_1
-bounds:748,1029,248,168
+bounds:245,344,248,168
 A_leg(R)_2
-bounds:46,1033,166,314
-rotate:90
+bounds:2,351,166,314
 A_leg(R)_3
-bounds:1238,1375,176,140
-rotate:180
+bounds:392,81,176,140
 A_sheath
-bounds:604,1127,362,232
+bounds:601,170,362,232
 rotate:180
-A_shieldA_2
-bounds:246,85,210,547
-rotate:90
+A_shieldA_1
+bounds:1291,703,182,504
+rotate:270
 A_shieldB_2
-bounds:1542,325,249,502
-rotate:90
+bounds:1618,952,249,502
 A_shoulder armor(R)_1A
-bounds:1825,1364,118,179
-rotate:90
-A_shoulder armor(R)_B
-bounds:1121,1263,167,171
-rotate:180
-A_sword
-bounds:898,615,601,189
-rotate:180
+bounds:739,39,118,179
 A_under armor_1
-bounds:1581,1054,156,241
-A_under armor_2
-bounds:892,1453,157,110
+bounds:1537,343,156,241
+rotate:90
 A_under armor_3
-bounds:966,1322,207,166
+bounds:2,106,207,166
+rotate:90
 A_under clothes_1
-bounds:1734,891,227,312
+bounds:1129,528,227,312
 rotate:90
 A_under clothes_2
-bounds:97,608,292,342
+bounds:1704,822,292,342
 rotate:270
 A_upper body_1
-bounds:944,1135,178,185
+bounds:523,448,178,185
 A_upper body_2(A)
-bounds:1577,102,266,346
-rotate:90
-A_waist belt_2
-bounds:219,1494,69,136
-rotate:90
+bounds:619,1108,266,346
+rotate:180
+A_upper body_2(B)
+bounds:887,1108,256,346
 B_arm armor_1
-bounds:1728,533,318,369
-B_arm armor_2
-bounds:54,1165,212,249
-B_arm(L)_2
-bounds:1499,691,214,305
-offsets:0,77,214,382
+bounds:1094,785,318,369
 rotate:90
+B_arm armor_2
+bounds:1777,200,212,249
+rotate:90
+B_arm(L)_1
+bounds:2,1005,369,449
+offsets:27,0,411,473
+B_arm(L)_2
+bounds:1832,1122,214,305
+offsets:0,77,214,382
 B_arm(R)_1
-bounds:1267,454,334,242
+bounds:424,843,334,242
 offsets:0,11,334,253
 rotate:180
 B_elbow armor_1
-bounds:403,1396,105,225
+bounds:1789,93,105,225
 rotate:90
-B_eyelash(L)
-bounds:2,1519,116,44
+B_hair_6
+bounds:1923,979,123,141
+B_hair_7
+bounds:1148,116,186,233
+offsets:0,0,187,233
 B_hair_8
-bounds:779,1434,129,115
-rotate:270
+bounds:1161,986,129,115
 B_hand(L)_1
-bounds:353,1125,189,207
+bounds:1348,219,189,207
 offsets:0,0,194,207
 rotate:270
 B_hat
-bounds:88,430,250,391
-rotate:270
+bounds:1298,874,250,391
+rotate:90
 B_hat strap_1
-bounds:1165,1153,319,284
+bounds:836,90,319,284
 rotate:180
 B_leg(L)_1
-bounds:561,720,232,232
+bounds:518,635,232,232
+B_leg(L)_2
+bounds:908,665,169,304
+rotate:90
 B_leg(L)_3
-bounds:2,208,263,357
-rotate:90
+bounds:1145,1097,263,357
 B_leg(R)_1
-bounds:406,928,220,216
+bounds:1326,381,220,216
 offsets:0,0,226,216
-rotate:180
 B_leg(R)_2
-bounds:1739,1221,213,165
+bounds:433,218,213,165
+B_mouth_1
+bounds:1883,519,163,76
 B_shield strap_1
-bounds:645,1438,125,179
+bounds:263,932,125,179
 offsets:19,13,144,205
-rotate:90
-B_side hair_1
-bounds:321,1291,169,260
-rotate:90
-B_side hair_3
-bounds:1845,1484,79,183
-offsets:4,1,84,186
-rotate:90
-B_side hair_4
-bounds:344,1499,109,64
+B_shield strap_3
+bounds:1010,1052,133,96
+B_shoulder armor
+bounds:288,1033,333,421
 rotate:180
+B_side hair_1
+bounds:1557,142,169,260
+rotate:90
 B_sword_2
-bounds:276,713,378,286
+bounds:2,490,378,286
 rotate:270
 B_under armor_1
-bounds:1243,191,270,348
-rotate:90
-B_under armor_2
-bounds:765,204,298,322
-B_under armor_3
-bounds:429,264,268,300
-rotate:90
+bounds:1410,1106,270,348
 B_under armor_4
-bounds:1155,971,200,207
+bounds:1118,341,200,207
 offsets:471,0,820,453
 rotate:90
+B_under armor_5
+bounds:962,351,155,258
 B_waist belt_1
-bounds:1034,831,571,318
+bounds:405,355,571,318
 rotate:180
 B_waist belt_2
-bounds:533,1259,400,270
+bounds:762,2,400,270
 rotate:180
 C_arm(L)_2
-bounds:576,477,257,268
+bounds:63,794,257,268
+C_armor
+bounds:1476,497,206,246
 C_hair_1
-bounds:1041,1474,149,89
+bounds:1613,1365,149,89
 offsets:0,6,149,95
 C_hair_4
-bounds:1643,1400,200,163
+bounds:1631,12,200,163
+C_hat_2
+bounds:1626,569,380,202
 rotate:180
-C_hair_5
-bounds:83,1502,61,134
-offsets:0,0,61,135
-rotate:90
 C_hat_3
-bounds:1534,1268,177,195
+bounds:254,95,177,195
 C_shield_2
-bounds:933,322,319,332
-rotate:90
-C_shoulder armor_1
-bounds:818,2,265,413
-rotate:90
+bounds:760,820,319,332
+rotate:270
 C_shoulder armor_2
-bounds:2,857,215,260
-rotate:90
+bounds:705,507,215,260
+C_shoulder armor_3
+bounds:232,1375,169,79

@@ -1,0 +1,437 @@
+{
+  "note": "Missing in the scanned local cache. ModPreview falls back to the other language for this costume.",
+  "clips": [
+    {
+      "language": "ko-KR",
+      "costumeId": "001201",
+      "skeleton": "Char001201",
+      "sample": "Char001201_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001201",
+      "skeleton": "Char001201",
+      "sample": "Char001201_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001201",
+      "skeleton": "Char001201",
+      "sample": "Char001201_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001206",
+      "skeleton": "Char001206",
+      "sample": "Char001206_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001206",
+      "skeleton": "Char001206",
+      "sample": "Char001206_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001206",
+      "skeleton": "Char001206",
+      "sample": "Char001206_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001207",
+      "skeleton": "Char001207",
+      "sample": "Char001207_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001207",
+      "skeleton": "Char001207",
+      "sample": "Char001207_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001207",
+      "skeleton": "Char001207",
+      "sample": "Char001207_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001297",
+      "skeleton": "Char001297",
+      "sample": "Char001297_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001297",
+      "skeleton": "Char001297",
+      "sample": "Char001297_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "001297",
+      "skeleton": "Char001297",
+      "sample": "Char001297_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003701",
+      "skeleton": "Char003701",
+      "sample": "Char003701_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003701",
+      "skeleton": "Char003701",
+      "sample": "Char003701_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003701",
+      "skeleton": "Char003701",
+      "sample": "Char003701_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003702",
+      "skeleton": "Char003702",
+      "sample": "Char003702_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003702",
+      "skeleton": "Char003702",
+      "sample": "Char003702_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003702",
+      "skeleton": "Char003702",
+      "sample": "Char003702_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003703",
+      "skeleton": "Char003703",
+      "sample": "Char003703_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003703",
+      "skeleton": "Char003703",
+      "sample": "Char003703_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003703",
+      "skeleton": "Char003703",
+      "sample": "Char003703_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003793",
+      "skeleton": "Char003793",
+      "sample": "Char003793_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003793",
+      "skeleton": "Char003793",
+      "sample": "Char003793_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "003793",
+      "skeleton": "Char003793",
+      "sample": "Char003793_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004101",
+      "skeleton": "Char004101",
+      "sample": "Char004101_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004101",
+      "skeleton": "Char004101",
+      "sample": "Char004101_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004101",
+      "skeleton": "Char004101",
+      "sample": "Char004101_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004102",
+      "skeleton": "Char004102",
+      "sample": "Char004102_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004102",
+      "skeleton": "Char004102",
+      "sample": "Char004102_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004102",
+      "skeleton": "Char004102",
+      "sample": "Char004102_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004192",
+      "skeleton": "Char004192",
+      "sample": "Char004192_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004192",
+      "skeleton": "Char004192",
+      "sample": "Char004192_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004192",
+      "skeleton": "Char004192",
+      "sample": "Char004192_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004301",
+      "skeleton": "Char004301",
+      "sample": "Char004301_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004301",
+      "skeleton": "Char004301",
+      "sample": "Char004301_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004301",
+      "skeleton": "Char004301",
+      "sample": "Char004301_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004302",
+      "skeleton": "Char004302",
+      "sample": "Char004302_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004302",
+      "skeleton": "Char004302",
+      "sample": "Char004302_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "004302",
+      "skeleton": "Char004302",
+      "sample": "Char004302_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021001",
+      "skeleton": "Char021001",
+      "sample": "Char021001_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021001",
+      "skeleton": "Char021001",
+      "sample": "Char021001_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021001",
+      "skeleton": "Char021001",
+      "sample": "Char021001_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021101",
+      "skeleton": "Char021101",
+      "sample": "Char021101_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021101",
+      "skeleton": "Char021101",
+      "sample": "Char021101_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021101",
+      "skeleton": "Char021101",
+      "sample": "Char021101_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021201",
+      "skeleton": "Char021201",
+      "sample": "Char021201_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021201",
+      "skeleton": "Char021201",
+      "sample": "Char021201_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021201",
+      "skeleton": "Char021201",
+      "sample": "Char021201_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021291",
+      "skeleton": "Char021291",
+      "sample": "Char021291_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021291",
+      "skeleton": "Char021291",
+      "sample": "Char021291_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021291",
+      "skeleton": "Char021291",
+      "sample": "Char021291_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021301",
+      "skeleton": "Char021301",
+      "sample": "Char021301_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021301",
+      "skeleton": "Char021301",
+      "sample": "Char021301_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021301",
+      "skeleton": "Char021301",
+      "sample": "Char021301_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021391",
+      "skeleton": "Char021391",
+      "sample": "Char021391_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021391",
+      "skeleton": "Char021391",
+      "sample": "Char021391_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "021391",
+      "skeleton": "Char021391",
+      "sample": "Char021391_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067201",
+      "skeleton": "Char067201",
+      "sample": "Char067201_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067201",
+      "skeleton": "Char067201",
+      "sample": "Char067201_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067201",
+      "skeleton": "Char067201",
+      "sample": "Char067201_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067202",
+      "skeleton": "Char067202",
+      "sample": "Char067202_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067202",
+      "skeleton": "Char067202",
+      "sample": "Char067202_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067202",
+      "skeleton": "Char067202",
+      "sample": "Char067202_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067901",
+      "skeleton": "Char067901",
+      "sample": "Char067901_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067901",
+      "skeleton": "Char067901",
+      "sample": "Char067901_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067901",
+      "skeleton": "Char067901",
+      "sample": "Char067901_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067902",
+      "skeleton": "Char067902",
+      "sample": "Char067902_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067902",
+      "skeleton": "Char067902",
+      "sample": "Char067902_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "067902",
+      "skeleton": "Char067902",
+      "sample": "Char067902_BattleReady_3"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "068001",
+      "skeleton": "Char068001",
+      "sample": "Char068001_BattleReady_1"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "068001",
+      "skeleton": "Char068001",
+      "sample": "Char068001_BattleReady_2"
+    },
+    {
+      "language": "ko-KR",
+      "costumeId": "068001",
+      "skeleton": "Char068001",
+      "sample": "Char068001_BattleReady_3"
+    }
+  ]
+}

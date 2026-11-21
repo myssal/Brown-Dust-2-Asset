@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "021201",
+  "visualSignature": "46fa362d840c53c8d4969270454171c8b50308143928bf082422ba48debe04b4",
+  "duration": 7.950000000000001,
+  "sourceTimeline": "Char021201",
+  "clips": [
+    {
+      "id": "beaab432-428f785d-6196048c-77d9892c-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char021201_Skill_CutScene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 5,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char021201_Skill_CutScene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "636f33fe-46417e39-77b9cfb7-03411898-1",
+      "event": "event:/Voices/Common/Char021201/Char021201_Cutscene1",
+      "kind": "voice",
+      "start": 0.36666666666666664,
+      "duration": 1.6,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/021201/Char021201_BattleSkill_1.wav"
+        ],
+        "ko-KR": []
+      }
+    },
+    {
+      "id": "70f1bd04-4ef45d74-f57a428b-94223f18-2",
+      "event": "event:/Voices/Common/Char021201/Char021201_Cutscene2",
+      "kind": "voice",
+      "start": 2.6,
+      "duration": 1.6,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/021201/Char021201_BattleSkill_2.wav"
+        ],
+        "ko-KR": []
+      }
+    },
+    {
+      "id": "2646d897-4c00272b-7ade0b91-b2b31546-3",
+      "event": "event:/Voices/Common/Char021201/Char021201_Cutscene3",
+      "kind": "voice",
+      "start": 5.55,
+      "duration": 1.6,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/021201/Char021201_BattleSkill_3.wav"
+        ],
+        "ko-KR": []
+      }
+    }
+  ]
+}

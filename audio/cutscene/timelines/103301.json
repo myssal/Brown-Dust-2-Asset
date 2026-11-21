@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "103301",
+  "visualSignature": "40a999de8bc5842e7c8e2d4f175736e4a74ac5d502948f533e7540fe8d369e29",
+  "duration": 2.4833335638046266,
+  "sourceTimeline": "Char103301",
+  "clips": [
+    {
+      "id": "bccc7621-49c4092a-614bac89-c7eb1c87-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char103301_Skill_CutScene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 2.5,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char103301_Skill_CutScene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "acef6906-48b9f683-9780e486-bdfa321a-1",
+      "event": "event:/Voices/Common/Char103301/Char103301_Cutscene1",
+      "kind": "voice",
+      "start": 0,
+      "duration": 0.08333333333333333,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/103301/Char103301_BattleSkill_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/103301/Char103301_BattleSkill_1.wav"
+        ]
+      }
+    },
+    {
+      "id": "e93f2206-4571242b-19a81c9a-6e6c88db-2",
+      "event": "event:/Voices/Common/Char103301/Char103301_Cutscene2",
+      "kind": "voice",
+      "start": 0.26666666666666666,
+      "duration": 0.08333333333333337,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/103301/Char103301_Pain_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/103301/Char103301_Pain_1.wav"
+        ]
+      }
+    },
+    {
+      "id": "7e5bea5d-4e94afde-7add13a3-edff39e1-3",
+      "event": "event:/Voices/Common/Char103301/Char103301_Cutscene3",
+      "kind": "voice",
+      "start": 1.35,
+      "duration": 0.08333333333333326,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/103301/Char103301_Cry_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/103301/Char103301_Cry_1.wav"
+        ]
+      }
+    }
+  ]
+}

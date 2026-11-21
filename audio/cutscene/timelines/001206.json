@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "001206",
+  "visualSignature": "cd9249840edade8cd3108a9da7953ee73f6015c820ed277a0d5692d3cd1b0f0b",
+  "duration": 4,
+  "sourceTimeline": "Char001206",
+  "clips": [
+    {
+      "id": "05af4ce5-48192b33-cb57ee8e-2199f43c-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char001206_Skill_Cutscene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 4,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char001206_Skill_Cutscene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "273dba5d-4043f2c4-b4708783-90c586eb-1",
+      "event": "event:/Voices/Common/Char001206/Char001206_Cutscene4",
+      "kind": "voice",
+      "start": 0.33,
+      "duration": 2,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/001206/Char001206_Surprise_1.wav"
+        ],
+        "ko-KR": []
+      }
+    },
+    {
+      "id": "d58f6211-4efd73a9-d5ea4890-d182278b-2",
+      "event": "event:/Voices/Common/Char001206/Char001206_Cutscene1",
+      "kind": "voice",
+      "start": 1.3333333333333333,
+      "duration": 2.0333336666666666,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/001206/Char001206_Cutscene1_1.wav"
+        ],
+        "ko-KR": []
+      }
+    },
+    {
+      "id": "b112db59-41010965-9f883597-4042a829-3",
+      "event": "event:/Voices/Common/Char001206/Char001206_Cutscene2",
+      "kind": "voice",
+      "start": 2.833333,
+      "duration": 0.5499999999999998,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/001206/Char001206_Cutscene1_2.wav"
+        ],
+        "ko-KR": []
+      }
+    }
+  ]
+}

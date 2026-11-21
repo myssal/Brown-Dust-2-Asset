@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "cutsceneId": "060701",
+  "visualSignature": "b1efa874b06254b744953e6060f02b9fb84130580bc4edf0dfd3ede0771f73cf",
+  "duration": 6.016666666666667,
+  "sourceTimeline": "Char060701",
+  "clips": [
+    {
+      "id": "a39dff3d-47b4021e-9d283c93-1e6eb53e-0",
+      "event": "event:/Characters/PC/BattleCutScene/Char060701_Skill_CutScene_01",
+      "kind": "sfx",
+      "start": 0,
+      "duration": 5,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "sfx": [
+          "sfx/Char060701_Skill_CutScene_01.wav"
+        ]
+      }
+    },
+    {
+      "id": "c6810f5c-46d03ea7-7c7f67b6-dee34bc6-1",
+      "event": "event:/Voices/Common/Char060701/Char060701_Cutscene1",
+      "kind": "voice",
+      "start": 2.3833333333333333,
+      "duration": 1.5499999999999998,
+      "offset": 0,
+      "speed": 1,
+      "volume": 1,
+      "stopMode": "none",
+      "fadeIn": 0,
+      "fadeOut": 0,
+      "files": {
+        "ja-JP": [
+          "ja-JP/060701/Char060701_BattleSkill_1.wav"
+        ],
+        "ko-KR": [
+          "ko-KR/060701/Char060701_BattleSkill_1.wav"
+        ]
+      }
+    }
+  ]
+}
